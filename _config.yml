@@ -20,7 +20,7 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: feflag # Required: will be displayed on every page's header
+name: fe.flag # Required: will be displayed on every page's header
 title: Charles # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 그렇게 긴 시간 동안에

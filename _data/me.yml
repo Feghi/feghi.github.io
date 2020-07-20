@@ -1,27 +1,27 @@
 # These data will be shown in /about page and every page footer
 # Replace these with your own personal info
 
-name: "YOUR NAME"
-job: "Job Title"
-hi: "HIYA!"
+name: "CHARLES CHEOLGI LEE"
+job: "Ph.D."
+hi: "SHALOM!"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
+  - "Georges Rouault, MISERERE (plate 46):"
+  -  “Le juste, comme le bois de santal, parfume la hache qui le frappe”
 skills:
   - name: "Programming"
     icon-class: "fa fa-terminal"
-    list: ["PHP", "Python", "Shell", "C", "SQL"]
+    list: ["Python", "R", "SQL"]
   - name: "Framework"
     icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
+    list: [""Flask"]
   - name: "Tools"
     icon-class: "fa fa-cogs"
-    list: ["Linux", "Docker", "Git", "SublimeText"]
+    list: ["Linux","Git"]
 
 display_name: "YOUR NAME"
 contact:
-  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
-  - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
+  - {name: "Email", icon-class: "fa fa-envelope", text: "rich0625@gmail.com", link: "mailto: rich0625@gmail.com"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com/feghi"}
+  - {name: "Instagram", icon-class: "fa fa-Instagram", text: "https://www.instagram.com/ironghi", link: "https://www.instagram.com/ironghi"}
