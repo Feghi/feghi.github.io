@@ -14,7 +14,7 @@ skills:
     list: ["Python", "R", "SQL"]
   - name: "Framework"
     icon-class: "fa fa-th-list"
-    list: [""Flask"]
+    list: ["Flask"]
   - name: "Tools"
     icon-class: "fa fa-cogs"
     list: ["Linux","Git"]
