@@ -25,7 +25,7 @@ title: Charles # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 그렇게 긴 시간 동안에
   - 우리는 단 한 번 죽는다 - Molière
-description: "Dangsan Runner" # Required
+description: Son of Sokcho # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment

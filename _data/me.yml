@@ -9,19 +9,23 @@ intro:
   - "Georges Rouault, MISERERE (plate 46):"
   -  “Le juste, comme le bois de santal, parfume la hache qui le frappe”
 skills:
-  - name: "Programming"
+  - name: "Language"
     icon-class: "fa fa-terminal"
     list: ["Python", "R", "SQL"]
+  - name: "Interest"
+    icon-class: "fa fa-book"
+    list: ["Graph Theory","Data Mining" ,"Deep Learning"]
+  - name: "Python Tools"
+    icon-class: "fa fa-cogs"
+    list: ["Pandas", "Numpy", "Matplotlib", "Scikit-learn", "Tensorflow", "Pytorch"]
   - name: "Framework"
     icon-class: "fa fa-th-list"
     list: ["Flask"]
-  - name: "Tools"
-    icon-class: "fa fa-cogs"
-    list: ["Linux","Git"]
 
-display_name: "YOUR NAME"
+display_name: "CHARLES"
 contact:
   - {name: "Email", icon-class: "fa fa-envelope", text: "rich0625@gmail.com", link: "mailto: rich0625@gmail.com"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com/feghi"}
-  - {name: "Instagram", icon-class: "fa fa-Instagram", text: "https://www.instagram.com/ironghi", link: "https://www.instagram.com/ironghi"}
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com/feghi", link: "https://github.com/feghi"}
+  - {name: "Instagram", icon-class: "fa fa-instagram", text: "https://www.instagram.com/ironghi", link: "https://www.instagram.com/ironghi"}
+  - {name: "Facebook", icon-class: "fa fa-facebook-square", text: "https://www.facebook.com/ironghi", link: "https://www.facebook.com/ironghi"}

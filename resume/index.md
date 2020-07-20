@@ -47,7 +47,7 @@ Skills
 ------
 **Programming:** Python, R, SQL
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Pytorch
 
 Awards
 ------
