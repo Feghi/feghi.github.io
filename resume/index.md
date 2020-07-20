@@ -2,7 +2,7 @@
 layout: post_bare
 ---
 
-# YOUR RESUME
+# MY RESUME
 
 Charles Cheolgi Lee
 ======
