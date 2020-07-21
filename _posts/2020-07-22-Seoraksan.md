@@ -19,7 +19,7 @@ Because It's there.
 
 그랬던 내가 지금은 이런 다람쥐가 되었다.
 
-![다람쥐]({{ `/assets/img/Picture Diary/daram.jpg` | relative_url }})
+![다람쥐](/assets/img/Picture Diary/daram.jpg)
 
 아니 맷돼지가 되었다.
 
@@ -29,14 +29,14 @@ Because It's there.
 
 ## 등산의 시작
 
-![Start]({{ `/assets/img/Picture Diary/202207221.jpg` | relative_url }})
+![Start](/assets/img/Picture Diary/202207221.jpg)
 
 첫걸음에 난 알았다. 내 몸은 글러 먹었다는 것을 몸은 이미 멀어졌지만 그래도 마음은 그 시절 날다람쥐를 기억하고 있었고 그 기억으로 한 걸을 한 걸음 앞으로 내디뎌 가며 정상으로 향했다.
 
 
 ## 등산 풍경
 
-![Mid]({{ `/assets/img/Picture Diary/202207223.jpg` | relative_url }})
+![Mid](/assets/img/Picture Diary/202207223.jpg)
 
 올라가는 길에 바라본 풍경 사진, 사진으로 다 담기지 않지만 이러한 풍경은 정말 그 위에서만 느낄 수 있는 자연의 웅장함을 느낄 수 있게 해준다.
 
@@ -44,17 +44,17 @@ Because It's there.
 
 ## 대청봉
 
-![Mid]({{ `/assets/img/Picture Diary/202207220.jpg` | relative_url }})
+![Mid](/assets/img/Picture Diary/202207220.jpg)
 
 1,708m 대청봉 설악에서 가장 높은 봉우리이다. 정말 좋은 사진을 찍고 싶은데 강한 바람과 지친 몸은 이를 허락지 않는다. 사진은 망했다. 정상에서 먹는 라면은 정말 맛있다. 이 라면 맛을 잊지 못해 산을 오른다고 해도 설득이 될 것 같다.
 
-![ramen]({{ `/assets/img/Picture Diary/R0011651.jpg` | relative_url }})
+![ramen](/assets/img/Picture Diary/R0011651.jpg)
 
 ## 하산
 
 내려오는 길이 우리 동네로 가는 길이다. 속초 쪽 설악산은 돌들이 많다. 대청봉도 예쁘지만 속초 명소는 뭐니뭐니해도 울산바위라고 생각한다. 아직 정상부근이라 나무들이 키가 작다.
 
-![end]({{ `/assets/img/Picture Diary/202207222.jpg` | relative_url }})
+![end](/assets/img/Picture Diary/202207222.jpg)
 
 ## 맺음말
 
