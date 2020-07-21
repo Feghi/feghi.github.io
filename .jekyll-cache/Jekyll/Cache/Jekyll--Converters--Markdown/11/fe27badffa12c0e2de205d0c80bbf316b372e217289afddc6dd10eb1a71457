@@ -1,12 +1,18 @@
-I"�
-<h1 id="my-resume">MY RESUME</h1>
-
+I"�
 <h1 id="charles-cheolgi-lee">Charles Cheolgi Lee</h1>
+<p>======</p>
 
-<h4 id="data-enthusiast-with-a-background-in-statistics-industrial-engineering-and-informatics">Data enthusiast with a background in statistics, industrial engineering, and informatics.</h4>
-<h6 id="-feghigithubio----rich0625gmailcom----802-461-3429-">[ <a href="http://feghi.github.io">feghi.github.io</a> ] . [ rich0625@gmail.com ] . [ 802 461 3429 ]</h6>
+<h2 id="bio">Bio</h2>
+
+<p><strong>Data enthusiast with a background in statistics, industrial engineering, and informatics.</strong></p>
+
+<p>[ <a href="http://feghi.github.io">feghi.github.io</a> ] . [ rich0625@gmail.com ]</p>
 
 <h2 id="education">Education</h2>
+<hr />
+
+<h3 id="university">University</h3>
+
 <p><strong>Ph.D. Industrial Engineering, Inha University</strong> (2012-2020)</p>
 
 <ul>
@@ -20,13 +26,13 @@
   <li>grade point, 3.48/4.5</li>
 </ul>
 
-<p><strong>KMOOCs</strong></p>
+<h3 id="kmoocs">KMOOCs</h3>
 
 <ul>
   <li>Artificial Intelligence and Machine Learning (KAIST, Alice Oh)</li>
 </ul>
 
-<p><strong>Coursera</strong></p>
+<h3 id="coursera">Coursera</h3>
 
 <ul>
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/ZFJYZ459L6UT">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a> (Stanford, Andrew Ng)</li>
@@ -35,6 +41,7 @@
 </ul>
 
 <h2 id="experience">Experience</h2>
+<hr />
 <p><strong>Teaching professor, Inha University</strong> (2020-present)</p>
 
 <ul>
@@ -48,11 +55,13 @@
 </ul>
 
 <h2 id="skills">Skills</h2>
+<hr />
 <p><strong>Programming:</strong> Python, R, SQL</p>
 
 <p><strong>Python SciPy Tools:</strong> Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Pytorch</p>
 
 <h2 id="awards">Awards</h2>
+<hr />
 <ul>
   <li><strong>Best Paper Award</strong>, ‘Union-find 그래프 인덱싱을 이용한 서브 시퀀스 매칭’ 한국정보과학회 (2018)</li>
   <li><strong>Best Paper Award</strong>, ‘재현율 기반 효과적 평가척도에 관한 연구칭’ 한국정보과학회 (2016)</li>
