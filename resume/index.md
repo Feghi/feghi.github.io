@@ -2,17 +2,20 @@
 layout: post_bare
 ---
 
-# MY RESUME
-
-Charles Cheolgi Lee
+# Charles Cheolgi Lee
 ======
 
-####  Data enthusiast with a background in statistics, industrial engineering, and informatics.
-###### [ [feghi.github.io](http://feghi.github.io) ] . [ rich0625@gmail.com ] . [ 802 461 3429 ]
+## Bio
 
+**Data enthusiast with a background in statistics, industrial engineering, and informatics.**
 
-Education
+[ [feghi.github.io](http://feghi.github.io) ] . [ rich0625@gmail.com ]
+
+## Education
 ---------
+
+### University
+
 **Ph.D. Industrial Engineering, Inha University** (2012-2020)
 
 - grade point, 4.33/4.5
@@ -22,18 +25,18 @@ Education
 
 - grade point, 3.48/4.5
 
-**KMOOCs**
+### KMOOCs
 
 - Artificial Intelligence and Machine Learning (KAIST, Alice Oh)
 
-**Coursera**
+### Coursera
 
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/ZFJYZ459L6UT) (Stanford, Andrew Ng)
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/MXYSPKJKVKKH) (Stanford, Andrew Ng)
 - [Neural Networks and Deep Learning](
 https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stanford, Andrew Ng)
 
-Experience
+## Experience
 ---------
 **Teaching professor, Inha University** (2020-present)
 
@@ -43,13 +46,13 @@ Experience
 
 - I am researching Voice AI as a postdoctoral course at VOICE AI Research Center at Inha University.
 
-Skills
+## Skills
 ------
 **Programming:** Python, R, SQL
 
 **Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Pytorch
 
-Awards
+## Awards
 ------
 - **Best Paper Award**, 'Union-find 그래프 인덱싱을 이용한 서브 시퀀스 매칭' 한국정보과학회 (2018)
 - **Best Paper Award**, '재현율 기반 효과적 평가척도에 관한 연구칭' 한국정보과학회 (2016)
