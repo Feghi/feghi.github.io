@@ -21,6 +21,6 @@ tags: [그림일기]
 
 지하철 안에서
 
-![subway]({{ `/assets/img/Picture Diary/20200721.jpg` | relative_url }})
+![20200721](https://user-images.githubusercontent.com/48311488/88259896-3f101700-ccfe-11ea-997b-949bb472a52d.jpg)
 
 `2020. 7. 21. 오전 10:44`
