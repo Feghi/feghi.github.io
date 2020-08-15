@@ -5,8 +5,6 @@ tags: [사진일기]
 
 # 바라보는 것들
 
-# 연구실
-
 ```
 Like all great travellers, I have seen more than I remember, 
 and remember more than I have seen.
