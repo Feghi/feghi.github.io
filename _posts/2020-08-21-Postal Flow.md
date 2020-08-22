@@ -1,6 +1,6 @@
 ---
 category: paper_review
-tags: [논문 리뷰, 우편]
+tags: [논문리뷰, 우편]
 ---
 
 # Information Related to Postal Flows and Big Data Analysis Potential, The Case of Spain
