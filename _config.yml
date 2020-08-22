@@ -35,7 +35,7 @@ google_analytics:
   id: "" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
-  Wise saying:
+  Wise_saying:
     output: true
 
 defaults:
