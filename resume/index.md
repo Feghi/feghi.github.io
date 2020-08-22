@@ -38,13 +38,17 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 
 ## Experience
 ---------
-**Teaching professor, Inha University** (2020-present)
+**Researcher, Korea Postal Service Agency.** (2020.07-present)
+
+- Postal Innovation Research Team
+
+**Teaching professor, Inha University** (2020.03-2020.07)
 
 - Teach 'SW programming', The R and Python languages were taught to graduate students.
 
-**Postdoctoral researcher, VOICE AI LAB.** (2020-present)
+**Postdoctoral researcher, VOICE AI LAB.** (2020.03-2020.07)
 
-- I am researching Voice AI as a postdoctoral course at VOICE AI Research Center at Inha University.
+- Researching Voice AI as a postdoctoral course at VOICE AI Research Center at Inha University.
 
 ## Skills
 ------
