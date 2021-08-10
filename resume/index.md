@@ -26,7 +26,7 @@ layout: post_bare
 - grade point, 3.48/4.5
 
 ### Publication
-[Google scholar profile](https://scholar.google.com/citations?user=RPNKDrYAAAAJ&hl=ko)
+- [Google scholar profile](https://scholar.google.com/citations?user=RPNKDrYAAAAJ&hl=ko)
 
 ### KMOOCs
 
