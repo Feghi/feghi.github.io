@@ -19,6 +19,7 @@ layout: post_bare
 **Ph.D. Industrial Engineering, Inha University** (2012-2020)
 
 - grade point, 4.33/4.5
+
 - Thesis : [Equilibrium for Topic-aware Model and Network Weight Estimation Using Deep learning](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=bab5b7793a6b31c3ffe0bdc3ef48d419)
 
 **B.S. in Statistics(Dual degree : Industrial Engineering), Inha University** (2006-2012)
@@ -41,9 +42,13 @@ layout: post_bare
 - DEA 에 의한 할리우드 영화 효율성 분석 및 이를 응용한 영화 분류 시스템, 정보화연구(2016)
 
 - 인천 광역시 기상 데이터를 통해 살펴 본 기후와 대기오염물질 관계 분석, 정보화연구(2015)
+
+
 - 특허 분석을 통한 2D to 3D 영상 데이터 변환 기술 동향 연구, 정보화연구(2014)
+
 - 특허 선행기술 동향 및 서비스전략: 스마트폰 무선충전기술 중심으로, 정보화연구(2013)
-- 정량적 소프트웨어 능력성숙도모델 도입전략 및 사례, 정보화연구(2013)
+
+s- 정량적 소프트웨어 능력성숙도모델 도입전략 및 사례, 정보화연구(2013)
 
 **International Conference** 
 
@@ -93,7 +98,9 @@ layout: post_bare
 ### Coursera
 
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/ZFJYZ459L6UT) (Stanford, Andrew Ng)
+
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/MXYSPKJKVKKH) (Stanford, Andrew Ng)
+
 - [Neural Networks and Deep Learning](
 https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stanford, Andrew Ng)
 
@@ -120,5 +127,7 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 ## Awards
 ------
 - **Best Paper Award**, 'Union-find 그래프 인덱싱을 이용한 서브 시퀀스 매칭' 한국정보과학회 (2018)
+
 - **Best Paper Award**, '재현율 기반 효과적 평가척도에 관한 연구칭' 한국정보과학회 (2016)
+
 - **우수상**, 	"A2: 듀얼카메라 기술에 대한 특허맵 작성" 캠퍼스 특허전략 유니버시아드 (2016)
