@@ -6,7 +6,7 @@
 
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">collections</span><span class="pi">:</span>
   <span class="na">tutorial</span><span class="pi">:</span>
-    <span class="na">output</span><span class="pi">:</span> <span class="no">true</span>
+    <span class="na">output</span><span class="pi">:</span> <span class="kc">true</span>
 </code></pre></div></div>
 
 <ol>
