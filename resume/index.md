@@ -31,11 +31,14 @@ layout: post_bare
 
 **SCI** 
 
+- A bitwise approach on influence overload problem, Data & Knowledge Engineering(2024)
+
 - Graph threshold algorithm, The Journal of Supercomputing(2021)
 
 - Effective privacy preserving data publishing by vectorization, Information Sciences(2020)
 
 **KCI** 
+- 소포 하차업무 지원을 위한 협동 로봇 적용 연구, 로봇학회논문지(2023)
 
 - 메타 경로를 이용한 지식 재산 데이터의 유사도 분석, 정보화연구(2018)
 
@@ -106,6 +109,10 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 
 ## Experience
 ---------
+**Visiting Professor, Inha University.** (2023.09-present)
+
+- Graduate School of Engineering
+
 **Researcher, Korea Postal Service Agency.** (2020.07-present)
 
 - Postal Innovation Research Team
