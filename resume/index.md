@@ -138,3 +138,5 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 - **Best Paper Award**, '재현율 기반 효과적 평가척도에 관한 연구칭' 한국정보과학회 (2016)
 
 - **우수상**, 	"A2: 듀얼카메라 기술에 대한 특허맵 작성" 캠퍼스 특허전략 유니버시아드 (2016)
+
+- **장관 표창**, 우정사업 정보화 유공 과학기술정보통신부 장관 표창 (2024)
