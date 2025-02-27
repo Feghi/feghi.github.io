@@ -35,7 +35,7 @@ google_analytics:
   id: "UA-176070257-1" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
-  Wise_saying:
+  Hannah_bada:
     output: true
 
 defaults:
