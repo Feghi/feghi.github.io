@@ -24,7 +24,7 @@ tags: [이해나, 어린이집, 알림장]
 주간교육계획안은 월요일에 보내드리겠습니다.
 
 ## Attached Images
-![2025년01년10일-산호반-이해나-6702192564.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년10일-산호반-이해나-6702192564.jpg)
+![2025년01년10일-산호반-이해나-6702192564.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년10일-산호반-이해나-6702192564.jpg)
 
-![2025년01년10일-산호반-이해나-6702192565.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년10일-산호반-이해나-6702192565.jpg)
+![2025년01년10일-산호반-이해나-6702192565.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년10일-산호반-이해나-6702192565.jpg)
 

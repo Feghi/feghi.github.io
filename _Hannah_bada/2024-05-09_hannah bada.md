@@ -22,17 +22,17 @@ tags: [이해나, 어린이집, 알림장]
 내일은 모래놀이 갑니다. 9시30분까지 등원시켜 주시기 바랍니다.^^
 
 ## Attached Images
-![2024년05년09일-산호반-이해나-5562330075.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5562330075.jpg)
+![2024년05년09일-산호반-이해나-5562330075.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5562330075.jpg)
 
-![2024년05년09일-산호반-이해나-5562330078.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5562330078.jpg)
+![2024년05년09일-산호반-이해나-5562330078.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5562330078.jpg)
 
-![2024년05년09일-산호반-이해나-5562330080.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5562330080.jpg)
+![2024년05년09일-산호반-이해나-5562330080.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5562330080.jpg)
 
-![2024년05년09일-산호반-이해나-5562330083.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5562330083.jpg)
+![2024년05년09일-산호반-이해나-5562330083.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5562330083.jpg)
 
-![2024년05년09일-산호반-이해나-5563525804.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5563525804.jpg)
+![2024년05년09일-산호반-이해나-5563525804.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5563525804.jpg)
 
-![2024년05년09일-산호반-이해나-5563525805.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5563525805.jpg)
+![2024년05년09일-산호반-이해나-5563525805.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5563525805.jpg)
 
-![2024년05년09일-산호반-이해나-5563525806.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년09일-산호반-이해나-5563525806.jpg)
+![2024년05년09일-산호반-이해나-5563525806.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5563525806.jpg)
 

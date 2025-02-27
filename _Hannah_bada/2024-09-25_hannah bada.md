@@ -16,9 +16,9 @@ tags: [이해나, 어린이집, 알림장]
 어린이집에서도 배변훈련은 시간 맞춰 잘 하고 있습니다.  가끔 하기 싫다고 할때가 있습니다.
 
 ## Attached Images
-![2024년09년25일-산호반-이해나-6186218847.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년25일-산호반-이해나-6186218847.jpg)
+![2024년09년25일-산호반-이해나-6186218847.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년25일-산호반-이해나-6186218847.jpg)
 
-![2024년09년25일-산호반-이해나-6186218848.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년25일-산호반-이해나-6186218848.jpg)
+![2024년09년25일-산호반-이해나-6186218848.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년25일-산호반-이해나-6186218848.jpg)
 
-![2024년09년25일-산호반-이해나-6186218850.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년25일-산호반-이해나-6186218850.jpg)
+![2024년09년25일-산호반-이해나-6186218850.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년25일-산호반-이해나-6186218850.jpg)
 

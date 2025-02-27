@@ -22,11 +22,11 @@ tags: [이해나, 어린이집, 알림장]
 아버님께서 금요일에 고모가 하원지도 하신다고 하셨습니다. 귀가 동의서 보내주세요^^
 
 ## Attached Images
-![2024년08년14일-산호반-이해나-5991136159.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년14일-산호반-이해나-5991136159.jpg)
+![2024년08년14일-산호반-이해나-5991136159.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년14일-산호반-이해나-5991136159.jpg)
 
-![2024년08년14일-산호반-이해나-5991136160.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년14일-산호반-이해나-5991136160.jpg)
+![2024년08년14일-산호반-이해나-5991136160.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년14일-산호반-이해나-5991136160.jpg)
 
-![2024년08년14일-산호반-이해나-5991136161.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년14일-산호반-이해나-5991136161.jpg)
+![2024년08년14일-산호반-이해나-5991136161.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년14일-산호반-이해나-5991136161.jpg)
 
-![2024년08년14일-산호반-이해나-5991136162.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년14일-산호반-이해나-5991136162.jpg)
+![2024년08년14일-산호반-이해나-5991136162.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년14일-산호반-이해나-5991136162.jpg)
 

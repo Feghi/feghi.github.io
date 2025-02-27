@@ -20,7 +20,7 @@ tags: [이해나, 어린이집, 알림장]
 맑은 콧물이 나오는데  열이 나지 않고 컨디션도 좋았습니다.
 
 ## Attached Images
-![2024년10년18일-산호반-이해나-6292842367.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년18일-산호반-이해나-6292842367.jpg)
+![2024년10년18일-산호반-이해나-6292842367.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년18일-산호반-이해나-6292842367.jpg)
 
-![2024년10년18일-산호반-이해나-6292842369.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년18일-산호반-이해나-6292842369.jpg)
+![2024년10년18일-산호반-이해나-6292842369.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년18일-산호반-이해나-6292842369.jpg)
 

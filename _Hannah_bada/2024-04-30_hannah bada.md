@@ -32,11 +32,11 @@ tags: [이해나, 어린이집, 알림장]
 ☆  내일 5월 1일은 근로자의 날입니다. 해나랑 즐거운 시간 보내시고, 목요일에 뵙겠습니다.
 
 ## Attached Images
-![2024년04년30일-산호반-이해나-5523815405.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년30일-산호반-이해나-5523815405.jpg)
+![2024년04년30일-산호반-이해나-5523815405.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년30일-산호반-이해나-5523815405.jpg)
 
-![2024년04년30일-산호반-이해나-5523815406.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년30일-산호반-이해나-5523815406.jpg)
+![2024년04년30일-산호반-이해나-5523815406.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년30일-산호반-이해나-5523815406.jpg)
 
-![2024년04년30일-산호반-이해나-5523815407.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년30일-산호반-이해나-5523815407.jpg)
+![2024년04년30일-산호반-이해나-5523815407.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년30일-산호반-이해나-5523815407.jpg)
 
-![2024년04년30일-산호반-이해나-5524804169.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년30일-산호반-이해나-5524804169.jpg)
+![2024년04년30일-산호반-이해나-5524804169.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년30일-산호반-이해나-5524804169.jpg)
 

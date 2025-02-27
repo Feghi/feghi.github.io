@@ -24,11 +24,11 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 오전에 해나 입술에 상처를 못봤는데, 오르프시간에 보니, 상처가 보였습니다. 친구들이랑 부딪치거나 다치지는 않았습니다. 해나가 아랫입술을 윗입술로 누르는 모습이 보였는데 그래서 그런건지 지켜봐 주세요^^
 
 ## Attached Images
-![2025년02년25일-산호반-이해나-6901911065.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년25일-산호반-이해나-6901911065.jpg)
+![2025년02년25일-산호반-이해나-6901911065.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년25일-산호반-이해나-6901911065.jpg)
 
-![2025년02년25일-산호반-이해나-6901911067.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년25일-산호반-이해나-6901911067.jpg)
+![2025년02년25일-산호반-이해나-6901911067.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년25일-산호반-이해나-6901911067.jpg)
 
-![2025년02년25일-산호반-이해나-6901911069.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년25일-산호반-이해나-6901911069.jpg)
+![2025년02년25일-산호반-이해나-6901911069.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년25일-산호반-이해나-6901911069.jpg)
 
-![2025년02년25일-산호반-이해나-6901911071.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년25일-산호반-이해나-6901911071.jpg)
+![2025년02년25일-산호반-이해나-6901911071.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년25일-산호반-이해나-6901911071.jpg)
 

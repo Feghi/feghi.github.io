@@ -26,13 +26,13 @@ tags: [이해나, 어린이집, 알림장]
 해나 맑은 콧물이 조금 나옵니다.
 
 ## Attached Images
-![2024년06년11일-산호반-이해나-5705082538.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년11일-산호반-이해나-5705082538.jpg)
+![2024년06년11일-산호반-이해나-5705082538.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082538.jpg)
 
-![2024년06년11일-산호반-이해나-5705082540.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년11일-산호반-이해나-5705082540.jpg)
+![2024년06년11일-산호반-이해나-5705082540.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082540.jpg)
 
-![2024년06년11일-산호반-이해나-5705082543.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년11일-산호반-이해나-5705082543.jpg)
+![2024년06년11일-산호반-이해나-5705082543.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082543.jpg)
 
-![2024년06년11일-산호반-이해나-5705082546.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년11일-산호반-이해나-5705082546.jpg)
+![2024년06년11일-산호반-이해나-5705082546.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082546.jpg)
 
-![2024년06년11일-산호반-이해나-5705082548.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년11일-산호반-이해나-5705082548.jpg)
+![2024년06년11일-산호반-이해나-5705082548.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082548.jpg)
 

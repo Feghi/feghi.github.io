@@ -30,7 +30,7 @@ tags: [이해나, 어린이집, 알림장]
 식목일에 심은 강낭콩 보내드립니다. 해나랑 키워보시기 바랍니다
 
 ## Attached Images
-![2024년04년19일-산호반-이해나-5476074951.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년19일-산호반-이해나-5476074951.jpg)
+![2024년04년19일-산호반-이해나-5476074951.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년19일-산호반-이해나-5476074951.jpg)
 
-![2024년04년19일-산호반-이해나-5477445777.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년19일-산호반-이해나-5477445777.jpg)
+![2024년04년19일-산호반-이해나-5477445777.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년19일-산호반-이해나-5477445777.jpg)
 

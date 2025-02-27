@@ -16,13 +16,13 @@ tags: [이해나, 어린이집, 알림장]
 해나   키:91.9cm, 몸무게 13.1kg 입니다
 
 ## Attached Images
-![2024년08년20일-산호반-이해나-6010722799.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년20일-산호반-이해나-6010722799.jpg)
+![2024년08년20일-산호반-이해나-6010722799.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722799.jpg)
 
-![2024년08년20일-산호반-이해나-6010722800.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년20일-산호반-이해나-6010722800.jpg)
+![2024년08년20일-산호반-이해나-6010722800.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722800.jpg)
 
-![2024년08년20일-산호반-이해나-6010722801.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년20일-산호반-이해나-6010722801.jpg)
+![2024년08년20일-산호반-이해나-6010722801.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722801.jpg)
 
-![2024년08년20일-산호반-이해나-6010722802.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년20일-산호반-이해나-6010722802.jpg)
+![2024년08년20일-산호반-이해나-6010722802.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722802.jpg)
 
-![2024년08년20일-산호반-이해나-6010722803.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년20일-산호반-이해나-6010722803.jpg)
+![2024년08년20일-산호반-이해나-6010722803.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722803.jpg)
 

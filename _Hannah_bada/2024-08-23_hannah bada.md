@@ -26,13 +26,13 @@ tags: [이해나, 어린이집, 알림장]
 오후에는 안한다고 해서 기저귀에 쉬했습니다.
 
 ## Attached Images
-![2024년08년23일-산호반-이해나-6031007325.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년23일-산호반-이해나-6031007325.jpg)
+![2024년08년23일-산호반-이해나-6031007325.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007325.jpg)
 
-![2024년08년23일-산호반-이해나-6031007326.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년23일-산호반-이해나-6031007326.jpg)
+![2024년08년23일-산호반-이해나-6031007326.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007326.jpg)
 
-![2024년08년23일-산호반-이해나-6031007327.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년23일-산호반-이해나-6031007327.jpg)
+![2024년08년23일-산호반-이해나-6031007327.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007327.jpg)
 
-![2024년08년23일-산호반-이해나-6031007328.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년23일-산호반-이해나-6031007328.jpg)
+![2024년08년23일-산호반-이해나-6031007328.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007328.jpg)
 
-![2024년08년23일-산호반-이해나-6031007329.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년23일-산호반-이해나-6031007329.jpg)
+![2024년08년23일-산호반-이해나-6031007329.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007329.jpg)
 

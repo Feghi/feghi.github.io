@@ -16,17 +16,17 @@ tags: [이해나, 어린이집, 알림장]
 12월 9일에 못한 체육특별활동 보강수업은  12월 26일 목요일에 진행합니다.
 
 ## Attached Images
-![2024년12년24일-산호반-이해나-6653340566.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340566.jpg)
+![2024년12년24일-산호반-이해나-6653340566.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340566.jpg)
 
-![2024년12년24일-산호반-이해나-6653340567.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340567.jpg)
+![2024년12년24일-산호반-이해나-6653340567.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340567.jpg)
 
-![2024년12년24일-산호반-이해나-6653340568.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340568.jpg)
+![2024년12년24일-산호반-이해나-6653340568.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340568.jpg)
 
-![2024년12년24일-산호반-이해나-6653340569.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340569.jpg)
+![2024년12년24일-산호반-이해나-6653340569.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340569.jpg)
 
-![2024년12년24일-산호반-이해나-6653340570.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340570.jpg)
+![2024년12년24일-산호반-이해나-6653340570.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340570.jpg)
 
-![2024년12년24일-산호반-이해나-6653340571.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340571.jpg)
+![2024년12년24일-산호반-이해나-6653340571.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340571.jpg)
 
-![2024년12년24일-산호반-이해나-6653340572.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년24일-산호반-이해나-6653340572.jpg)
+![2024년12년24일-산호반-이해나-6653340572.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340572.jpg)
 

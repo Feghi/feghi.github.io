@@ -22,9 +22,9 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나 칫솔 보내주세요^^
 
 ## Attached Images
-![2024년07년05일-산호반-이해나-5829467669.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년05일-산호반-이해나-5829467669.jpg)
+![2024년07년05일-산호반-이해나-5829467669.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년05일-산호반-이해나-5829467669.jpg)
 
-![2024년07년05일-산호반-이해나-5829467674.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년05일-산호반-이해나-5829467674.jpg)
+![2024년07년05일-산호반-이해나-5829467674.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년05일-산호반-이해나-5829467674.jpg)
 
-![2024년07년05일-산호반-이해나-5829467678.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년05일-산호반-이해나-5829467678.jpg)
+![2024년07년05일-산호반-이해나-5829467678.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년05일-산호반-이해나-5829467678.jpg)
 

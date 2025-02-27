@@ -18,7 +18,7 @@ tags: [이해나, 어린이집, 알림장]
 양치질하고 기분 좋게 하원했습니다.
 
 ## Attached Images
-![2024년03년25일-산호반-이해나-5358970232.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년25일-산호반-이해나-5358970232.jpg)
+![2024년03년25일-산호반-이해나-5358970232.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년25일-산호반-이해나-5358970232.jpg)
 
-![2024년03년25일-산호반-이해나-5359028073.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년25일-산호반-이해나-5359028073.jpg)
+![2024년03년25일-산호반-이해나-5359028073.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년25일-산호반-이해나-5359028073.jpg)
 

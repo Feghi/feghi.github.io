@@ -18,11 +18,11 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나가 자기 이름을 찾을수 있어요~~ 가정에서 이름 찾기 놀이 해보세요^^
 
 ## Attached Images
-![2024년12년03일-산호반-이해나-6536277231.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년03일-산호반-이해나-6536277231.jpg)
+![2024년12년03일-산호반-이해나-6536277231.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년03일-산호반-이해나-6536277231.jpg)
 
-![2024년12년03일-산호반-이해나-6536277232.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년03일-산호반-이해나-6536277232.jpg)
+![2024년12년03일-산호반-이해나-6536277232.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년03일-산호반-이해나-6536277232.jpg)
 
-![2024년12년03일-산호반-이해나-6536277233.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년03일-산호반-이해나-6536277233.jpg)
+![2024년12년03일-산호반-이해나-6536277233.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년03일-산호반-이해나-6536277233.jpg)
 
-![2024년12년03일-산호반-이해나-6536277234.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년03일-산호반-이해나-6536277234.jpg)
+![2024년12년03일-산호반-이해나-6536277234.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년03일-산호반-이해나-6536277234.jpg)
 

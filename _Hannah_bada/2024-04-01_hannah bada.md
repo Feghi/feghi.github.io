@@ -31,7 +31,7 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~해나 누런 콧물이 나옵니다.  지켜보시기 바랍니다.
 
 ## Attached Images
-![2024년04년01일-산호반-이해나-5392202172.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년01일-산호반-이해나-5392202172.jpg)
+![2024년04년01일-산호반-이해나-5392202172.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년01일-산호반-이해나-5392202172.jpg)
 
-![2024년04년01일-산호반-이해나-5392202173.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년01일-산호반-이해나-5392202173.jpg)
+![2024년04년01일-산호반-이해나-5392202173.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년01일-산호반-이해나-5392202173.jpg)
 

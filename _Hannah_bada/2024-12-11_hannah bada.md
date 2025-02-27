@@ -15,7 +15,7 @@ tags: [이해나, 어린이집, 알림장]
 낮잠자고 일어나 오후간식 잘 먹고 하원했습니다.
 
 ## Attached Images
-![2024년12년11일-산호반-이해나-6582698466.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년11일-산호반-이해나-6582698466.jpg)
+![2024년12년11일-산호반-이해나-6582698466.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년11일-산호반-이해나-6582698466.jpg)
 
-![2024년12년11일-산호반-이해나-6582698467.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년11일-산호반-이해나-6582698467.jpg)
+![2024년12년11일-산호반-이해나-6582698467.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년11일-산호반-이해나-6582698467.jpg)
 

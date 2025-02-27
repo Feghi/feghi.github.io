@@ -26,9 +26,9 @@ tags: [이해나, 어린이집, 알림장]
 어머니~ 늦어서 죄송합니다
 
 ## Attached Images
-![2025년02년14일-산호반-이해나-6856152575.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년14일-산호반-이해나-6856152575.jpg)
+![2025년02년14일-산호반-이해나-6856152575.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년14일-산호반-이해나-6856152575.jpg)
 
-![2025년02년14일-산호반-이해나-6856152576.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년14일-산호반-이해나-6856152576.jpg)
+![2025년02년14일-산호반-이해나-6856152576.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년14일-산호반-이해나-6856152576.jpg)
 
-![2025년02년14일-산호반-이해나-6856152577.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년14일-산호반-이해나-6856152577.jpg)
+![2025년02년14일-산호반-이해나-6856152577.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년14일-산호반-이해나-6856152577.jpg)
 

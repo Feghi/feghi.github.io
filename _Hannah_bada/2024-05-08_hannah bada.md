@@ -20,9 +20,9 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~삔은 확인후 연락드리겠습니다.
 
 ## Attached Images
-![2024년05년08일-산호반-이해나-5555676716.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년08일-산호반-이해나-5555676716.jpg)
+![2024년05년08일-산호반-이해나-5555676716.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년08일-산호반-이해나-5555676716.jpg)
 
-![2024년05년08일-산호반-이해나-5555676717.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년08일-산호반-이해나-5555676717.jpg)
+![2024년05년08일-산호반-이해나-5555676717.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년08일-산호반-이해나-5555676717.jpg)
 
-![2024년05년08일-산호반-이해나-5555676718.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년08일-산호반-이해나-5555676718.jpg)
+![2024년05년08일-산호반-이해나-5555676718.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년08일-산호반-이해나-5555676718.jpg)
 

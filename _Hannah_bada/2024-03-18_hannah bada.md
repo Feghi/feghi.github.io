@@ -21,5 +21,5 @@ tags: [이해나, 어린이집, 알림장]
 24년 필요경비 안내문 보내드립니다.
 
 ## Attached Images
-![2024년03년18일-산호반-이해나-5327971351.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년18일-산호반-이해나-5327971351.jpg)
+![2024년03년18일-산호반-이해나-5327971351.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년18일-산호반-이해나-5327971351.jpg)
 

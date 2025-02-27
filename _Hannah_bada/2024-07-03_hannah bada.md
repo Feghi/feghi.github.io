@@ -16,9 +16,9 @@ tags: [이해나, 어린이집, 알림장]
 낮잠시간에 피곤한지 바로 잠들고, 오후간식 잘 먹고, 통합시간에 친구들과 퍼즐 맞추기 하다가 하원했습니다.
 
 ## Attached Images
-![2024년07년03일-산호반-이해나-5815445083.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년03일-산호반-이해나-5815445083.jpg)
+![2024년07년03일-산호반-이해나-5815445083.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년03일-산호반-이해나-5815445083.jpg)
 
-![2024년07년03일-산호반-이해나-5815445084.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년03일-산호반-이해나-5815445084.jpg)
+![2024년07년03일-산호반-이해나-5815445084.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년03일-산호반-이해나-5815445084.jpg)
 
-![2024년07년03일-산호반-이해나-5815445085.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년03일-산호반-이해나-5815445085.jpg)
+![2024년07년03일-산호반-이해나-5815445085.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년03일-산호반-이해나-5815445085.jpg)
 

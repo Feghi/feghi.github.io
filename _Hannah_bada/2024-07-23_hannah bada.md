@@ -16,7 +16,7 @@ tags: [이해나, 어린이집, 알림장]
 *기저귀 보내주세요.
 
 ## Attached Images
-![2024년07년23일-산호반-이해나-5916213512.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년23일-산호반-이해나-5916213512.jpg)
+![2024년07년23일-산호반-이해나-5916213512.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년23일-산호반-이해나-5916213512.jpg)
 
-![2024년07년23일-산호반-이해나-5916213513.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년23일-산호반-이해나-5916213513.jpg)
+![2024년07년23일-산호반-이해나-5916213513.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년23일-산호반-이해나-5916213513.jpg)
 

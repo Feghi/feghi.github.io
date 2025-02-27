@@ -24,11 +24,11 @@ tags: [이해나, 어린이집, 알림장]
 2학기 용 물티슈 2개, 칫솔  보내주세요^^
 
 ## Attached Images
-![2024년09년06일-산호반-이해나-6105036192.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년06일-산호반-이해나-6105036192.jpg)
+![2024년09년06일-산호반-이해나-6105036192.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년06일-산호반-이해나-6105036192.jpg)
 
-![2024년09년06일-산호반-이해나-6105036194.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년06일-산호반-이해나-6105036194.jpg)
+![2024년09년06일-산호반-이해나-6105036194.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년06일-산호반-이해나-6105036194.jpg)
 
-![2024년09년06일-산호반-이해나-6105036196.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년06일-산호반-이해나-6105036196.jpg)
+![2024년09년06일-산호반-이해나-6105036196.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년06일-산호반-이해나-6105036196.jpg)
 
-![2024년09년06일-산호반-이해나-6105036198.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년06일-산호반-이해나-6105036198.jpg)
+![2024년09년06일-산호반-이해나-6105036198.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년06일-산호반-이해나-6105036198.jpg)
 

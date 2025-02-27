@@ -20,15 +20,15 @@ tags: [이해나, 어린이집, 알림장]
 어머니~해나 오늘 변기 배변훈련 다 성공했습니다. 하원후 배변훈련 해주시기 바랍니다.^^
 
 ## Attached Images
-![2024년08년27일-산호반-이해나-6046177869.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년27일-산호반-이해나-6046177869.jpg)
+![2024년08년27일-산호반-이해나-6046177869.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년27일-산호반-이해나-6046177869.jpg)
 
-![2024년08년27일-산호반-이해나-6046177870.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년27일-산호반-이해나-6046177870.jpg)
+![2024년08년27일-산호반-이해나-6046177870.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년27일-산호반-이해나-6046177870.jpg)
 
-![2024년08년27일-산호반-이해나-6046177871.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년27일-산호반-이해나-6046177871.jpg)
+![2024년08년27일-산호반-이해나-6046177871.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년27일-산호반-이해나-6046177871.jpg)
 
-![2024년08년27일-산호반-이해나-6046177872.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년27일-산호반-이해나-6046177872.jpg)
+![2024년08년27일-산호반-이해나-6046177872.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년27일-산호반-이해나-6046177872.jpg)
 
-![2024년08년27일-산호반-이해나-6046177873.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년27일-산호반-이해나-6046177873.jpg)
+![2024년08년27일-산호반-이해나-6046177873.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년27일-산호반-이해나-6046177873.jpg)
 
-![2024년08년27일-산호반-이해나-6048430937.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년27일-산호반-이해나-6048430937.jpg)
+![2024년08년27일-산호반-이해나-6048430937.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년27일-산호반-이해나-6048430937.jpg)
 

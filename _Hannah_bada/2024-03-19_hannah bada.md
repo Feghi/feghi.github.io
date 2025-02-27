@@ -16,9 +16,9 @@ tags: [이해나, 어린이집, 알림장]
 어머니~ 오늘 미술활동을 해서 옷에 물감이나 아이클레이가 뭍어 있을수 있습니다
 
 ## Attached Images
-![2024년03년19일-산호반-이해나-5333136738.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년19일-산호반-이해나-5333136738.jpg)
+![2024년03년19일-산호반-이해나-5333136738.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년19일-산호반-이해나-5333136738.jpg)
 
-![2024년03년19일-산호반-이해나-5333136739.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년19일-산호반-이해나-5333136739.jpg)
+![2024년03년19일-산호반-이해나-5333136739.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년19일-산호반-이해나-5333136739.jpg)
 
-![2024년03년19일-산호반-이해나-5333136740.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년19일-산호반-이해나-5333136740.jpg)
+![2024년03년19일-산호반-이해나-5333136740.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년19일-산호반-이해나-5333136740.jpg)
 

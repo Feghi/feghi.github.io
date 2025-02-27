@@ -24,7 +24,7 @@ tags: [이해나, 어린이집, 알림장]
 어머니~ 해나랑 즐거운 주말 보내세요^^
 
 ## Attached Images
-![2024년04년26일-산호반-이해나-5508788751.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년26일-산호반-이해나-5508788751.jpg)
+![2024년04년26일-산호반-이해나-5508788751.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년26일-산호반-이해나-5508788751.jpg)
 
-![2024년04년26일-산호반-이해나-5508788754.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년26일-산호반-이해나-5508788754.jpg)
+![2024년04년26일-산호반-이해나-5508788754.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년26일-산호반-이해나-5508788754.jpg)
 

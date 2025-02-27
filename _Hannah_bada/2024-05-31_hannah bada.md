@@ -31,11 +31,11 @@ tags: [이해나, 어린이집, 알림장]
  보내드립니다. 참고하시기 바랍니다
 
 ## Attached Images
-![2024년05년31일-산호반-이해나-5665049312.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년31일-산호반-이해나-5665049312.jpg)
+![2024년05년31일-산호반-이해나-5665049312.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년31일-산호반-이해나-5665049312.jpg)
 
-![2024년05년31일-산호반-이해나-5665049313.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년31일-산호반-이해나-5665049313.jpg)
+![2024년05년31일-산호반-이해나-5665049313.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년31일-산호반-이해나-5665049313.jpg)
 
-![2024년05년31일-산호반-이해나-5665049314.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년31일-산호반-이해나-5665049314.jpg)
+![2024년05년31일-산호반-이해나-5665049314.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년31일-산호반-이해나-5665049314.jpg)
 
-![2024년05년31일-산호반-이해나-5665049315.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년31일-산호반-이해나-5665049315.jpg)
+![2024년05년31일-산호반-이해나-5665049315.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년31일-산호반-이해나-5665049315.jpg)
 

@@ -20,9 +20,9 @@ tags: [이해나, 어린이집, 알림장]
 여벌옷이랑 남은 치약, 로션 보내드립니다.
 
 ## Attached Images
-![2025년02년26일-산호반-이해나-6905026164.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년26일-산호반-이해나-6905026164.jpg)
+![2025년02년26일-산호반-이해나-6905026164.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년26일-산호반-이해나-6905026164.jpg)
 
-![2025년02년26일-산호반-이해나-6905026165.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년26일-산호반-이해나-6905026165.jpg)
+![2025년02년26일-산호반-이해나-6905026165.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년26일-산호반-이해나-6905026165.jpg)
 
-![2025년02년26일-산호반-이해나-6905026166.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년26일-산호반-이해나-6905026166.jpg)
+![2025년02년26일-산호반-이해나-6905026166.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년26일-산호반-이해나-6905026166.jpg)
 

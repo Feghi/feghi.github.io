@@ -21,9 +21,9 @@ tags: [이해나, 어린이집, 알림장]
 오늘 해나 변기에 다 성공했습니다. 주말동안 팬티 입히고 배변훈련 해주시면 될것 같습니다.
 
 ## Attached Images
-![2024년09년27일-산호반-이해나-6200441771.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년27일-산호반-이해나-6200441771.jpg)
+![2024년09년27일-산호반-이해나-6200441771.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년27일-산호반-이해나-6200441771.jpg)
 
-![2024년09년27일-산호반-이해나-6200441772.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년27일-산호반-이해나-6200441772.jpg)
+![2024년09년27일-산호반-이해나-6200441772.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년27일-산호반-이해나-6200441772.jpg)
 
-![2024년09년27일-산호반-이해나-6200441773.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년27일-산호반-이해나-6200441773.jpg)
+![2024년09년27일-산호반-이해나-6200441773.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년27일-산호반-이해나-6200441773.jpg)
 

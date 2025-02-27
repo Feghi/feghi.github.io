@@ -22,11 +22,11 @@ tags: [이해나, 어린이집, 알림장]
 5시10분에 마지막 배변훈련했습니다.
 
 ## Attached Images
-![2024년10년28일-산호반-이해나-6337610665.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년28일-산호반-이해나-6337610665.jpg)
+![2024년10년28일-산호반-이해나-6337610665.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년28일-산호반-이해나-6337610665.jpg)
 
-![2024년10년28일-산호반-이해나-6337610667.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년28일-산호반-이해나-6337610667.jpg)
+![2024년10년28일-산호반-이해나-6337610667.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년28일-산호반-이해나-6337610667.jpg)
 
-![2024년10년28일-산호반-이해나-6337610669.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년28일-산호반-이해나-6337610669.jpg)
+![2024년10년28일-산호반-이해나-6337610669.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년28일-산호반-이해나-6337610669.jpg)
 
-![2024년10년28일-산호반-이해나-6337610671.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년28일-산호반-이해나-6337610671.jpg)
+![2024년10년28일-산호반-이해나-6337610671.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년28일-산호반-이해나-6337610671.jpg)
 

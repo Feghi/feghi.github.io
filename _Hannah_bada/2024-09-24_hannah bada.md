@@ -18,15 +18,15 @@ tags: [이해나, 어린이집, 알림장]
 어린이집에서 2시간 간격으로 배변훈련 잘하고 있습니다.
 
 ## Attached Images
-![2024년09년24일-산호반-이해나-6179502356.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년24일-산호반-이해나-6179502356.jpg)
+![2024년09년24일-산호반-이해나-6179502356.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년24일-산호반-이해나-6179502356.jpg)
 
-![2024년09년24일-산호반-이해나-6179502357.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년24일-산호반-이해나-6179502357.jpg)
+![2024년09년24일-산호반-이해나-6179502357.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년24일-산호반-이해나-6179502357.jpg)
 
-![2024년09년24일-산호반-이해나-6179502358.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년24일-산호반-이해나-6179502358.jpg)
+![2024년09년24일-산호반-이해나-6179502358.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년24일-산호반-이해나-6179502358.jpg)
 
-![2024년09년24일-산호반-이해나-6179502359.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년24일-산호반-이해나-6179502359.jpg)
+![2024년09년24일-산호반-이해나-6179502359.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년24일-산호반-이해나-6179502359.jpg)
 
-![2024년09년24일-산호반-이해나-6179502360.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년24일-산호반-이해나-6179502360.jpg)
+![2024년09년24일-산호반-이해나-6179502360.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년24일-산호반-이해나-6179502360.jpg)
 
-![2024년09년24일-산호반-이해나-6179502361.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년24일-산호반-이해나-6179502361.jpg)
+![2024년09년24일-산호반-이해나-6179502361.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년24일-산호반-이해나-6179502361.jpg)
 

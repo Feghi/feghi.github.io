@@ -14,9 +14,9 @@ tags: [이해나, 어린이집, 알림장]
 5시10분정도에 쉬했습니다. 7시에 배변훈련 해주시면됩니다.
 
 ## Attached Images
-![2024년09년11일-산호반-이해나-6125298087.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년11일-산호반-이해나-6125298087.jpg)
+![2024년09년11일-산호반-이해나-6125298087.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년11일-산호반-이해나-6125298087.jpg)
 
-![2024년09년11일-산호반-이해나-6125298089.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년11일-산호반-이해나-6125298089.jpg)
+![2024년09년11일-산호반-이해나-6125298089.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년11일-산호반-이해나-6125298089.jpg)
 
-![2024년09년11일-산호반-이해나-6125298091.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년11일-산호반-이해나-6125298091.jpg)
+![2024년09년11일-산호반-이해나-6125298091.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년11일-산호반-이해나-6125298091.jpg)
 

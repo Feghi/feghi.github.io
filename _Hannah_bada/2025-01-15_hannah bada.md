@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 부모교육 1부, 작품사진전 만족도 조사서 1부 보내드립니다. 체크 후 원으로 보내주시기 바랍니다.
 
 ## Attached Images
-![2025년01년15일-산호반-이해나-6722250781.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년15일-산호반-이해나-6722250781.jpg)
+![2025년01년15일-산호반-이해나-6722250781.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년15일-산호반-이해나-6722250781.jpg)
 
-![2025년01년15일-산호반-이해나-6722250782.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년15일-산호반-이해나-6722250782.jpg)
+![2025년01년15일-산호반-이해나-6722250782.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년15일-산호반-이해나-6722250782.jpg)
 
-![2025년01년15일-산호반-이해나-6722250783.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년15일-산호반-이해나-6722250783.jpg)
+![2025년01년15일-산호반-이해나-6722250783.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년15일-산호반-이해나-6722250783.jpg)
 

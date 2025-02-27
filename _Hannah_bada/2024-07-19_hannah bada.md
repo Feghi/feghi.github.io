@@ -22,9 +22,9 @@ tags: [이해나, 어린이집, 알림장]
 해나랑 즐거운 주말 보내세요^^
 
 ## Attached Images
-![2024년07년19일-산호반-이해나-5900382435.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년19일-산호반-이해나-5900382435.jpg)
+![2024년07년19일-산호반-이해나-5900382435.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년19일-산호반-이해나-5900382435.jpg)
 
-![2024년07년19일-산호반-이해나-5900382437.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년19일-산호반-이해나-5900382437.jpg)
+![2024년07년19일-산호반-이해나-5900382437.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년19일-산호반-이해나-5900382437.jpg)
 
-![2024년07년19일-산호반-이해나-5900382439.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년19일-산호반-이해나-5900382439.jpg)
+![2024년07년19일-산호반-이해나-5900382439.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년19일-산호반-이해나-5900382439.jpg)
 

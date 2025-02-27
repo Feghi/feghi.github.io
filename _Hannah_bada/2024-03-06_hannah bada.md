@@ -16,7 +16,7 @@ tags: [이해나, 어린이집, 알림장]
 오늘은 엄마가 안 보여도 조금만 찾는 모습이 보였습니다.  조금씩 적응하는 모습이 기특합니다.
 
 ## Attached Images
-![2024년03년06일-산호반-이해나-5284144412.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년06일-산호반-이해나-5284144412.jpg)
+![2024년03년06일-산호반-이해나-5284144412.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년06일-산호반-이해나-5284144412.jpg)
 
-![2024년03년06일-산호반-이해나-5284144413.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년06일-산호반-이해나-5284144413.jpg)
+![2024년03년06일-산호반-이해나-5284144413.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년06일-산호반-이해나-5284144413.jpg)
 

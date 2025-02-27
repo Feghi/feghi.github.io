@@ -18,5 +18,5 @@ tags: [이해나, 어린이집, 알림장]
 해나랑 즐거운 시간 보내시고 월요일에 뵙겠습니다.
 
 ## Attached Images
-![2024년08년01일-산호반-이해나-5944446884.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년01일-산호반-이해나-5944446884.jpg)
+![2024년08년01일-산호반-이해나-5944446884.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년01일-산호반-이해나-5944446884.jpg)
 

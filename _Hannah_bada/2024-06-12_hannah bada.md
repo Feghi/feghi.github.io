@@ -14,5 +14,5 @@ tags: [이해나, 어린이집, 알림장]
 우리 해나가 빨리 나았으면 좋겠습니다.
 
 ## Attached Images
-![2024년06년12일-산호반-이해나-5708674624.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년12일-산호반-이해나-5708674624.jpg)
+![2024년06년12일-산호반-이해나-5708674624.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년12일-산호반-이해나-5708674624.jpg)
 

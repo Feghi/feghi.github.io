@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 해나 왼쪽발 엄지발톱이 살짝 갈아져서 잘라달라고 해서 잘라주었습니다.  하원 후 확인해 보시기 바랍니다.
 
 ## Attached Images
-![2024년11년06일-산호반-이해나-6393399111.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년06일-산호반-이해나-6393399111.jpg)
+![2024년11년06일-산호반-이해나-6393399111.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년06일-산호반-이해나-6393399111.jpg)
 
-![2024년11년06일-산호반-이해나-6393399112.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년06일-산호반-이해나-6393399112.jpg)
+![2024년11년06일-산호반-이해나-6393399112.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년06일-산호반-이해나-6393399112.jpg)
 
-![2024년11년06일-산호반-이해나-6393399113.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년06일-산호반-이해나-6393399113.jpg)
+![2024년11년06일-산호반-이해나-6393399113.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년06일-산호반-이해나-6393399113.jpg)
 

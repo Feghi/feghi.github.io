@@ -21,13 +21,13 @@ tags: [이해나, 어린이집, 알림장]
 15시 변기, 17시 30분 기저귀에 쉬했습니다. 하원시 19시30분에 배변훈련 해주세요^^
 
 ## Attached Images
-![2024년08년19일-산호반-이해나-6005355436.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년19일-산호반-이해나-6005355436.jpg)
+![2024년08년19일-산호반-이해나-6005355436.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년19일-산호반-이해나-6005355436.jpg)
 
-![2024년08년19일-산호반-이해나-6005355437.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년19일-산호반-이해나-6005355437.jpg)
+![2024년08년19일-산호반-이해나-6005355437.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년19일-산호반-이해나-6005355437.jpg)
 
-![2024년08년19일-산호반-이해나-6005355438.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년19일-산호반-이해나-6005355438.jpg)
+![2024년08년19일-산호반-이해나-6005355438.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년19일-산호반-이해나-6005355438.jpg)
 
-![2024년08년19일-산호반-이해나-6008000934.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년19일-산호반-이해나-6008000934.jpg)
+![2024년08년19일-산호반-이해나-6008000934.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년19일-산호반-이해나-6008000934.jpg)
 
-![2024년08년19일-산호반-이해나-6008000935.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년19일-산호반-이해나-6008000935.jpg)
+![2024년08년19일-산호반-이해나-6008000935.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년19일-산호반-이해나-6008000935.jpg)
 

@@ -20,13 +20,13 @@ tags: [이해나, 어린이집, 알림장]
 내일 오르프 특별활동은 5주로 휴강합니다. 참고하시기 바랍니다.
 
 ## Attached Images
-![2024년07년29일-산호반-이해나-5940905878.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년29일-산호반-이해나-5940905878.jpg)
+![2024년07년29일-산호반-이해나-5940905878.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905878.jpg)
 
-![2024년07년29일-산호반-이해나-5940905879.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년29일-산호반-이해나-5940905879.jpg)
+![2024년07년29일-산호반-이해나-5940905879.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905879.jpg)
 
-![2024년07년29일-산호반-이해나-5940905880.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년29일-산호반-이해나-5940905880.jpg)
+![2024년07년29일-산호반-이해나-5940905880.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905880.jpg)
 
-![2024년07년29일-산호반-이해나-5940905881.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년29일-산호반-이해나-5940905881.jpg)
+![2024년07년29일-산호반-이해나-5940905881.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905881.jpg)
 
-![2024년07년29일-산호반-이해나-5940905882.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년29일-산호반-이해나-5940905882.jpg)
+![2024년07년29일-산호반-이해나-5940905882.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905882.jpg)
 

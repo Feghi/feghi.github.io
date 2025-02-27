@@ -20,11 +20,11 @@ tags: [이해나, 어린이집, 알림장]
 오후간식이 바지에 뭍어서 여벌바지로 갈아입혔습니다. 여벌바지 보내주세요^^
 
 ## Attached Images
-![2024년05년21일-산호반-이해나-5611699372.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년21일-산호반-이해나-5611699372.jpg)
+![2024년05년21일-산호반-이해나-5611699372.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년21일-산호반-이해나-5611699372.jpg)
 
-![2024년05년21일-산호반-이해나-5611699374.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년21일-산호반-이해나-5611699374.jpg)
+![2024년05년21일-산호반-이해나-5611699374.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년21일-산호반-이해나-5611699374.jpg)
 
-![2024년05년21일-산호반-이해나-5611699375.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년21일-산호반-이해나-5611699375.jpg)
+![2024년05년21일-산호반-이해나-5611699375.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년21일-산호반-이해나-5611699375.jpg)
 
-![2024년05년21일-산호반-이해나-5611699376.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년21일-산호반-이해나-5611699376.jpg)
+![2024년05년21일-산호반-이해나-5611699376.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년21일-산호반-이해나-5611699376.jpg)
 

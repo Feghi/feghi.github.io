@@ -20,11 +20,11 @@ tags: [이해나, 어린이집, 알림장]
 혹시 몰라서 열체크 했는데 37.2도에 37.4도 정도 유지했습니다.
 
 ## Attached Images
-![2025년01년07일-산호반-이해나-6680575148.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년07일-산호반-이해나-6680575148.jpg)
+![2025년01년07일-산호반-이해나-6680575148.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년07일-산호반-이해나-6680575148.jpg)
 
-![2025년01년07일-산호반-이해나-6680641547.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년07일-산호반-이해나-6680641547.jpg)
+![2025년01년07일-산호반-이해나-6680641547.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년07일-산호반-이해나-6680641547.jpg)
 
-![2025년01년07일-산호반-이해나-6680641548.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년07일-산호반-이해나-6680641548.jpg)
+![2025년01년07일-산호반-이해나-6680641548.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년07일-산호반-이해나-6680641548.jpg)
 
-![2025년01년07일-산호반-이해나-6680641549.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년07일-산호반-이해나-6680641549.jpg)
+![2025년01년07일-산호반-이해나-6680641549.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년07일-산호반-이해나-6680641549.jpg)
 

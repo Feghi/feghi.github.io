@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 월요일은 산타잔치 합니다.
 
 ## Attached Images
-![2024년12년20일-산호반-이해나-6633301649.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년20일-산호반-이해나-6633301649.jpg)
+![2024년12년20일-산호반-이해나-6633301649.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년20일-산호반-이해나-6633301649.jpg)
 
-![2024년12년20일-산호반-이해나-6633301650.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년20일-산호반-이해나-6633301650.jpg)
+![2024년12년20일-산호반-이해나-6633301650.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년20일-산호반-이해나-6633301650.jpg)
 
-![2024년12년20일-산호반-이해나-6633301651.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년20일-산호반-이해나-6633301651.jpg)
+![2024년12년20일-산호반-이해나-6633301651.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년20일-산호반-이해나-6633301651.jpg)
 

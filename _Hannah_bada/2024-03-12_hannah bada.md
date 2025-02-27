@@ -16,9 +16,9 @@ tags: [이해나, 어린이집, 알림장]
 오늘도 신나게 놀고 기분 좋게 하원했습니다.
 
 ## Attached Images
-![2024년03년12일-산호반-이해나-5303885973.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년12일-산호반-이해나-5303885973.jpg)
+![2024년03년12일-산호반-이해나-5303885973.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년12일-산호반-이해나-5303885973.jpg)
 
-![2024년03년12일-산호반-이해나-5303885974.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년12일-산호반-이해나-5303885974.jpg)
+![2024년03년12일-산호반-이해나-5303885974.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년12일-산호반-이해나-5303885974.jpg)
 
-![2024년03년12일-산호반-이해나-5303885975.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년12일-산호반-이해나-5303885975.jpg)
+![2024년03년12일-산호반-이해나-5303885975.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년12일-산호반-이해나-5303885975.jpg)
 

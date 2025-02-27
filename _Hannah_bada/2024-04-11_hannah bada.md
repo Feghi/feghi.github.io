@@ -22,7 +22,7 @@ tags: [이해나, 어린이집, 알림장]
 해나 누런 콧물이 조금 나옵니다. 하원후 지켜 보시기 바랍니다.
 
 ## Attached Images
-![2024년04년11일-산호반-이해나-5438781390.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년11일-산호반-이해나-5438781390.jpg)
+![2024년04년11일-산호반-이해나-5438781390.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년11일-산호반-이해나-5438781390.jpg)
 
-![2024년04년11일-산호반-이해나-5438781391.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년11일-산호반-이해나-5438781391.jpg)
+![2024년04년11일-산호반-이해나-5438781391.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년11일-산호반-이해나-5438781391.jpg)
 

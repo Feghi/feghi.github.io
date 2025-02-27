@@ -26,11 +26,11 @@ tags: [이해나, 어린이집, 알림장]
 낮잠 자고 일어나 오후간식 먹고, 하원했습니다.
 
 ## Attached Images
-![2024년06년19일-산호반-이해나-5748745677.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년19일-산호반-이해나-5748745677.jpg)
+![2024년06년19일-산호반-이해나-5748745677.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년19일-산호반-이해나-5748745677.jpg)
 
-![2024년06년19일-산호반-이해나-5748745678.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년19일-산호반-이해나-5748745678.jpg)
+![2024년06년19일-산호반-이해나-5748745678.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년19일-산호반-이해나-5748745678.jpg)
 
-![2024년06년19일-산호반-이해나-5748745679.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년19일-산호반-이해나-5748745679.jpg)
+![2024년06년19일-산호반-이해나-5748745679.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년19일-산호반-이해나-5748745679.jpg)
 
-![2024년06년19일-산호반-이해나-5748745680.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년19일-산호반-이해나-5748745680.jpg)
+![2024년06년19일-산호반-이해나-5748745680.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년19일-산호반-이해나-5748745680.jpg)
 

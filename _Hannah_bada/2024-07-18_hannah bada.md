@@ -21,9 +21,9 @@ tags: [이해나, 어린이집, 알림장]
 오후간식 잘 먹고 하원했습니다
 
 ## Attached Images
-![2024년07년18일-산호반-이해나-5896286509.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년18일-산호반-이해나-5896286509.jpg)
+![2024년07년18일-산호반-이해나-5896286509.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년18일-산호반-이해나-5896286509.jpg)
 
-![2024년07년18일-산호반-이해나-5896286510.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년18일-산호반-이해나-5896286510.jpg)
+![2024년07년18일-산호반-이해나-5896286510.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년18일-산호반-이해나-5896286510.jpg)
 
-![2024년07년18일-산호반-이해나-5896286511.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년18일-산호반-이해나-5896286511.jpg)
+![2024년07년18일-산호반-이해나-5896286511.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년18일-산호반-이해나-5896286511.jpg)
 

@@ -22,13 +22,13 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~기저귀  보내주세요^^
 
 ## Attached Images
-![2024년07년02일-산호반-이해나-5808832823.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년02일-산호반-이해나-5808832823.jpg)
+![2024년07년02일-산호반-이해나-5808832823.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832823.jpg)
 
-![2024년07년02일-산호반-이해나-5808832826.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년02일-산호반-이해나-5808832826.jpg)
+![2024년07년02일-산호반-이해나-5808832826.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832826.jpg)
 
-![2024년07년02일-산호반-이해나-5808832828.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년02일-산호반-이해나-5808832828.jpg)
+![2024년07년02일-산호반-이해나-5808832828.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832828.jpg)
 
-![2024년07년02일-산호반-이해나-5808832830.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년02일-산호반-이해나-5808832830.jpg)
+![2024년07년02일-산호반-이해나-5808832830.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832830.jpg)
 
-![2024년07년02일-산호반-이해나-5808832832.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년02일-산호반-이해나-5808832832.jpg)
+![2024년07년02일-산호반-이해나-5808832832.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832832.jpg)
 

@@ -14,11 +14,11 @@ tags: [이해나, 어린이집, 알림장]
 내일은 키즈카페 갑니다. 9시30분까지 등원시켜 주시기 바랍니다.
 
 ## Attached Images
-![2024년08년07일-산호반-이해나-5957561822.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년07일-산호반-이해나-5957561822.jpg)
+![2024년08년07일-산호반-이해나-5957561822.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년07일-산호반-이해나-5957561822.jpg)
 
-![2024년08년07일-산호반-이해나-5957561823.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년07일-산호반-이해나-5957561823.jpg)
+![2024년08년07일-산호반-이해나-5957561823.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년07일-산호반-이해나-5957561823.jpg)
 
-![2024년08년07일-산호반-이해나-5957561825.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년07일-산호반-이해나-5957561825.jpg)
+![2024년08년07일-산호반-이해나-5957561825.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년07일-산호반-이해나-5957561825.jpg)
 
-![2024년08년07일-산호반-이해나-5957561827.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년07일-산호반-이해나-5957561827.jpg)
+![2024년08년07일-산호반-이해나-5957561827.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년07일-산호반-이해나-5957561827.jpg)
 

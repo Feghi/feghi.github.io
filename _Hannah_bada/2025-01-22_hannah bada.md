@@ -18,7 +18,7 @@ tags: [이해나, 어린이집, 알림장]
 어머니~ 해나 팬티  조금 젖어서 갈아입혔습니다. 여벌팬티 보내주세요^^
 
 ## Attached Images
-![2025년01년22일-산호반-이해나-6759212752.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년22일-산호반-이해나-6759212752.jpg)
+![2025년01년22일-산호반-이해나-6759212752.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년22일-산호반-이해나-6759212752.jpg)
 
-![2025년01년22일-산호반-이해나-6759212753.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년22일-산호반-이해나-6759212753.jpg)
+![2025년01년22일-산호반-이해나-6759212753.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년22일-산호반-이해나-6759212753.jpg)
 

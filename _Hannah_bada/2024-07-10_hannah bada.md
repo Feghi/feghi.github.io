@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 오후간식 고구마 엄청 많이 먹고 하원했습니다.
 
 ## Attached Images
-![2024년07년10일-산호반-이해나-5853783980.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년10일-산호반-이해나-5853783980.jpg)
+![2024년07년10일-산호반-이해나-5853783980.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년10일-산호반-이해나-5853783980.jpg)
 
-![2024년07년10일-산호반-이해나-5853783981.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년10일-산호반-이해나-5853783981.jpg)
+![2024년07년10일-산호반-이해나-5853783981.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년10일-산호반-이해나-5853783981.jpg)
 
-![2024년07년10일-산호반-이해나-5853783982.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년10일-산호반-이해나-5853783982.jpg)
+![2024년07년10일-산호반-이해나-5853783982.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년10일-산호반-이해나-5853783982.jpg)
 

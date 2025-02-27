@@ -20,7 +20,7 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나 양치질 안한다고 칫솔을 옷에 문질러서 오른쪽 빨쪽에 치약이 뭍어서 닦아 주었는데, 그래도 옷에 치약이 뭍은것 같아요^^ 너무 놀라지 마세요.
 
 ## Attached Images
-![2024년12년18일-산호반-이해나-6619730364.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년18일-산호반-이해나-6619730364.jpg)
+![2024년12년18일-산호반-이해나-6619730364.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년18일-산호반-이해나-6619730364.jpg)
 
-![2024년12년18일-산호반-이해나-6619730367.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년18일-산호반-이해나-6619730367.jpg)
+![2024년12년18일-산호반-이해나-6619730367.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년18일-산호반-이해나-6619730367.jpg)
 

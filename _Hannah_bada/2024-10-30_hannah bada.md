@@ -14,7 +14,7 @@ tags: [이해나, 어린이집, 알림장]
 ※10월 1일 대체 공휴일로 진행하지 못한 오르프 특별활동 수업을  11월 1일 금요일에  진행합니다. 참고하시기 바랍니다.♡
 
 ## Attached Images
-![2024년10년30일-산호반-이해나-6351389659.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년30일-산호반-이해나-6351389659.jpg)
+![2024년10년30일-산호반-이해나-6351389659.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년30일-산호반-이해나-6351389659.jpg)
 
-![2024년10년30일-산호반-이해나-6351389663.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년30일-산호반-이해나-6351389663.jpg)
+![2024년10년30일-산호반-이해나-6351389663.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년30일-산호반-이해나-6351389663.jpg)
 

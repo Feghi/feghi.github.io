@@ -22,11 +22,11 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~  해나랑 아빠랑 재활용품으로 만들기 부탁드립니다.
 
 ## Attached Images
-![2024년08년09일-산호반-이해나-5969390234.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년09일-산호반-이해나-5969390234.jpg)
+![2024년08년09일-산호반-이해나-5969390234.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년09일-산호반-이해나-5969390234.jpg)
 
-![2024년08년09일-산호반-이해나-5969390235.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년09일-산호반-이해나-5969390235.jpg)
+![2024년08년09일-산호반-이해나-5969390235.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년09일-산호반-이해나-5969390235.jpg)
 
-![2024년08년09일-산호반-이해나-5969390236.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년09일-산호반-이해나-5969390236.jpg)
+![2024년08년09일-산호반-이해나-5969390236.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년09일-산호반-이해나-5969390236.jpg)
 
-![2024년08년09일-산호반-이해나-5969390237.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년09일-산호반-이해나-5969390237.jpg)
+![2024년08년09일-산호반-이해나-5969390237.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년09일-산호반-이해나-5969390237.jpg)
 

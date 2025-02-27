@@ -21,13 +21,13 @@ tags: [이해나, 어린이집, 알림장]
 내일 요리활동 있습니다. 앞치마 보내주세요
 
 ## Attached Images
-![2025년02년17일-산호반-이해나-6863751269.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년17일-산호반-이해나-6863751269.jpg)
+![2025년02년17일-산호반-이해나-6863751269.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년17일-산호반-이해나-6863751269.jpg)
 
-![2025년02년17일-산호반-이해나-6863751270.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년17일-산호반-이해나-6863751270.jpg)
+![2025년02년17일-산호반-이해나-6863751270.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년17일-산호반-이해나-6863751270.jpg)
 
-![2025년02년17일-산호반-이해나-6863751271.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년17일-산호반-이해나-6863751271.jpg)
+![2025년02년17일-산호반-이해나-6863751271.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년17일-산호반-이해나-6863751271.jpg)
 
-![2025년02년17일-산호반-이해나-6863751272.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년17일-산호반-이해나-6863751272.jpg)
+![2025년02년17일-산호반-이해나-6863751272.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년17일-산호반-이해나-6863751272.jpg)
 
-![2025년02년17일-산호반-이해나-6863751273.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년17일-산호반-이해나-6863751273.jpg)
+![2025년02년17일-산호반-이해나-6863751273.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년17일-산호반-이해나-6863751273.jpg)
 

@@ -21,9 +21,9 @@ tags: [이해나, 어린이집, 알림장]
 10까지 원으로 오세요^^
 
 ## Attached Images
-![2024년04년04일-산호반-이해나-5410407254.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년04일-산호반-이해나-5410407254.jpg)
+![2024년04년04일-산호반-이해나-5410407254.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년04일-산호반-이해나-5410407254.jpg)
 
-![2024년04년04일-산호반-이해나-5410407255.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년04일-산호반-이해나-5410407255.jpg)
+![2024년04년04일-산호반-이해나-5410407255.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년04일-산호반-이해나-5410407255.jpg)
 
-![2024년04년04일-산호반-이해나-5410407256.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년04일-산호반-이해나-5410407256.jpg)
+![2024년04년04일-산호반-이해나-5410407256.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년04일-산호반-이해나-5410407256.jpg)
 

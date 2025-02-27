@@ -10,5 +10,5 @@ tags: [이해나, 어린이집, 알림장]
 어머니 해나 귀밑에 긁힌 자국이 있던데 혹시 아실까요?
 
 ## Attached Images
-![2024년10년16일-산호반-이해나-6270933427.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년16일-산호반-이해나-6270933427.jpg)
+![2024년10년16일-산호반-이해나-6270933427.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년16일-산호반-이해나-6270933427.jpg)
 

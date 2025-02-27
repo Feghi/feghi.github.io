@@ -16,9 +16,9 @@ tags: [이해나, 어린이집, 알림장]
 내일은 푸른숲 어린이집으로 모래놀이 갑니다.  편한신발 신고, 따뜻하게 옷입고. 9시30분까지 등원시켜 주시기 바랍니다.
 
 ## Attached Images
-![2024년11년07일-산호반-이해나-6400621852.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년07일-산호반-이해나-6400621852.jpg)
+![2024년11년07일-산호반-이해나-6400621852.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년07일-산호반-이해나-6400621852.jpg)
 
-![2024년11년07일-산호반-이해나-6400621853.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년07일-산호반-이해나-6400621853.jpg)
+![2024년11년07일-산호반-이해나-6400621853.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년07일-산호반-이해나-6400621853.jpg)
 
-![2024년11년07일-산호반-이해나-6400621854.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년07일-산호반-이해나-6400621854.jpg)
+![2024년11년07일-산호반-이해나-6400621854.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년07일-산호반-이해나-6400621854.jpg)
 

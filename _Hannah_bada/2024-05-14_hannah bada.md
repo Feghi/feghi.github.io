@@ -22,17 +22,17 @@ tags: [이해나, 어린이집, 알림장]
 내일은 석가탄신일 입니다. 해나랑 즐거운 시간 보내시고 목요일에 뵙겠습니다.^^
 
 ## Attached Images
-![2024년05년14일-산호반-이해나-5583170926.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170926.jpg)
+![2024년05년14일-산호반-이해나-5583170926.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170926.jpg)
 
-![2024년05년14일-산호반-이해나-5583170927.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170927.jpg)
+![2024년05년14일-산호반-이해나-5583170927.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170927.jpg)
 
-![2024년05년14일-산호반-이해나-5583170928.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170928.jpg)
+![2024년05년14일-산호반-이해나-5583170928.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170928.jpg)
 
-![2024년05년14일-산호반-이해나-5583170929.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170929.jpg)
+![2024년05년14일-산호반-이해나-5583170929.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170929.jpg)
 
-![2024년05년14일-산호반-이해나-5583170930.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170930.jpg)
+![2024년05년14일-산호반-이해나-5583170930.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170930.jpg)
 
-![2024년05년14일-산호반-이해나-5583170931.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170931.jpg)
+![2024년05년14일-산호반-이해나-5583170931.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170931.jpg)
 
-![2024년05년14일-산호반-이해나-5583170932.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년14일-산호반-이해나-5583170932.jpg)
+![2024년05년14일-산호반-이해나-5583170932.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년14일-산호반-이해나-5583170932.jpg)
 

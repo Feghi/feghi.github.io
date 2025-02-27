@@ -23,13 +23,13 @@ tags: [이해나, 어린이집, 알림장]
 썬크림 바르고, 편한 운동화 신고, 9시 20분까지 늦지 않게 등원시켜  주시기 바랍니다. 9시20분에 출발합니다.
 
 ## Attached Images
-![2024년06년18일-산호반-이해나-5740840358.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년18일-산호반-이해나-5740840358.jpg)
+![2024년06년18일-산호반-이해나-5740840358.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년18일-산호반-이해나-5740840358.jpg)
 
-![2024년06년18일-산호반-이해나-5740840360.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년18일-산호반-이해나-5740840360.jpg)
+![2024년06년18일-산호반-이해나-5740840360.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년18일-산호반-이해나-5740840360.jpg)
 
-![2024년06년18일-산호반-이해나-5740840361.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년18일-산호반-이해나-5740840361.jpg)
+![2024년06년18일-산호반-이해나-5740840361.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년18일-산호반-이해나-5740840361.jpg)
 
-![2024년06년18일-산호반-이해나-5740840362.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년18일-산호반-이해나-5740840362.jpg)
+![2024년06년18일-산호반-이해나-5740840362.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년18일-산호반-이해나-5740840362.jpg)
 
-![2024년06년18일-산호반-이해나-5740840363.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년18일-산호반-이해나-5740840363.jpg)
+![2024년06년18일-산호반-이해나-5740840363.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년18일-산호반-이해나-5740840363.jpg)
 

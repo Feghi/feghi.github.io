@@ -20,13 +20,13 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나 지양산 참석하시는 거죠? 체크가 안 돼있어서요.  다시 여쭈어 봅니다.
 
 ## Attached Images
-![2024년10년08일-산호반-이해나-6239292066.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년08일-산호반-이해나-6239292066.jpg)
+![2024년10년08일-산호반-이해나-6239292066.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292066.jpg)
 
-![2024년10년08일-산호반-이해나-6239292067.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년08일-산호반-이해나-6239292067.jpg)
+![2024년10년08일-산호반-이해나-6239292067.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292067.jpg)
 
-![2024년10년08일-산호반-이해나-6239292068.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년08일-산호반-이해나-6239292068.jpg)
+![2024년10년08일-산호반-이해나-6239292068.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292068.jpg)
 
-![2024년10년08일-산호반-이해나-6239292069.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년08일-산호반-이해나-6239292069.jpg)
+![2024년10년08일-산호반-이해나-6239292069.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292069.jpg)
 
-![2024년10년08일-산호반-이해나-6239292071.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년08일-산호반-이해나-6239292071.jpg)
+![2024년10년08일-산호반-이해나-6239292071.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292071.jpg)
 

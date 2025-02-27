@@ -15,9 +15,9 @@ tags: [이해나, 어린이집, 알림장]
 점심밥 닭살 새콤 볶음으로 잘 먹고,  오후간식도 잘 먹고 하원했습니다.
 
 ## Attached Images
-![2025년02년06일-산호반-이해나-6811545639.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년06일-산호반-이해나-6811545639.jpg)
+![2025년02년06일-산호반-이해나-6811545639.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년06일-산호반-이해나-6811545639.jpg)
 
-![2025년02년06일-산호반-이해나-6811545640.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년06일-산호반-이해나-6811545640.jpg)
+![2025년02년06일-산호반-이해나-6811545640.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년06일-산호반-이해나-6811545640.jpg)
 
-![2025년02년06일-산호반-이해나-6811545641.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년06일-산호반-이해나-6811545641.jpg)
+![2025년02년06일-산호반-이해나-6811545641.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년06일-산호반-이해나-6811545641.jpg)
 

@@ -18,11 +18,11 @@ tags: [이해나, 어린이집, 알림장]
 가정통신문 1부 나갑니다.
 
 ## Attached Images
-![2025년01년23일-산호반-이해나-6764316670.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년23일-산호반-이해나-6764316670.jpg)
+![2025년01년23일-산호반-이해나-6764316670.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년23일-산호반-이해나-6764316670.jpg)
 
-![2025년01년23일-산호반-이해나-6764316671.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년23일-산호반-이해나-6764316671.jpg)
+![2025년01년23일-산호반-이해나-6764316671.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년23일-산호반-이해나-6764316671.jpg)
 
-![2025년01년23일-산호반-이해나-6764316672.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년23일-산호반-이해나-6764316672.jpg)
+![2025년01년23일-산호반-이해나-6764316672.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년23일-산호반-이해나-6764316672.jpg)
 
-![2025년01년23일-산호반-이해나-6764316673.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년23일-산호반-이해나-6764316673.jpg)
+![2025년01년23일-산호반-이해나-6764316673.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년23일-산호반-이해나-6764316673.jpg)
 

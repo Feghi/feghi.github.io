@@ -22,7 +22,7 @@ tags: [이해나, 어린이집, 알림장]
 근로자의 날 수요조사서 나갑니다. 체크 후 원으로 보내주시기 바랍니다.
 
 ## Attached Images
-![2024년04년18일-산호반-이해나-5471450729.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년18일-산호반-이해나-5471450729.jpg)
+![2024년04년18일-산호반-이해나-5471450729.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년18일-산호반-이해나-5471450729.jpg)
 
-![2024년04년18일-산호반-이해나-5471450730.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년18일-산호반-이해나-5471450730.jpg)
+![2024년04년18일-산호반-이해나-5471450730.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년18일-산호반-이해나-5471450730.jpg)
 

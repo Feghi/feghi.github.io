@@ -20,13 +20,13 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나 양치질 하다가 옷이 젖어서 여벌옷으로 갈아입었습니다. 여벌 윗도리 보내주세요. 바지는 많이 있습니다.
 
 ## Attached Images
-![2024년11년04일-산호반-이해나-6377761517.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년04일-산호반-이해나-6377761517.jpg)
+![2024년11년04일-산호반-이해나-6377761517.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년04일-산호반-이해나-6377761517.jpg)
 
-![2024년11년04일-산호반-이해나-6377761518.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년04일-산호반-이해나-6377761518.jpg)
+![2024년11년04일-산호반-이해나-6377761518.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년04일-산호반-이해나-6377761518.jpg)
 
-![2024년11년04일-산호반-이해나-6377761519.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년04일-산호반-이해나-6377761519.jpg)
+![2024년11년04일-산호반-이해나-6377761519.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년04일-산호반-이해나-6377761519.jpg)
 
-![2024년11년04일-산호반-이해나-6377761521.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년04일-산호반-이해나-6377761521.jpg)
+![2024년11년04일-산호반-이해나-6377761521.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년04일-산호반-이해나-6377761521.jpg)
 
-![2024년11년04일-산호반-이해나-6377761522.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년04일-산호반-이해나-6377761522.jpg)
+![2024년11년04일-산호반-이해나-6377761522.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년04일-산호반-이해나-6377761522.jpg)
 

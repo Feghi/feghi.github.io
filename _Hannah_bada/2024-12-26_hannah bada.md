@@ -25,11 +25,11 @@ tags: [이해나, 어린이집, 알림장]
 3. 케이크 만들기 만족도 조사서 1부. 보내드립니다.  체크 후 원으로 보내주시기 바랍니다.
 
 ## Attached Images
-![2024년12년26일-산호반-이해나-6658843820.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년26일-산호반-이해나-6658843820.jpg)
+![2024년12년26일-산호반-이해나-6658843820.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년26일-산호반-이해나-6658843820.jpg)
 
-![2024년12년26일-산호반-이해나-6658843821.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년26일-산호반-이해나-6658843821.jpg)
+![2024년12년26일-산호반-이해나-6658843821.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년26일-산호반-이해나-6658843821.jpg)
 
-![2024년12년26일-산호반-이해나-6658843822.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년26일-산호반-이해나-6658843822.jpg)
+![2024년12년26일-산호반-이해나-6658843822.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년26일-산호반-이해나-6658843822.jpg)
 
-![2024년12년26일-산호반-이해나-6658843823.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년26일-산호반-이해나-6658843823.jpg)
+![2024년12년26일-산호반-이해나-6658843823.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년26일-산호반-이해나-6658843823.jpg)
 

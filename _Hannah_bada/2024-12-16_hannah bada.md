@@ -16,13 +16,13 @@ tags: [이해나, 어린이집, 알림장]
 점심밥 먹고, 체육특별활동시간에 "빌리보"에 올라가 중심 잡아보고, 팽이도 표현해 보았습니다. 소근육을 이용해 신나게 돌리며, 놀았습니다.
 
 ## Attached Images
-![2024년12년16일-산호반-이해나-6604242993.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년16일-산호반-이해나-6604242993.jpg)
+![2024년12년16일-산호반-이해나-6604242993.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604242993.jpg)
 
-![2024년12년16일-산호반-이해나-6604242996.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년16일-산호반-이해나-6604242996.jpg)
+![2024년12년16일-산호반-이해나-6604242996.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604242996.jpg)
 
-![2024년12년16일-산호반-이해나-6604243000.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년16일-산호반-이해나-6604243000.jpg)
+![2024년12년16일-산호반-이해나-6604243000.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604243000.jpg)
 
-![2024년12년16일-산호반-이해나-6604243008.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년16일-산호반-이해나-6604243008.jpg)
+![2024년12년16일-산호반-이해나-6604243008.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604243008.jpg)
 
-![2024년12년16일-산호반-이해나-6604285324.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년16일-산호반-이해나-6604285324.jpg)
+![2024년12년16일-산호반-이해나-6604285324.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604285324.jpg)
 

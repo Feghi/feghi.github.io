@@ -22,9 +22,9 @@ tags: [이해나, 어린이집, 알림장]
 가정통신문 2부, 부모교육 1부 보내드립니다.
 
 ## Attached Images
-![2025년01년02일-산호반-이해나-6668227016.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년02일-산호반-이해나-6668227016.jpg)
+![2025년01년02일-산호반-이해나-6668227016.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년02일-산호반-이해나-6668227016.jpg)
 
-![2025년01년02일-산호반-이해나-6668227017.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년02일-산호반-이해나-6668227017.jpg)
+![2025년01년02일-산호반-이해나-6668227017.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년02일-산호반-이해나-6668227017.jpg)
 
-![2025년01년02일-산호반-이해나-6668227018.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년02일-산호반-이해나-6668227018.jpg)
+![2025년01년02일-산호반-이해나-6668227018.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년02일-산호반-이해나-6668227018.jpg)
 

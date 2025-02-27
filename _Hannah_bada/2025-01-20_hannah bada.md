@@ -20,13 +20,13 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나 한복 보내주세요^^
 
 ## Attached Images
-![2025년01년20일-산호반-이해나-6742921846.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년20일-산호반-이해나-6742921846.jpg)
+![2025년01년20일-산호반-이해나-6742921846.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년20일-산호반-이해나-6742921846.jpg)
 
-![2025년01년20일-산호반-이해나-6742921847.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년20일-산호반-이해나-6742921847.jpg)
+![2025년01년20일-산호반-이해나-6742921847.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년20일-산호반-이해나-6742921847.jpg)
 
-![2025년01년20일-산호반-이해나-6742921848.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년20일-산호반-이해나-6742921848.jpg)
+![2025년01년20일-산호반-이해나-6742921848.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년20일-산호반-이해나-6742921848.jpg)
 
-![2025년01년20일-산호반-이해나-6742921849.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년20일-산호반-이해나-6742921849.jpg)
+![2025년01년20일-산호반-이해나-6742921849.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년20일-산호반-이해나-6742921849.jpg)
 
-![2025년01년20일-산호반-이해나-6742921850.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년20일-산호반-이해나-6742921850.jpg)
+![2025년01년20일-산호반-이해나-6742921850.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년20일-산호반-이해나-6742921850.jpg)
 

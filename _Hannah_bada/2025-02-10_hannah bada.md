@@ -27,9 +27,9 @@ tags: [이해나, 어린이집, 알림장]
 부모교육자료 보내드립니다
 
 ## Attached Images
-![2025년02년10일-산호반-이해나-6826199299.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년10일-산호반-이해나-6826199299.jpg)
+![2025년02년10일-산호반-이해나-6826199299.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년10일-산호반-이해나-6826199299.jpg)
 
-![2025년02년10일-산호반-이해나-6826199300.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년10일-산호반-이해나-6826199300.jpg)
+![2025년02년10일-산호반-이해나-6826199300.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년10일-산호반-이해나-6826199300.jpg)
 
-![2025년02년10일-산호반-이해나-6826199301.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년10일-산호반-이해나-6826199301.jpg)
+![2025년02년10일-산호반-이해나-6826199301.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년10일-산호반-이해나-6826199301.jpg)
 

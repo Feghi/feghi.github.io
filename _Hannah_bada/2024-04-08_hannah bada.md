@@ -24,9 +24,9 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 바깥놀이 나갈때 목도리를 안한다고 해서 안하고 나갔습니다. 혹시 목감기 때문에 목도리를 하는거면 등원시 목에 목수건을 해주시면 좋을것 같습니다.
 
 ## Attached Images
-![2024년04년08일-산호반-이해나-5424715787.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년08일-산호반-이해나-5424715787.jpg)
+![2024년04년08일-산호반-이해나-5424715787.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년08일-산호반-이해나-5424715787.jpg)
 
-![2024년04년08일-산호반-이해나-5424715789.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년08일-산호반-이해나-5424715789.jpg)
+![2024년04년08일-산호반-이해나-5424715789.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년08일-산호반-이해나-5424715789.jpg)
 
-![2024년04년08일-산호반-이해나-5424715791.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년08일-산호반-이해나-5424715791.jpg)
+![2024년04년08일-산호반-이해나-5424715791.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년08일-산호반-이해나-5424715791.jpg)
 

@@ -18,15 +18,15 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~내일 물놀이합니다. 방수기저귀,  타올 보내주세요. 여벌옷은 어린이집에 있습니다.
 
 ## Attached Images
-![2024년08년13일-산호반-이해나-5985924488.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년13일-산호반-이해나-5985924488.jpg)
+![2024년08년13일-산호반-이해나-5985924488.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924488.jpg)
 
-![2024년08년13일-산호반-이해나-5985924489.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년13일-산호반-이해나-5985924489.jpg)
+![2024년08년13일-산호반-이해나-5985924489.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924489.jpg)
 
-![2024년08년13일-산호반-이해나-5985924490.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년13일-산호반-이해나-5985924490.jpg)
+![2024년08년13일-산호반-이해나-5985924490.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924490.jpg)
 
-![2024년08년13일-산호반-이해나-5985924491.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년13일-산호반-이해나-5985924491.jpg)
+![2024년08년13일-산호반-이해나-5985924491.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924491.jpg)
 
-![2024년08년13일-산호반-이해나-5985924492.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년13일-산호반-이해나-5985924492.jpg)
+![2024년08년13일-산호반-이해나-5985924492.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924492.jpg)
 
-![2024년08년13일-산호반-이해나-5985924493.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년13일-산호반-이해나-5985924493.jpg)
+![2024년08년13일-산호반-이해나-5985924493.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924493.jpg)
 

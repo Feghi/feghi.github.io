@@ -20,11 +20,11 @@ tags: [이해나, 어린이집, 알림장]
 어머니~출근해서보니 해나 오른손 검지손가락 부위가 상처가 있던데, 혹시 아시는지요? 아버님은 모르시더라구요. 하원후 확인해 보시기 바랍니다.
 
 ## Attached Images
-![2025년02년24일-산호반-이해나-6897333012.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년24일-산호반-이해나-6897333012.jpg)
+![2025년02년24일-산호반-이해나-6897333012.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년24일-산호반-이해나-6897333012.jpg)
 
-![2025년02년24일-산호반-이해나-6897333013.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년24일-산호반-이해나-6897333013.jpg)
+![2025년02년24일-산호반-이해나-6897333013.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년24일-산호반-이해나-6897333013.jpg)
 
-![2025년02년24일-산호반-이해나-6897333014.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년24일-산호반-이해나-6897333014.jpg)
+![2025년02년24일-산호반-이해나-6897333014.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년24일-산호반-이해나-6897333014.jpg)
 
-![2025년02년24일-산호반-이해나-6897333015.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년24일-산호반-이해나-6897333015.jpg)
+![2025년02년24일-산호반-이해나-6897333015.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년24일-산호반-이해나-6897333015.jpg)
 

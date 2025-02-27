@@ -23,5 +23,5 @@ tags: [이해나, 어린이집, 알림장]
 늦지 않게 오시기 바랍니다.
 
 ## Attached Images
-![2024년04년15일-산호반-이해나-5451581831.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년15일-산호반-이해나-5451581831.jpg)
+![2024년04년15일-산호반-이해나-5451581831.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년15일-산호반-이해나-5451581831.jpg)
 

@@ -26,11 +26,11 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 내일 부모교육이 있습니다.  13시30분까지 어린이집으로 오시기 바랍니다
 
 ## Attached Images
-![2024년06년03일-산호반-이해나-5672515772.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년03일-산호반-이해나-5672515772.jpg)
+![2024년06년03일-산호반-이해나-5672515772.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년03일-산호반-이해나-5672515772.jpg)
 
-![2024년06년03일-산호반-이해나-5672515774.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년03일-산호반-이해나-5672515774.jpg)
+![2024년06년03일-산호반-이해나-5672515774.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년03일-산호반-이해나-5672515774.jpg)
 
-![2024년06년03일-산호반-이해나-5672515776.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년03일-산호반-이해나-5672515776.jpg)
+![2024년06년03일-산호반-이해나-5672515776.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년03일-산호반-이해나-5672515776.jpg)
 
-![2024년06년03일-산호반-이해나-5672515777.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년03일-산호반-이해나-5672515777.jpg)
+![2024년06년03일-산호반-이해나-5672515777.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년03일-산호반-이해나-5672515777.jpg)
 

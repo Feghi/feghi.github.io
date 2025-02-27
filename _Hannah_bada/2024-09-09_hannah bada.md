@@ -19,17 +19,17 @@ tags: [이해나, 어린이집, 알림장]
 오늘은 배변훈련을 안한다고 해서 오전에 변기에 성공하고, 오후에는 기저귀에 했습니다. 6시30분정도에 배변훈련 해주시기 바랍니다.
 
 ## Attached Images
-![2024년09년09일-산호반-이해나-6114898693.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6114898693.jpg)
+![2024년09년09일-산호반-이해나-6114898693.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6114898693.jpg)
 
-![2024년09년09일-산호반-이해나-6112389067.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6112389067.jpg)
+![2024년09년09일-산호반-이해나-6112389067.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6112389067.jpg)
 
-![2024년09년09일-산호반-이해나-6112389069.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6112389069.jpg)
+![2024년09년09일-산호반-이해나-6112389069.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6112389069.jpg)
 
-![2024년09년09일-산호반-이해나-6112389071.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6112389071.jpg)
+![2024년09년09일-산호반-이해나-6112389071.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6112389071.jpg)
 
-![2024년09년09일-산호반-이해나-6112389073.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6112389073.jpg)
+![2024년09년09일-산호반-이해나-6112389073.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6112389073.jpg)
 
-![2024년09년09일-산호반-이해나-6112389075.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6112389075.jpg)
+![2024년09년09일-산호반-이해나-6112389075.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6112389075.jpg)
 
-![2024년09년09일-산호반-이해나-6112389078.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년09일-산호반-이해나-6112389078.jpg)
+![2024년09년09일-산호반-이해나-6112389078.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년09일-산호반-이해나-6112389078.jpg)
 

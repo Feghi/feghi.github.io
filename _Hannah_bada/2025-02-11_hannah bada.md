@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 하원후 배고파 할수 있습니다.
 
 ## Attached Images
-![2025년02년11일-산호반-이해나-6831648648.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년11일-산호반-이해나-6831648648.jpg)
+![2025년02년11일-산호반-이해나-6831648648.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년11일-산호반-이해나-6831648648.jpg)
 
-![2025년02년11일-산호반-이해나-6831648649.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년11일-산호반-이해나-6831648649.jpg)
+![2025년02년11일-산호반-이해나-6831648649.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년11일-산호반-이해나-6831648649.jpg)
 
-![2025년02년11일-산호반-이해나-6831648650.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년11일-산호반-이해나-6831648650.jpg)
+![2025년02년11일-산호반-이해나-6831648650.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년11일-산호반-이해나-6831648650.jpg)
 

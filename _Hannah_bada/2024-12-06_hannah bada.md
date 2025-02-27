@@ -22,9 +22,9 @@ tags: [이해나, 어린이집, 알림장]
 오늘 해나 양치할때 치약이 옷에 뭍었습니다
 
 ## Attached Images
-![2024년12년06일-산호반-이해나-6562071129.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년06일-산호반-이해나-6562071129.jpg)
+![2024년12년06일-산호반-이해나-6562071129.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년06일-산호반-이해나-6562071129.jpg)
 
-![2024년12년06일-산호반-이해나-6562071130.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년06일-산호반-이해나-6562071130.jpg)
+![2024년12년06일-산호반-이해나-6562071130.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년06일-산호반-이해나-6562071130.jpg)
 
-![2024년12년06일-산호반-이해나-6562071131.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년06일-산호반-이해나-6562071131.jpg)
+![2024년12년06일-산호반-이해나-6562071131.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년06일-산호반-이해나-6562071131.jpg)
 

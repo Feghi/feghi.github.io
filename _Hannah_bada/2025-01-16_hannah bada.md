@@ -14,9 +14,9 @@ tags: [이해나, 어린이집, 알림장]
 점심시간에 김반찬은 안먹고, 국이랑 달걀말이하고 잘먹고 낮잠자고 일어나 오후간식도 잘 먹었습니다.
 
 ## Attached Images
-![2025년01년16일-산호반-이해나-6727335428.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년16일-산호반-이해나-6727335428.jpg)
+![2025년01년16일-산호반-이해나-6727335428.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년16일-산호반-이해나-6727335428.jpg)
 
-![2025년01년16일-산호반-이해나-6727335429.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년16일-산호반-이해나-6727335429.jpg)
+![2025년01년16일-산호반-이해나-6727335429.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년16일-산호반-이해나-6727335429.jpg)
 
-![2025년01년16일-산호반-이해나-6727335430.jpg](d:\Users\hannah\Downloads\kids\photo\2025년01년16일-산호반-이해나-6727335430.jpg)
+![2025년01년16일-산호반-이해나-6727335430.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년16일-산호반-이해나-6727335430.jpg)
 

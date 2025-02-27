@@ -20,13 +20,13 @@ tags: [이해나, 어린이집, 알림장]
 오전 놀이시간에  노란색 타요버스를 교실 바닥에서 밀고 다니다 넘어졌습니다. 오른쪽 입술 아래 빨간 자국이 생겼습니다. 하원 후 지켜보시기 바랍니다.
 
 ## Attached Images
-![2024년07년09일-산호반-이해나-5847082860.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년09일-산호반-이해나-5847082860.jpg)
+![2024년07년09일-산호반-이해나-5847082860.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년09일-산호반-이해나-5847082860.jpg)
 
-![2024년07년09일-산호반-이해나-5847082861.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년09일-산호반-이해나-5847082861.jpg)
+![2024년07년09일-산호반-이해나-5847082861.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년09일-산호반-이해나-5847082861.jpg)
 
-![2024년07년09일-산호반-이해나-5847082862.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년09일-산호반-이해나-5847082862.jpg)
+![2024년07년09일-산호반-이해나-5847082862.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년09일-산호반-이해나-5847082862.jpg)
 
-![2024년07년09일-산호반-이해나-5847082863.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년09일-산호반-이해나-5847082863.jpg)
+![2024년07년09일-산호반-이해나-5847082863.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년09일-산호반-이해나-5847082863.jpg)
 
-![2024년07년09일-산호반-이해나-5847082864.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년09일-산호반-이해나-5847082864.jpg)
+![2024년07년09일-산호반-이해나-5847082864.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년09일-산호반-이해나-5847082864.jpg)
 

@@ -22,13 +22,13 @@ tags: [이해나, 어린이집, 알림장]
 독감이 유행이라고 합니다. 감기에 걸리지 않도록
 
 ## Attached Images
-![2024년12년30일-산호반-이해나-6664871977.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년30일-산호반-이해나-6664871977.jpg)
+![2024년12년30일-산호반-이해나-6664871977.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6664871977.jpg)
 
-![2024년12년30일-산호반-이해나-6664871978.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년30일-산호반-이해나-6664871978.jpg)
+![2024년12년30일-산호반-이해나-6664871978.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6664871978.jpg)
 
-![2024년12년30일-산호반-이해나-6664871979.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년30일-산호반-이해나-6664871979.jpg)
+![2024년12년30일-산호반-이해나-6664871979.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6664871979.jpg)
 
-![2024년12년30일-산호반-이해나-6665298183.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년30일-산호반-이해나-6665298183.jpg)
+![2024년12년30일-산호반-이해나-6665298183.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6665298183.jpg)
 
-![2024년12년30일-산호반-이해나-6665298184.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년30일-산호반-이해나-6665298184.jpg)
+![2024년12년30일-산호반-이해나-6665298184.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6665298184.jpg)
 

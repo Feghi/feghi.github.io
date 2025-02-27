@@ -14,7 +14,7 @@ tags: [이해나, 어린이집, 알림장]
 떼어낸 별로 탑쌓기를 하고 무너뜨리며 좋아하기도 하고~ 별을 머리위에 올리며 좋아하기도 했답니다♡
 
 ## Attached Images
-![2024년11년25일-산호반-이해나-6493514726.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년25일-산호반-이해나-6493514726.jpg)
+![2024년11년25일-산호반-이해나-6493514726.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년25일-산호반-이해나-6493514726.jpg)
 
-![2024년11년25일-산호반-이해나-6493514727.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년25일-산호반-이해나-6493514727.jpg)
+![2024년11년25일-산호반-이해나-6493514727.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년25일-산호반-이해나-6493514727.jpg)
 

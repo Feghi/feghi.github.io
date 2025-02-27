@@ -26,9 +26,9 @@ tags: [이해나, 어린이집, 알림장]
 공지사항에 댓글 부탁드립니다.
 
 ## Attached Images
-![2024년11년27일-산호반-이해나-6505697129.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년27일-산호반-이해나-6505697129.jpg)
+![2024년11년27일-산호반-이해나-6505697129.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년27일-산호반-이해나-6505697129.jpg)
 
-![2024년11년27일-산호반-이해나-6505697133.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년27일-산호반-이해나-6505697133.jpg)
+![2024년11년27일-산호반-이해나-6505697133.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년27일-산호반-이해나-6505697133.jpg)
 
-![2024년11년27일-산호반-이해나-6505697136.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년27일-산호반-이해나-6505697136.jpg)
+![2024년11년27일-산호반-이해나-6505697136.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년27일-산호반-이해나-6505697136.jpg)
 

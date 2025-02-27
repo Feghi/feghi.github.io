@@ -26,9 +26,9 @@ tags: [이해나, 어린이집, 알림장]
 설문조사를 실시합니다. 설문조사에 참여부탁드립니다
 
 ## Attached Images
-![2024년11년15일-산호반-이해나-6444867320.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년15일-산호반-이해나-6444867320.jpg)
+![2024년11년15일-산호반-이해나-6444867320.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년15일-산호반-이해나-6444867320.jpg)
 
-![2024년11년15일-산호반-이해나-6444867324.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년15일-산호반-이해나-6444867324.jpg)
+![2024년11년15일-산호반-이해나-6444867324.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년15일-산호반-이해나-6444867324.jpg)
 
-![2024년11년15일-산호반-이해나-6444867330.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년15일-산호반-이해나-6444867330.jpg)
+![2024년11년15일-산호반-이해나-6444867330.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년15일-산호반-이해나-6444867330.jpg)
 

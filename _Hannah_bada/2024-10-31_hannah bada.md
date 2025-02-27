@@ -20,7 +20,7 @@ tags: [이해나, 어린이집, 알림장]
 내일은 오르프 보강수업이 있습니다.
 
 ## Attached Images
-![2024년10년31일-산호반-이해나-6359551737.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년31일-산호반-이해나-6359551737.jpg)
+![2024년10년31일-산호반-이해나-6359551737.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년31일-산호반-이해나-6359551737.jpg)
 
-![2024년10년31일-산호반-이해나-6359551739.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년31일-산호반-이해나-6359551739.jpg)
+![2024년10년31일-산호반-이해나-6359551739.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년31일-산호반-이해나-6359551739.jpg)
 

@@ -26,7 +26,7 @@ tags: [이해나, 어린이집, 알림장]
 평온한 주말 보내세요~~^^
 
 ## Attached Images
-![2025년02년07일-산호반-이해나-6820297086.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년07일-산호반-이해나-6820297086.jpg)
+![2025년02년07일-산호반-이해나-6820297086.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년07일-산호반-이해나-6820297086.jpg)
 
-![2025년02년07일-산호반-이해나-6820297087.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년07일-산호반-이해나-6820297087.jpg)
+![2025년02년07일-산호반-이해나-6820297087.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년07일-산호반-이해나-6820297087.jpg)
 

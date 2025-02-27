@@ -27,13 +27,13 @@ tags: [이해나, 어린이집, 알림장]
 *내일 13시30분에 학부모 상담있습니다.
 
 ## Attached Images
-![2024년10년17일-산호반-이해나-6284738248.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년17일-산호반-이해나-6284738248.jpg)
+![2024년10년17일-산호반-이해나-6284738248.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738248.jpg)
 
-![2024년10년17일-산호반-이해나-6284738249.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년17일-산호반-이해나-6284738249.jpg)
+![2024년10년17일-산호반-이해나-6284738249.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738249.jpg)
 
-![2024년10년17일-산호반-이해나-6284738250.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년17일-산호반-이해나-6284738250.jpg)
+![2024년10년17일-산호반-이해나-6284738250.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738250.jpg)
 
-![2024년10년17일-산호반-이해나-6284738251.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년17일-산호반-이해나-6284738251.jpg)
+![2024년10년17일-산호반-이해나-6284738251.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738251.jpg)
 
-![2024년10년17일-산호반-이해나-6284738252.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년17일-산호반-이해나-6284738252.jpg)
+![2024년10년17일-산호반-이해나-6284738252.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738252.jpg)
 

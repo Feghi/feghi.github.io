@@ -16,7 +16,7 @@ tags: [이해나, 어린이집, 알림장]
 8월 식단표 1부, 음식기행 1부 보내드립니다. 참고하시기 바랍니다.
 
 ## Attached Images
-![2024년07년31일-산호반-이해나-5943186045.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년31일-산호반-이해나-5943186045.jpg)
+![2024년07년31일-산호반-이해나-5943186045.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년31일-산호반-이해나-5943186045.jpg)
 
-![2024년07년31일-산호반-이해나-5943186046.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년31일-산호반-이해나-5943186046.jpg)
+![2024년07년31일-산호반-이해나-5943186046.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년31일-산호반-이해나-5943186046.jpg)
 

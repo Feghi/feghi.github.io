@@ -23,9 +23,9 @@ tags: [이해나, 어린이집, 알림장]
 5시에 마지막 배변훈련했습니다.
 
 ## Attached Images
-![2024년10년25일-산호반-이해나-6330653914.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년25일-산호반-이해나-6330653914.jpg)
+![2024년10년25일-산호반-이해나-6330653914.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년25일-산호반-이해나-6330653914.jpg)
 
-![2024년10년25일-산호반-이해나-6330653915.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년25일-산호반-이해나-6330653915.jpg)
+![2024년10년25일-산호반-이해나-6330653915.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년25일-산호반-이해나-6330653915.jpg)
 
-![2024년10년25일-산호반-이해나-6330653916.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년25일-산호반-이해나-6330653916.jpg)
+![2024년10년25일-산호반-이해나-6330653916.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년25일-산호반-이해나-6330653916.jpg)
 

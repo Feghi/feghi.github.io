@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 오후에 친구들 하원하면 "엄마 보고 싶어~"라고 하지만 그래도 씩씩하게 잘 놀다가 하원합니다.
 
 ## Attached Images
-![2024년07년04일-산호반-이해나-5821680980.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년04일-산호반-이해나-5821680980.jpg)
+![2024년07년04일-산호반-이해나-5821680980.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년04일-산호반-이해나-5821680980.jpg)
 
-![2024년07년04일-산호반-이해나-5821680981.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년04일-산호반-이해나-5821680981.jpg)
+![2024년07년04일-산호반-이해나-5821680981.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년04일-산호반-이해나-5821680981.jpg)
 
-![2024년07년04일-산호반-이해나-5821680982.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년04일-산호반-이해나-5821680982.jpg)
+![2024년07년04일-산호반-이해나-5821680982.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년04일-산호반-이해나-5821680982.jpg)
 

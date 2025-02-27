@@ -20,7 +20,7 @@ tags: [이해나, 어린이집, 알림장]
 식단표에 가족액자 액자 만들기가 오늘로 되어있는데 다음주 화요일 입니다. 참고하시기 바랍니다.
 
 ## Attached Images
-![2024년04년09일-산호반-이해나-5431258744.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년09일-산호반-이해나-5431258744.jpg)
+![2024년04년09일-산호반-이해나-5431258744.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년09일-산호반-이해나-5431258744.jpg)
 
-![2024년04년09일-산호반-이해나-5431258746.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년09일-산호반-이해나-5431258746.jpg)
+![2024년04년09일-산호반-이해나-5431258746.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년09일-산호반-이해나-5431258746.jpg)
 

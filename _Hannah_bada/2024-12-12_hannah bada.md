@@ -18,7 +18,7 @@ tags: [이해나, 어린이집, 알림장]
 콧물은 많이 호전되는것 같습니다.
 
 ## Attached Images
-![2024년12년12일-산호반-이해나-6586893573.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년12일-산호반-이해나-6586893573.jpg)
+![2024년12년12일-산호반-이해나-6586893573.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년12일-산호반-이해나-6586893573.jpg)
 
-![2024년12년12일-산호반-이해나-6586893577.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년12일-산호반-이해나-6586893577.jpg)
+![2024년12년12일-산호반-이해나-6586893577.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년12일-산호반-이해나-6586893577.jpg)
 

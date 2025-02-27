@@ -26,13 +26,13 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~ 해나 밥먹다 옷이 젖어서 여벌옷으로 갈아입혔습니다.
 
 ## Attached Images
-![2024년05년20일-산호반-이해나-5604811882.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년20일-산호반-이해나-5604811882.jpg)
+![2024년05년20일-산호반-이해나-5604811882.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년20일-산호반-이해나-5604811882.jpg)
 
-![2024년05년20일-산호반-이해나-5604811883.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년20일-산호반-이해나-5604811883.jpg)
+![2024년05년20일-산호반-이해나-5604811883.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년20일-산호반-이해나-5604811883.jpg)
 
-![2024년05년20일-산호반-이해나-5604811884.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년20일-산호반-이해나-5604811884.jpg)
+![2024년05년20일-산호반-이해나-5604811884.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년20일-산호반-이해나-5604811884.jpg)
 
-![2024년05년20일-산호반-이해나-5604811885.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년20일-산호반-이해나-5604811885.jpg)
+![2024년05년20일-산호반-이해나-5604811885.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년20일-산호반-이해나-5604811885.jpg)
 
-![2024년05년20일-산호반-이해나-5604811886.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년20일-산호반-이해나-5604811886.jpg)
+![2024년05년20일-산호반-이해나-5604811886.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년20일-산호반-이해나-5604811886.jpg)
 

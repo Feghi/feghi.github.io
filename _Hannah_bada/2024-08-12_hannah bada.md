@@ -16,13 +16,13 @@ tags: [이해나, 어린이집, 알림장]
 오후간식 고구마 잘먹었습니다.
 
 ## Attached Images
-![2024년08년12일-산호반-이해나-5979022534.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년12일-산호반-이해나-5979022534.jpg)
+![2024년08년12일-산호반-이해나-5979022534.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022534.jpg)
 
-![2024년08년12일-산호반-이해나-5979022536.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년12일-산호반-이해나-5979022536.jpg)
+![2024년08년12일-산호반-이해나-5979022536.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022536.jpg)
 
-![2024년08년12일-산호반-이해나-5979022538.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년12일-산호반-이해나-5979022538.jpg)
+![2024년08년12일-산호반-이해나-5979022538.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022538.jpg)
 
-![2024년08년12일-산호반-이해나-5979022540.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년12일-산호반-이해나-5979022540.jpg)
+![2024년08년12일-산호반-이해나-5979022540.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022540.jpg)
 
-![2024년08년12일-산호반-이해나-5979022542.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년12일-산호반-이해나-5979022542.jpg)
+![2024년08년12일-산호반-이해나-5979022542.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022542.jpg)
 

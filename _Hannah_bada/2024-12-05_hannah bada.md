@@ -16,9 +16,9 @@ tags: [이해나, 어린이집, 알림장]
 해나 맑은 콧물이 많이 나옵니다.  손수건으로 닦아주고, 사용한 손수건은 가방에 보내드립니다.
 
 ## Attached Images
-![2024년12년05일-산호반-이해나-6552459392.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년05일-산호반-이해나-6552459392.jpg)
+![2024년12년05일-산호반-이해나-6552459392.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년05일-산호반-이해나-6552459392.jpg)
 
-![2024년12년05일-산호반-이해나-6552459393.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년05일-산호반-이해나-6552459393.jpg)
+![2024년12년05일-산호반-이해나-6552459393.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년05일-산호반-이해나-6552459393.jpg)
 
-![2024년12년05일-산호반-이해나-6552459394.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년05일-산호반-이해나-6552459394.jpg)
+![2024년12년05일-산호반-이해나-6552459394.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년05일-산호반-이해나-6552459394.jpg)
 

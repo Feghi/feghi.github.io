@@ -20,11 +20,11 @@ tags: [이해나, 어린이집, 알림장]
 어머니~해나 약통을 제가 못보냈습니다.   내일 챙겨보내겠습니다.
 
 ## Attached Images
-![2024년11년13일-산호반-이해나-6432814146.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년13일-산호반-이해나-6432814146.jpg)
+![2024년11년13일-산호반-이해나-6432814146.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년13일-산호반-이해나-6432814146.jpg)
 
-![2024년11년13일-산호반-이해나-6432814147.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년13일-산호반-이해나-6432814147.jpg)
+![2024년11년13일-산호반-이해나-6432814147.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년13일-산호반-이해나-6432814147.jpg)
 
-![2024년11년13일-산호반-이해나-6432814148.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년13일-산호반-이해나-6432814148.jpg)
+![2024년11년13일-산호반-이해나-6432814148.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년13일-산호반-이해나-6432814148.jpg)
 
-![2024년11년13일-산호반-이해나-6432814149.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년13일-산호반-이해나-6432814149.jpg)
+![2024년11년13일-산호반-이해나-6432814149.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년13일-산호반-이해나-6432814149.jpg)
 

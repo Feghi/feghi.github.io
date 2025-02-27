@@ -25,13 +25,13 @@ tags: [이해나, 어린이집, 알림장]
 부모교육 자료 보내드립니다.
 
 ## Attached Images
-![2024년11년26일-산호반-이해나-6498827848.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년26일-산호반-이해나-6498827848.jpg)
+![2024년11년26일-산호반-이해나-6498827848.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827848.jpg)
 
-![2024년11년26일-산호반-이해나-6498827851.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년26일-산호반-이해나-6498827851.jpg)
+![2024년11년26일-산호반-이해나-6498827851.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827851.jpg)
 
-![2024년11년26일-산호반-이해나-6498827853.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년26일-산호반-이해나-6498827853.jpg)
+![2024년11년26일-산호반-이해나-6498827853.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827853.jpg)
 
-![2024년11년26일-산호반-이해나-6498827855.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년26일-산호반-이해나-6498827855.jpg)
+![2024년11년26일-산호반-이해나-6498827855.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827855.jpg)
 
-![2024년11년26일-산호반-이해나-6498827858.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년26일-산호반-이해나-6498827858.jpg)
+![2024년11년26일-산호반-이해나-6498827858.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827858.jpg)
 

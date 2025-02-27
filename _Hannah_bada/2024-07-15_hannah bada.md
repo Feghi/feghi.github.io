@@ -29,11 +29,11 @@ tags: [이해나, 어린이집, 알림장]
 해나 삔은 가방에 넣어 보내드립니다.
 
 ## Attached Images
-![2024년07년15일-산호반-이해나-5876612074.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년15일-산호반-이해나-5876612074.jpg)
+![2024년07년15일-산호반-이해나-5876612074.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년15일-산호반-이해나-5876612074.jpg)
 
-![2024년07년15일-산호반-이해나-5876612075.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년15일-산호반-이해나-5876612075.jpg)
+![2024년07년15일-산호반-이해나-5876612075.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년15일-산호반-이해나-5876612075.jpg)
 
-![2024년07년15일-산호반-이해나-5876612076.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년15일-산호반-이해나-5876612076.jpg)
+![2024년07년15일-산호반-이해나-5876612076.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년15일-산호반-이해나-5876612076.jpg)
 
-![2024년07년15일-산호반-이해나-5876612077.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년15일-산호반-이해나-5876612077.jpg)
+![2024년07년15일-산호반-이해나-5876612077.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년15일-산호반-이해나-5876612077.jpg)
 

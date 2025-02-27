@@ -22,9 +22,9 @@ tags: [이해나, 어린이집, 알림장]
 가정통신문 보내드립니다. 체크후 원으로 보내주시기 바랍니다.
 
 ## Attached Images
-![2024년03년27일-산호반-이해나-5370095362.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년27일-산호반-이해나-5370095362.jpg)
+![2024년03년27일-산호반-이해나-5370095362.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년27일-산호반-이해나-5370095362.jpg)
 
-![2024년03년27일-산호반-이해나-5370095364.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년27일-산호반-이해나-5370095364.jpg)
+![2024년03년27일-산호반-이해나-5370095364.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년27일-산호반-이해나-5370095364.jpg)
 
-![2024년03년27일-산호반-이해나-5370095368.jpg](d:\Users\hannah\Downloads\kids\photo\2024년03년27일-산호반-이해나-5370095368.jpg)
+![2024년03년27일-산호반-이해나-5370095368.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년27일-산호반-이해나-5370095368.jpg)
 

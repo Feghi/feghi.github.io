@@ -18,9 +18,9 @@ tags: [이해나, 어린이집, 알림장]
 내일은 친구 생일잔치가 있습니다. 10시까지 등원시켜주시기 바랍니다.
 
 ## Attached Images
-![2025년02년04일-산호반-이해나-6796570105.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년04일-산호반-이해나-6796570105.jpg)
+![2025년02년04일-산호반-이해나-6796570105.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년04일-산호반-이해나-6796570105.jpg)
 
-![2025년02년04일-산호반-이해나-6796570107.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년04일-산호반-이해나-6796570107.jpg)
+![2025년02년04일-산호반-이해나-6796570107.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년04일-산호반-이해나-6796570107.jpg)
 
-![2025년02년04일-산호반-이해나-6796570109.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년04일-산호반-이해나-6796570109.jpg)
+![2025년02년04일-산호반-이해나-6796570109.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년04일-산호반-이해나-6796570109.jpg)
 

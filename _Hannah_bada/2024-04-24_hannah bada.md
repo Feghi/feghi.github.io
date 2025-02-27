@@ -18,7 +18,7 @@ tags: [이해나, 어린이집, 알림장]
 바쁘신 와중에 학부모상담에 참석해 주셔서 감사드립니다. 궁금한 사항이 있으시면 언제든지 알림장에 올려주시면 전화를 드리던지 댓글을  달아드리겠습니다.
 
 ## Attached Images
-![2024년04년24일-산호반-이해나-5496686689.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년24일-산호반-이해나-5496686689.jpg)
+![2024년04년24일-산호반-이해나-5496686689.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년24일-산호반-이해나-5496686689.jpg)
 
-![2024년04년24일-산호반-이해나-5496744213.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년24일-산호반-이해나-5496744213.jpg)
+![2024년04년24일-산호반-이해나-5496744213.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년24일-산호반-이해나-5496744213.jpg)
 

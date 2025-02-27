@@ -14,7 +14,7 @@ tags: [이해나, 어린이집, 알림장]
 낮잠시간에 피곤한지 평소보다 일찍 잠들었고, 낮잠 자고 일어나 오후 간식 잘 먹고 하원했습니다.
 
 ## Attached Images
-![2025년02년13일-산호반-이해나-6848627386.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년13일-산호반-이해나-6848627386.jpg)
+![2025년02년13일-산호반-이해나-6848627386.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년13일-산호반-이해나-6848627386.jpg)
 
-![2025년02년13일-산호반-이해나-6848627388.jpg](d:\Users\hannah\Downloads\kids\photo\2025년02년13일-산호반-이해나-6848627388.jpg)
+![2025년02년13일-산호반-이해나-6848627388.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년13일-산호반-이해나-6848627388.jpg)
 

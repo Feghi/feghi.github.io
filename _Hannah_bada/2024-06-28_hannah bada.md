@@ -28,11 +28,11 @@ tags: [이해나, 어린이집, 알림장]
 해나랑 즐거운 주말 보내시기 바랍니다.
 
 ## Attached Images
-![2024년06년28일-산호반-이해나-5795862343.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년28일-산호반-이해나-5795862343.jpg)
+![2024년06년28일-산호반-이해나-5795862343.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년28일-산호반-이해나-5795862343.jpg)
 
-![2024년06년28일-산호반-이해나-5795862344.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년28일-산호반-이해나-5795862344.jpg)
+![2024년06년28일-산호반-이해나-5795862344.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년28일-산호반-이해나-5795862344.jpg)
 
-![2024년06년28일-산호반-이해나-5795862345.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년28일-산호반-이해나-5795862345.jpg)
+![2024년06년28일-산호반-이해나-5795862345.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년28일-산호반-이해나-5795862345.jpg)
 
-![2024년06년28일-산호반-이해나-5795862346.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년28일-산호반-이해나-5795862346.jpg)
+![2024년06년28일-산호반-이해나-5795862346.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년28일-산호반-이해나-5795862346.jpg)
 

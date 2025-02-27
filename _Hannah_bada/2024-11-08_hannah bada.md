@@ -20,11 +20,11 @@ tags: [이해나, 어린이집, 알림장]
 주간교육계획안 보내드립니다.
 
 ## Attached Images
-![2024년11년08일-산호반-이해나-6408592157.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년08일-산호반-이해나-6408592157.jpg)
+![2024년11년08일-산호반-이해나-6408592157.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년08일-산호반-이해나-6408592157.jpg)
 
-![2024년11년08일-산호반-이해나-6408592158.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년08일-산호반-이해나-6408592158.jpg)
+![2024년11년08일-산호반-이해나-6408592158.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년08일-산호반-이해나-6408592158.jpg)
 
-![2024년11년08일-산호반-이해나-6408592159.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년08일-산호반-이해나-6408592159.jpg)
+![2024년11년08일-산호반-이해나-6408592159.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년08일-산호반-이해나-6408592159.jpg)
 
-![2024년11년08일-산호반-이해나-6408592160.jpg](d:\Users\hannah\Downloads\kids\photo\2024년11년08일-산호반-이해나-6408592160.jpg)
+![2024년11년08일-산호반-이해나-6408592160.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년08일-산호반-이해나-6408592160.jpg)
 

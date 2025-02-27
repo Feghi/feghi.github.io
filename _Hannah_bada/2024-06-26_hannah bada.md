@@ -23,9 +23,9 @@ tags: [이해나, 어린이집, 알림장]
 여름 물놀이 통신문 나갑니다.  체크 후 원으로 보내주시기 바랍니다.
 
 ## Attached Images
-![2024년06년26일-산호반-이해나-5781889762.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년26일-산호반-이해나-5781889762.jpg)
+![2024년06년26일-산호반-이해나-5781889762.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년26일-산호반-이해나-5781889762.jpg)
 
-![2024년06년26일-산호반-이해나-5781889763.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년26일-산호반-이해나-5781889763.jpg)
+![2024년06년26일-산호반-이해나-5781889763.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년26일-산호반-이해나-5781889763.jpg)
 
-![2024년06년26일-산호반-이해나-5781889764.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년26일-산호반-이해나-5781889764.jpg)
+![2024년06년26일-산호반-이해나-5781889764.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년26일-산호반-이해나-5781889764.jpg)
 

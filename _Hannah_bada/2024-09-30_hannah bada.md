@@ -26,11 +26,11 @@ tags: [이해나, 어린이집, 알림장]
 내일은 국군의날 대체 공휴일 입니다.  해나랑 즐거운 시간 보내시고 수요일에 뵙겠습니다.
 
 ## Attached Images
-![2024년09년30일-산호반-이해나-6207797648.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년30일-산호반-이해나-6207797648.jpg)
+![2024년09년30일-산호반-이해나-6207797648.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년30일-산호반-이해나-6207797648.jpg)
 
-![2024년09년30일-산호반-이해나-6207797649.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년30일-산호반-이해나-6207797649.jpg)
+![2024년09년30일-산호반-이해나-6207797649.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년30일-산호반-이해나-6207797649.jpg)
 
-![2024년09년30일-산호반-이해나-6207797650.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년30일-산호반-이해나-6207797650.jpg)
+![2024년09년30일-산호반-이해나-6207797650.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년30일-산호반-이해나-6207797650.jpg)
 
-![2024년09년30일-산호반-이해나-6207797651.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년30일-산호반-이해나-6207797651.jpg)
+![2024년09년30일-산호반-이해나-6207797651.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년30일-산호반-이해나-6207797651.jpg)
 

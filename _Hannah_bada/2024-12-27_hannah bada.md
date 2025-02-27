@@ -20,9 +20,9 @@ tags: [이해나, 어린이집, 알림장]
 어머니~  눈사람 꾸미기를 할때 매직이 옷에 뭍었습니다. 혹시 가정에 물파스가 있으면 세탁전에 물파스로 닦으시고 세탁하면 지워진답니다. 한번 해보시기 바랍니다.
 
 ## Attached Images
-![2024년12년27일-산호반-이해나-6663026455.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년27일-산호반-이해나-6663026455.jpg)
+![2024년12년27일-산호반-이해나-6663026455.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년27일-산호반-이해나-6663026455.jpg)
 
-![2024년12년27일-산호반-이해나-6663026457.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년27일-산호반-이해나-6663026457.jpg)
+![2024년12년27일-산호반-이해나-6663026457.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년27일-산호반-이해나-6663026457.jpg)
 
-![2024년12년27일-산호반-이해나-6663026460.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년27일-산호반-이해나-6663026460.jpg)
+![2024년12년27일-산호반-이해나-6663026460.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년27일-산호반-이해나-6663026460.jpg)
 

@@ -24,11 +24,11 @@ tags: [이해나, 어린이집, 알림장]
 모아어린이집에서 아빠와 함께 학부모참여수업으로 "피자 만들기" 키트를 보내드립니다.  해나와 같이 만드는 사진 1장, 가족들과 맛있게 먹은 후 사진 1장(아이는 다 먹는 빈접시)을 알림장으로 보내주시기 바랍니다
 
 ## Attached Images
-![2024년05년10일-산호반-이해나-5567845706.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년10일-산호반-이해나-5567845706.jpg)
+![2024년05년10일-산호반-이해나-5567845706.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년10일-산호반-이해나-5567845706.jpg)
 
-![2024년05년10일-산호반-이해나-5567845708.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년10일-산호반-이해나-5567845708.jpg)
+![2024년05년10일-산호반-이해나-5567845708.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년10일-산호반-이해나-5567845708.jpg)
 
-![2024년05년10일-산호반-이해나-5567845711.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년10일-산호반-이해나-5567845711.jpg)
+![2024년05년10일-산호반-이해나-5567845711.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년10일-산호반-이해나-5567845711.jpg)
 
-![2024년05년10일-산호반-이해나-5567845713.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년10일-산호반-이해나-5567845713.jpg)
+![2024년05년10일-산호반-이해나-5567845713.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년10일-산호반-이해나-5567845713.jpg)
 

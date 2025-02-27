@@ -17,11 +17,11 @@ tags: [이해나, 어린이집, 알림장]
 새해복 많이 받으세요^^
 
 ## Attached Images
-![2024년12년31일-산호반-이해나-6666714711.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년31일-산호반-이해나-6666714711.jpg)
+![2024년12년31일-산호반-이해나-6666714711.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년31일-산호반-이해나-6666714711.jpg)
 
-![2024년12년31일-산호반-이해나-6666714712.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년31일-산호반-이해나-6666714712.jpg)
+![2024년12년31일-산호반-이해나-6666714712.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년31일-산호반-이해나-6666714712.jpg)
 
-![2024년12년31일-산호반-이해나-6666714713.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년31일-산호반-이해나-6666714713.jpg)
+![2024년12년31일-산호반-이해나-6666714713.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년31일-산호반-이해나-6666714713.jpg)
 
-![2024년12년31일-산호반-이해나-6666714714.jpg](d:\Users\hannah\Downloads\kids\photo\2024년12년31일-산호반-이해나-6666714714.jpg)
+![2024년12년31일-산호반-이해나-6666714714.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년31일-산호반-이해나-6666714714.jpg)
 

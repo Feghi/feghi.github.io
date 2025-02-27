@@ -24,17 +24,17 @@ tags: [이해나, 어린이집, 알림장]
 오늘 기저귀에 쉬 한번도 안하고 변기에 다 성공했습니다. 5시30분 쉬 했습니다 2시간뒤 배변훈련  해주시기 바랍니다.
 
 ## Attached Images
-![2024년09년10일-산호반-이해나-6119900299.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6119900299.jpg)
+![2024년09년10일-산호반-이해나-6119900299.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900299.jpg)
 
-![2024년09년10일-산호반-이해나-6119900301.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6119900301.jpg)
+![2024년09년10일-산호반-이해나-6119900301.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900301.jpg)
 
-![2024년09년10일-산호반-이해나-6119900303.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6119900303.jpg)
+![2024년09년10일-산호반-이해나-6119900303.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900303.jpg)
 
-![2024년09년10일-산호반-이해나-6119900305.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6119900305.jpg)
+![2024년09년10일-산호반-이해나-6119900305.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900305.jpg)
 
-![2024년09년10일-산호반-이해나-6119900306.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6119900306.jpg)
+![2024년09년10일-산호반-이해나-6119900306.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900306.jpg)
 
-![2024년09년10일-산호반-이해나-6119900307.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6119900307.jpg)
+![2024년09년10일-산호반-이해나-6119900307.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900307.jpg)
 
-![2024년09년10일-산호반-이해나-6121625218.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년10일-산호반-이해나-6121625218.jpg)
+![2024년09년10일-산호반-이해나-6121625218.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6121625218.jpg)
 

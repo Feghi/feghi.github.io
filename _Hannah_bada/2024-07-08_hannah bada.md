@@ -20,7 +20,7 @@ tags: [이해나, 어린이집, 알림장]
 구일공동체 소식지 보내드립니다.
 
 ## Attached Images
-![2024년07년08일-산호반-이해나-5839777179.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년08일-산호반-이해나-5839777179.jpg)
+![2024년07년08일-산호반-이해나-5839777179.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년08일-산호반-이해나-5839777179.jpg)
 
-![2024년07년08일-산호반-이해나-5839777180.jpg](d:\Users\hannah\Downloads\kids\photo\2024년07년08일-산호반-이해나-5839777180.jpg)
+![2024년07년08일-산호반-이해나-5839777180.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년08일-산호반-이해나-5839777180.jpg)
 

@@ -24,7 +24,7 @@ tags: [이해나, 어린이집, 알림장]
 해나 이름표는 가방에 보내드립니다. 확인해 보시기 바랍니다.
 
 ## Attached Images
-![2024년05년23일-산호반-이해나-5623071720.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년23일-산호반-이해나-5623071720.jpg)
+![2024년05년23일-산호반-이해나-5623071720.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년23일-산호반-이해나-5623071720.jpg)
 
-![2024년05년23일-산호반-이해나-5623071725.jpg](d:\Users\hannah\Downloads\kids\photo\2024년05년23일-산호반-이해나-5623071725.jpg)
+![2024년05년23일-산호반-이해나-5623071725.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년23일-산호반-이해나-5623071725.jpg)
 

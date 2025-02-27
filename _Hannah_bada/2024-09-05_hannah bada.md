@@ -18,11 +18,11 @@ tags: [이해나, 어린이집, 알림장]
 *다음주는 추석 행사합니다. 한복 보내주세요
 
 ## Attached Images
-![2024년09년05일-산호반-이해나-6098957997.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년05일-산호반-이해나-6098957997.jpg)
+![2024년09년05일-산호반-이해나-6098957997.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년05일-산호반-이해나-6098957997.jpg)
 
-![2024년09년05일-산호반-이해나-6098957998.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년05일-산호반-이해나-6098957998.jpg)
+![2024년09년05일-산호반-이해나-6098957998.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년05일-산호반-이해나-6098957998.jpg)
 
-![2024년09년05일-산호반-이해나-6098957999.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년05일-산호반-이해나-6098957999.jpg)
+![2024년09년05일-산호반-이해나-6098957999.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년05일-산호반-이해나-6098957999.jpg)
 
-![2024년09년05일-산호반-이해나-6098958000.jpg](d:\Users\hannah\Downloads\kids\photo\2024년09년05일-산호반-이해나-6098958000.jpg)
+![2024년09년05일-산호반-이해나-6098958000.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년05일-산호반-이해나-6098958000.jpg)
 

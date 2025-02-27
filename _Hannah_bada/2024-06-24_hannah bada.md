@@ -28,11 +28,11 @@ tags: [이해나, 어린이집, 알림장]
 내일은 학부모참여수업이 있습니다. 15시30분까지 늦지않게 오시기 바랍니다.
 
 ## Attached Images
-![2024년06년24일-산호반-이해나-5770374854.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년24일-산호반-이해나-5770374854.jpg)
+![2024년06년24일-산호반-이해나-5770374854.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년24일-산호반-이해나-5770374854.jpg)
 
-![2024년06년24일-산호반-이해나-5770374855.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년24일-산호반-이해나-5770374855.jpg)
+![2024년06년24일-산호반-이해나-5770374855.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년24일-산호반-이해나-5770374855.jpg)
 
-![2024년06년24일-산호반-이해나-5770374856.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년24일-산호반-이해나-5770374856.jpg)
+![2024년06년24일-산호반-이해나-5770374856.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년24일-산호반-이해나-5770374856.jpg)
 
-![2024년06년24일-산호반-이해나-5770374857.jpg](d:\Users\hannah\Downloads\kids\photo\2024년06년24일-산호반-이해나-5770374857.jpg)
+![2024년06년24일-산호반-이해나-5770374857.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년24일-산호반-이해나-5770374857.jpg)
 

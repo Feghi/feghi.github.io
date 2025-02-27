@@ -18,7 +18,7 @@ tags: [이해나, 어린이집, 알림장]
 7시에 배변훈련 해주시면 됩니다.
 
 ## Attached Images
-![2024년08년21일-산호반-이해나-6020346067.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년21일-산호반-이해나-6020346067.jpg)
+![2024년08년21일-산호반-이해나-6020346067.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년21일-산호반-이해나-6020346067.jpg)
 
-![2024년08년21일-산호반-이해나-6020346068.jpg](d:\Users\hannah\Downloads\kids\photo\2024년08년21일-산호반-이해나-6020346068.jpg)
+![2024년08년21일-산호반-이해나-6020346068.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년21일-산호반-이해나-6020346068.jpg)
 

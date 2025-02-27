@@ -22,15 +22,15 @@ tags: [이해나, 어린이집, 알림장]
 어머니~~해나 놀다가 쉬마렵다고 하더니,화장실 가다가 바지에 쉬해서 여벌바지로 갈아입었습니다.
 
 ## Attached Images
-![2024년10년22일-산호반-이해나-6307543572.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년22일-산호반-이해나-6307543572.jpg)
+![2024년10년22일-산호반-이해나-6307543572.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543572.jpg)
 
-![2024년10년22일-산호반-이해나-6307543573.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년22일-산호반-이해나-6307543573.jpg)
+![2024년10년22일-산호반-이해나-6307543573.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543573.jpg)
 
-![2024년10년22일-산호반-이해나-6307543574.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년22일-산호반-이해나-6307543574.jpg)
+![2024년10년22일-산호반-이해나-6307543574.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543574.jpg)
 
-![2024년10년22일-산호반-이해나-6307543575.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년22일-산호반-이해나-6307543575.jpg)
+![2024년10년22일-산호반-이해나-6307543575.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543575.jpg)
 
-![2024년10년22일-산호반-이해나-6307543576.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년22일-산호반-이해나-6307543576.jpg)
+![2024년10년22일-산호반-이해나-6307543576.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543576.jpg)
 
-![2024년10년22일-산호반-이해나-6307543577.jpg](d:\Users\hannah\Downloads\kids\photo\2024년10년22일-산호반-이해나-6307543577.jpg)
+![2024년10년22일-산호반-이해나-6307543577.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543577.jpg)
 

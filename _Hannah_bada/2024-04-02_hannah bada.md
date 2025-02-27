@@ -21,7 +21,7 @@ tags: [이해나, 어린이집, 알림장]
 오후간식도 안 먹겠다고 하더니, 한번 맛을 보고 맛있는지 다 먹고 더 달라고 해서 더 먹었습니다.
 
 ## Attached Images
-![2024년04년02일-산호반-이해나-5397705009.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년02일-산호반-이해나-5397705009.jpg)
+![2024년04년02일-산호반-이해나-5397705009.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년02일-산호반-이해나-5397705009.jpg)
 
-![2024년04년02일-산호반-이해나-5397705010.jpg](d:\Users\hannah\Downloads\kids\photo\2024년04년02일-산호반-이해나-5397705010.jpg)
+![2024년04년02일-산호반-이해나-5397705010.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년02일-산호반-이해나-5397705010.jpg)
 
