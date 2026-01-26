@@ -9,13 +9,14 @@ markdown: true
       {% if page.tags %}
       <ul class="tags clearfix">
         {% for tag in page.tags %}
-        <li><i class="fa fa-tag"></i> {{ tag }}</li>
+        <li><a href="{{ '/tag/#' | relative_url }}{{ tag }}"><i class="fa fa-tag"></i> {{ tag }}</a></li>
         {% endfor %}
       </ul>
       {% endif %}
       <p id="post-meta">posted on <b>{{ page.date | date_to_string }}</b>
         {% if page.categories[0] %}
-        under category <b>{{ page.categories | join: ", " }}</b>
+        under category <b><a href="{{ '/category/#' | relative_url }}{{ page.categories[0] }}">{{ page.categories |
+            join: ", " }}</a></b>
         {% endif %}
       </p>
     </header>
@@ -27,6 +28,6 @@ markdown: true
   </div>
 
   {% if site.disqus.comments and jekyll.environment == "production" %}
-    {% include disqus.html %}
+  {% include disqus.html %}
   {% endif %}
 </div>

@@ -1,7 +1,7 @@
-$('document').ready(function() {
+$('document').ready(function () {
     generatePagi();
 
-    $('#group-list li').click(function(e) {
+    $('#group-list li').click(function (e) {
         var show = $(this).data('show');
 
         $('.showcase:visible')
@@ -20,19 +20,30 @@ $('document').ready(function() {
 
     function generatePagi() {
         var dataSource = $.makeArray($('.showcase.current article'));
-        if(!dataSource.length) {
+        if (!dataSource.length) {
             return false;
         }
 
         $('.showcase.current #paginator').pagination({
             dataSource: dataSource,
             pageSize: 7,
-            callback: function(data, pagination) {
+            callback: function (data, pagination) {
                 $(dataSource).hide();
                 $(data).show();
             }
         });
 
+    }
+
+    // Handle hash navigation (e.g. /tag/#tagname)
+    var hash = decodeURIComponent(window.location.hash);
+    if (hash) {
+        var cleanHash = hash.substring(1);
+        // Find the tab with this data-show attribute
+        var $targetTab = $('#group-list li[data-show="' + cleanHash + '"]');
+        if ($targetTab.length > 0) {
+            $targetTab.click();
+        }
     }
 
 });
