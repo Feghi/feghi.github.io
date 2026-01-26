@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 어제 놀이한  "카프라"놀이를 좋아해서 오늘도 제공해 주었습니다."
+date: 2025-01-14
 ---
 
-# 2025-01-14 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식은 많이 먹고 하원했습니다.
 
-## Attached Images
 ![2025년01년14일-산호반-이해나-6714690341.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년14일-산호반-이해나-6714690341.jpg)
 
 ![2025년01년14일-산호반-이해나-6714690342.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년14일-산호반-이해나-6714690342.jpg)

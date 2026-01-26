@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 맛만보고 안먹었습니다."
+date: 2025-01-24
 ---
 
-# 2025-01-24 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -20,7 +23,6 @@ tags: [이해나, 어린이집, 알림장]
 설연휴 가족들과 즐거운 시간 보내시고 금요일에 뵙겠습니다.
 🙇‍♀️새해 복 많이 받으세요^🙇‍♀️
 
-## Attached Images
 ![2025년01년24일-산호반-이해나-6779725665.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년24일-산호반-이해나-6779725665.jpg)
 
 ![2025년01년24일-산호반-이해나-6779725667.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년24일-산호반-이해나-6779725667.jpg)

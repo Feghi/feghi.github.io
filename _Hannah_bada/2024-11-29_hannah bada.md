@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원할때 "아기상어" 를 못봤다고 속상한지 삐져서 등원했다고 전해 들었습니다."
+date: 2024-11-29
 ---
 
-# 2024-11-29 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -22,7 +25,6 @@ tags: [이해나, 어린이집, 알림장]
 
 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년11년29일-산호반-이해나-6522242046.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년29일-산호반-이해나-6522242046.jpg)
 
 ![2024년11년29일-산호반-이해나-6522242047.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년29일-산호반-이해나-6522242047.jpg)

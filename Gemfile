@@ -1,6 +1,9 @@
 source 'https://rubygems.org/'
 
-gem 'jekyll', '>=3.8.6'
+
+gem 'jekyll', '~> 3.9.0'
+gem 'ffi', '~> 1.16.3'
+gem 'kramdown-parser-gfm'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'

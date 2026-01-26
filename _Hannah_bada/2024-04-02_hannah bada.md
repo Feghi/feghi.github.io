@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "이제는 등원할 때 신나게 들어오는 해나예요^^"
+date: 2024-04-02
 ---
 
-# 2024-04-02 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -20,7 +23,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식도 안 먹겠다고 하더니, 한번 맛을 보고 맛있는지 다 먹고 더 달라고 해서 더 먹었습니다.
 
-## Attached Images
 ![2024년04년02일-산호반-이해나-5397705009.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년02일-산호반-이해나-5397705009.jpg)
 
 ![2024년04년02일-산호반-이해나-5397705010.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년02일-산호반-이해나-5397705010.jpg)

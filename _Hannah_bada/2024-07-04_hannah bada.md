@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 오전간식 "죽" 다 먹었습니다."
+date: 2024-07-04
 ---
 
-# 2024-07-04 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후에 친구들 하원하면 "엄마 보고 싶어~"라고 하지만 그래도 씩씩하게 잘 놀다가 하원합니다.
 
-## Attached Images
 ![2024년07년04일-산호반-이해나-5821680980.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년04일-산호반-이해나-5821680980.jpg)
 
 ![2024년07년04일-산호반-이해나-5821680981.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년04일-산호반-이해나-5821680981.jpg)

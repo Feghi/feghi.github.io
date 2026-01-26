@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 안먹겠다고 하더니, 친구가 먹는 모습을 보고, 책상에 앉아서 맛있게 먹었습니다."
+date: 2024-05-24
 ---
 
-# 2024-05-24 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년05년24일-산호반-이해나-5631170695.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년24일-산호반-이해나-5631170695.jpg)
 
 ![2024년05년24일-산호반-이해나-5631170697.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년24일-산호반-이해나-5631170697.jpg)

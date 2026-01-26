@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 해나랑 주말은 잘 보내셨는지요?"
+date: 2024-07-29
 ---
 
-# 2024-07-29 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일 오르프 특별활동은 5주로 휴강합니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년07년29일-산호반-이해나-5940905878.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905878.jpg)
 
 ![2024년07년29일-산호반-이해나-5940905879.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년29일-산호반-이해나-5940905879.jpg)

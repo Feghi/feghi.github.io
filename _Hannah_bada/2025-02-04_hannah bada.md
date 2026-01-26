@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 잘먹고, 오늘은 친구가 만든 마트에서 친구랑 같이 소꿉놀이 했습니다."
+date: 2025-02-04
 ---
 
-# 2025-02-04 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 친구 생일잔치가 있습니다. 10시까지 등원시켜주시기 바랍니다.
 
-## Attached Images
 ![2025년02년04일-산호반-이해나-6796570105.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년04일-산호반-이해나-6796570105.jpg)
 
 ![2025년02년04일-산호반-이해나-6796570107.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년04일-산호반-이해나-6796570107.jpg)

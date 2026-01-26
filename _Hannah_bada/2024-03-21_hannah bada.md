@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "해나가 집에서 놀다가 걸려 넘어져서"
+date: 2024-03-21
 ---
 
-# 2024-03-21 - Hannah Bada
+
 
 **작성자:** 이해나 엄마 심보배  
 

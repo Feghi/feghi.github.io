@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 토끼인형을 자전거 태워주고 싶었는지 등원할 때 조금 울고 등원했지만 교실로 들어와서는 기분 좋아져서 오전간식 잘 먹었습니다."
+date: 2024-04-26
 ---
 
-# 2024-04-26 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -23,7 +26,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~ 해나랑 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년04년26일-산호반-이해나-5508788751.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년26일-산호반-이해나-5508788751.jpg)
 
 ![2024년04년26일-산호반-이해나-5508788754.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년26일-산호반-이해나-5508788754.jpg)

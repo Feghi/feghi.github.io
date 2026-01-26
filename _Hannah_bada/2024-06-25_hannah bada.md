@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 기분 좋게 등원해서 오전간식 잘 먹고, 하루 시작했습니다."
+date: 2024-06-25
 ---
 
-# 2024-06-25 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 바쁘신 와중에 학부모참여수업에 참여해 주셔서 감사드립니다.^^
 
-## Attached Images
 ![2024년06년25일-산호반-이해나-5776971284.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년25일-산호반-이해나-5776971284.jpg)
 
 ![2024년06년25일-산호반-이해나-5776971286.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년25일-산호반-이해나-5776971286.jpg)

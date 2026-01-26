@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 토끼인형을 들고."
+date: 2024-06-27
 ---
 
-# 2024-06-27 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠 자고 일어나 오후간식 먹고 하원했습니다.
 
-## Attached Images
 ![2024년06년27일-산호반-이해나-5787781357.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년27일-산호반-이해나-5787781357.jpg)
 
 ![2024년06년27일-산호반-이해나-5787781358.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년27일-산호반-이해나-5787781358.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "해나랑 "즐거운 크리스마스"를 보내셨는지요?"
+date: 2024-12-26
 ---
 
-# 2024-12-26 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -24,7 +27,6 @@ tags: [이해나, 어린이집, 알림장]
 2. 부모교육 1부.
 3. 케이크 만들기 만족도 조사서 1부. 보내드립니다.  체크 후 원으로 보내주시기 바랍니다.
 
-## Attached Images
 ![2024년12년26일-산호반-이해나-6658843820.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년26일-산호반-이해나-6658843820.jpg)
 
 ![2024년12년26일-산호반-이해나-6658843821.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년26일-산호반-이해나-6658843821.jpg)

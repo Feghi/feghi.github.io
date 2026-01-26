@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "아빠랑 등원해서 블록놀이 하며, 하루를 시작했습니다."
+date: 2024-11-20
 ---
 
-# 2024-11-20 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식 잘 먹고 하원했습니다.
 
-## Attached Images
 ![2024년11년20일-산호반-이해나-6468402961.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년20일-산호반-이해나-6468402961.jpg)
 
 ![2024년11년20일-산호반-이해나-6468402962.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년20일-산호반-이해나-6468402962.jpg)

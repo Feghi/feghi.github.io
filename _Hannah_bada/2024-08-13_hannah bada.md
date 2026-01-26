@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 죽 다먹고 더 달라고 해서 더 먹었습니다."
+date: 2024-08-13
 ---
 
-# 2024-08-13 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~내일 물놀이합니다. 방수기저귀,  타올 보내주세요. 여벌옷은 어린이집에 있습니다.
 
-## Attached Images
 ![2024년08년13일-산호반-이해나-5985924488.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924488.jpg)
 
 ![2024년08년13일-산호반-이해나-5985924489.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년13일-산호반-이해나-5985924489.jpg)

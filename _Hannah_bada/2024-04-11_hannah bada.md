@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 오전 간식 치즈는 다 먹고, 당근스틱은 맛만 봤습니다."
+date: 2024-04-11
 ---
 
-# 2024-04-11 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나 누런 콧물이 조금 나옵니다. 하원후 지켜 보시기 바랍니다.
 
-## Attached Images
 ![2024년04년11일-산호반-이해나-5438781390.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년11일-산호반-이해나-5438781390.jpg)
 
 ![2024년04년11일-산호반-이해나-5438781391.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년11일-산호반-이해나-5438781391.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 잘 먹었습니다."
+date: 2025-01-10
 ---
 
-# 2025-01-10 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -23,7 +26,6 @@ tags: [이해나, 어린이집, 알림장]
 
 주간교육계획안은 월요일에 보내드리겠습니다.
 
-## Attached Images
 ![2025년01년10일-산호반-이해나-6702192564.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년10일-산호반-이해나-6702192564.jpg)
 
 ![2025년01년10일-산호반-이해나-6702192565.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년10일-산호반-이해나-6702192565.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "해나가 많이 회복했지만"
+date: 2024-03-28
 ---
 
-# 2024-03-28 - Hannah Bada
+
 
 **작성자:** 이해나 엄마 심보배  
 

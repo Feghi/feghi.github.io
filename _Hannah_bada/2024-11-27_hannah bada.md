@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "11월에 새하얀 첫눈이 온세상을 밝혀주는 하루로 시작하네요^^"
+date: 2024-11-27
 ---
 
-# 2024-11-27 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 공지사항에 댓글 부탁드립니다.
 
-## Attached Images
 ![2024년11년27일-산호반-이해나-6505697129.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년27일-산호반-이해나-6505697129.jpg)
 
 ![2024년11년27일-산호반-이해나-6505697133.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년27일-산호반-이해나-6505697133.jpg)

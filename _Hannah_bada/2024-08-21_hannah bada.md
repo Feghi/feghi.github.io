@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 태풍이 더위를 식혀주나 했는데, 습한 날씨로 더 더운 날씨로 하루를 시작했습니다."
+date: 2024-08-21
 ---
 
-# 2024-08-21 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 7시에 배변훈련 해주시면 됩니다.
 
-## Attached Images
 ![2024년08년21일-산호반-이해나-6020346067.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년21일-산호반-이해나-6020346067.jpg)
 
 ![2024년08년21일-산호반-이해나-6020346068.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년21일-산호반-이해나-6020346068.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~  주말은 잘 보셨는지요?"
+date: 2024-12-16
 ---
 
-# 2024-12-16 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 점심밥 먹고, 체육특별활동시간에 "빌리보"에 올라가 중심 잡아보고, 팽이도 표현해 보았습니다. 소근육을 이용해 신나게 돌리며, 놀았습니다.
 
-## Attached Images
 ![2024년12년16일-산호반-이해나-6604242993.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604242993.jpg)
 
 ![2024년12년16일-산호반-이해나-6604242996.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년16일-산호반-이해나-6604242996.jpg)

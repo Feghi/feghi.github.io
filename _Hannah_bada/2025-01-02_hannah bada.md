@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 새해 첫날은 해나랑 즐거운 시간을 보내셨는지요?"
+date: 2025-01-02
 ---
 
-# 2025-01-02 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 가정통신문 2부, 부모교육 1부 보내드립니다.
 
-## Attached Images
 ![2025년01년02일-산호반-이해나-6668227016.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년02일-산호반-이해나-6668227016.jpg)
 
 ![2025년01년02일-산호반-이해나-6668227017.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년02일-산호반-이해나-6668227017.jpg)

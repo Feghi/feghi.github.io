@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 봄소풍 가기 참 좋은 날씨였네요~~^^"
+date: 2024-05-09
 ---
 
-# 2024-05-09 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 모래놀이 갑니다. 9시30분까지 등원시켜 주시기 바랍니다.^^
 
-## Attached Images
 ![2024년05년09일-산호반-이해나-5562330075.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5562330075.jpg)
 
 ![2024년05년09일-산호반-이해나-5562330078.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년09일-산호반-이해나-5562330078.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 해나랑 주말은 잘 보내셨는지요?"
+date: 2024-12-09
 ---
 
-# 2024-12-09 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나 코가 막혀 답답한지 손가락으로 자꾸 코를 만졌습니다. 물을 자주  찾아서 물을 자주 마셨습니다.
 
-## Attached Images
 ![2024년12년09일-산호반-이해나-6568459879.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년09일-산호반-이해나-6568459879.jpg)
 
 ![2024년12년09일-산호반-이해나-6568459880.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년09일-산호반-이해나-6568459880.jpg)

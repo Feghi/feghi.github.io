@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 씩씩하게 등원해서 오전간식도 잘 먹었습니다."
+date: 2025-01-07
 ---
 
-# 2025-01-07 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
  
 혹시 몰라서 열체크 했는데 37.2도에 37.4도 정도 유지했습니다.
 
-## Attached Images
 ![2025년01년07일-산호반-이해나-6680575148.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년07일-산호반-이해나-6680575148.jpg)
 
 ![2025년01년07일-산호반-이해나-6680641547.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년07일-산호반-이해나-6680641547.jpg)

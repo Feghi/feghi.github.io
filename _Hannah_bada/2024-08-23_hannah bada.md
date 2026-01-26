@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 "상추, 토마토 샌드위치 만들기"를 하였습니다."
+date: 2024-08-23
 ---
 
-# 2024-08-23 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 19시에 배변 훈련 해주시면 될것 같습니다.  
 오후에는 안한다고 해서 기저귀에 쉬했습니다.
 
-## Attached Images
 ![2024년08년23일-산호반-이해나-6031007325.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007325.jpg)
 
 ![2024년08년23일-산호반-이해나-6031007326.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년23일-산호반-이해나-6031007326.jpg)

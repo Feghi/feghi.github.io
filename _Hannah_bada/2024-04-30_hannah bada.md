@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 오전간식 잘 먹고,"
+date: 2024-04-30
 ---
 
-# 2024-04-30 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -31,7 +34,6 @@ tags: [이해나, 어린이집, 알림장]
 
 ☆  내일 5월 1일은 근로자의 날입니다. 해나랑 즐거운 시간 보내시고, 목요일에 뵙겠습니다.
 
-## Attached Images
 ![2024년04년30일-산호반-이해나-5523815405.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년30일-산호반-이해나-5523815405.jpg)
 
 ![2024년04년30일-산호반-이해나-5523815406.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년30일-산호반-이해나-5523815406.jpg)

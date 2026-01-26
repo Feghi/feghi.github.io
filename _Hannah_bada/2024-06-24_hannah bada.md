@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 주말은 잘 보내셨는지요?"
+date: 2024-06-24
 ---
 
-# 2024-06-24 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -27,7 +30,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 학부모참여수업이 있습니다. 15시30분까지 늦지않게 오시기 바랍니다.
 
-## Attached Images
 ![2024년06년24일-산호반-이해나-5770374854.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년24일-산호반-이해나-5770374854.jpg)
 
 ![2024년06년24일-산호반-이해나-5770374855.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년24일-산호반-이해나-5770374855.jpg)

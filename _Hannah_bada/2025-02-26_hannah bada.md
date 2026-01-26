@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "기분좋게 등원해서 오전간식 먹고, 좋아하는 블럭 놀이하며 하루를 시작했습니다."
+date: 2025-02-26
 ---
 
-# 2025-02-26 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 여벌옷이랑 남은 치약, 로션 보내드립니다.
 
-## Attached Images
 ![2025년02년26일-산호반-이해나-6905026164.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년26일-산호반-이해나-6905026164.jpg)
 
 ![2025년02년26일-산호반-이해나-6905026165.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년26일-산호반-이해나-6905026165.jpg)

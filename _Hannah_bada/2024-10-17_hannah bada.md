@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고 지양산 고구마캐러 출발~~"
+date: 2024-10-17
 ---
 
-# 2024-10-17 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -26,7 +29,6 @@ tags: [이해나, 어린이집, 알림장]
 
 *내일 13시30분에 학부모 상담있습니다.
 
-## Attached Images
 ![2024년10년17일-산호반-이해나-6284738248.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738248.jpg)
 
 ![2024년10년17일-산호반-이해나-6284738249.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년17일-산호반-이해나-6284738249.jpg)

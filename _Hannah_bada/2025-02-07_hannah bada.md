@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "엄마랑 등원해서 기분 좋은지 추워서 따뜻하게 입고 왔다고 자랑했습니다."
+date: 2025-02-07
 ---
 
-# 2025-02-07 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 평온한 주말 보내세요~~^^
 
-## Attached Images
 ![2025년02년07일-산호반-이해나-6820297086.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년07일-산호반-이해나-6820297086.jpg)
 
 ![2025년02년07일-산호반-이해나-6820297087.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년07일-산호반-이해나-6820297087.jpg)

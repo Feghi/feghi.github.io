@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 밀가루 반죽으로 송편을 만들었어요~~^^"
+date: 2024-09-13
 ---
 
-# 2024-09-13 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -18,7 +21,6 @@ tags: [이해나, 어린이집, 알림장]
 *주간교육계획안 보내드립니다. 참고하시기 바랍니다.
 *연휴 잘 보내시고 목요일에 건강한 모습으로 뵙겠습니다.
 
-## Attached Images
 ![2024년09년13일-산호반-이해나-6149471247.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년13일-산호반-이해나-6149471247.jpg)
 
 ![2024년09년13일-산호반-이해나-6149471249.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년13일-산호반-이해나-6149471249.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "담임선생님의 연차휴가로 서울형 전임교사와 지냈습니다."
+date: 2024-06-12
 ---
 
-# 2024-06-12 - Hannah Bada
+
 
 **작성자:** 산호반 김연옥 김연옥  
 
@@ -13,6 +16,5 @@ tags: [이해나, 어린이집, 알림장]
 콧물과 가래기침 있었습니다.
 우리 해나가 빨리 나았으면 좋겠습니다.
 
-## Attached Images
 ![2024년06년12일-산호반-이해나-5708674624.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년12일-산호반-이해나-5708674624.jpg)
 

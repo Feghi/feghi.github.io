@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "가을이 다가온듯한 날씨로 하루를 시작하네요^^"
+date: 2024-09-06
 ---
 
-# 2024-09-06 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -23,7 +26,6 @@ tags: [이해나, 어린이집, 알림장]
 
 2학기 용 물티슈 2개, 칫솔  보내주세요^^
 
-## Attached Images
 ![2024년09년06일-산호반-이해나-6105036192.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년06일-산호반-이해나-6105036192.jpg)
 
 ![2024년09년06일-산호반-이해나-6105036194.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년06일-산호반-이해나-6105036194.jpg)

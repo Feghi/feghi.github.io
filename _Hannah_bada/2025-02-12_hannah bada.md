@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 교실들어와 "선생님 해나 왔어요~"라며 반갑게 인사하고 하루를 시작했습니다."
+date: 2025-02-12
 ---
 
-# 2025-02-12 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -13,7 +16,6 @@ tags: [이해나, 어린이집, 알림장]
 
 점심밥 잘 먹고, 오후간식 잘먹고 하원했습니다.
 
-## Attached Images
 ![2025년02년12일-산호반-이해나-6838474136.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년12일-산호반-이해나-6838474136.jpg)
 
 ![2025년02년12일-산호반-이해나-6838474139.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년12일-산호반-이해나-6838474139.jpg)

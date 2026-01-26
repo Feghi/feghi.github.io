@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식  먹고,  오늘은  "귤" 오감놀이 해보았습니다."
+date: 2024-12-11
 ---
 
-# 2024-12-11 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -14,7 +17,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠자고 일어나 오후간식 잘 먹고 하원했습니다.
 
-## Attached Images
 ![2024년12년11일-산호반-이해나-6582698466.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년11일-산호반-이해나-6582698466.jpg)
 
 ![2024년12년11일-산호반-이해나-6582698467.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년11일-산호반-이해나-6582698467.jpg)

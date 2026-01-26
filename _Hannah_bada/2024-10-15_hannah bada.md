@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고 오늘은 탁구공에 밤을 붙여보고."
+date: 2024-10-15
 ---
 
-# 2024-10-15 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -13,7 +16,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오르프특별활동시간에 카시롤라 악기를 이용해  쿵 짝짝 왈츠 리듬을 재미있게 배워보고 나만에 머리띠를 만들어 보았습니다
 
-## Attached Images
 ![2024년10년15일-산호반-이해나-6268259038.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년15일-산호반-이해나-6268259038.jpg)
 
 ![2024년10년15일-산호반-이해나-6268259039.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년15일-산호반-이해나-6268259039.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "엄마랑 떨어져 적응한 지 일주일이 되었습니다."
+date: 2024-03-15
 ---
 
-# 2024-03-15 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -29,7 +32,6 @@ tags: [이해나, 어린이집, 알림장]
 
 주간교육계획안 보내드립니다.^^
 
-## Attached Images
 ![2024년03년15일-산호반-이해나-5320959219.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년15일-산호반-이해나-5320959219.jpg)
 
 ![2024년03년15일-산호반-이해나-5320959220.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년15일-산호반-이해나-5320959220.jpg)

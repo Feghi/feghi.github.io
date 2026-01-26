@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 이번주에 만든 인디언 모자를 쓰고, 인디언 치마도 입고."
+date: 2024-12-20
 ---
 
-# 2024-12-20 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 월요일은 산타잔치 합니다.
 
-## Attached Images
 ![2024년12년20일-산호반-이해나-6633301649.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년20일-산호반-이해나-6633301649.jpg)
 
 ![2024년12년20일-산호반-이해나-6633301650.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년20일-산호반-이해나-6633301650.jpg)

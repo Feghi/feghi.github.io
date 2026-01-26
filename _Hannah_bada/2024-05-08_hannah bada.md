@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 "어버이날"을 축하하는 듯 화창한 봄날이네요^^"
+date: 2024-05-08
 ---
 
-# 2024-05-08 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~삔은 확인후 연락드리겠습니다.
 
-## Attached Images
 ![2024년05년08일-산호반-이해나-5555676716.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년08일-산호반-이해나-5555676716.jpg)
 
 ![2024년05년08일-산호반-이해나-5555676717.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년08일-산호반-이해나-5555676717.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 "볼풀공" 던져보고, 바구니에 담아보며 놀았습니다."
+date: 2025-02-13
 ---
 
-# 2025-02-13 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -13,7 +16,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠시간에 피곤한지 평소보다 일찍 잠들었고, 낮잠 자고 일어나 오후 간식 잘 먹고 하원했습니다.
 
-## Attached Images
 ![2025년02년13일-산호반-이해나-6848627386.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년13일-산호반-이해나-6848627386.jpg)
 
 ![2025년02년13일-산호반-이해나-6848627388.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년13일-산호반-이해나-6848627388.jpg)

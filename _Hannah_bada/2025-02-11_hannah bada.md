@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 "해나야, 장갑이 다르네~"라고 물어봤더니,  "선생님 장갑이 없어서..."라고 이야기 했습니다."
+date: 2025-02-11
 ---
 
-# 2025-02-11 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 하원후 배고파 할수 있습니다.
 
-## Attached Images
 ![2025년02년11일-산호반-이해나-6831648648.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년11일-산호반-이해나-6831648648.jpg)
 
 ![2025년02년11일-산호반-이해나-6831648649.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년11일-산호반-이해나-6831648649.jpg)

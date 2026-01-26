@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원할 때 무섭다며 울고 등원했다고 전해 들었습니다."
+date: 2025-01-15
 ---
 
-# 2025-01-15 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 부모교육 1부, 작품사진전 만족도 조사서 1부 보내드립니다. 체크 후 원으로 보내주시기 바랍니다.
 
-## Attached Images
 ![2025년01년15일-산호반-이해나-6722250781.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년15일-산호반-이해나-6722250781.jpg)
 
 ![2025년01년15일-산호반-이해나-6722250782.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년15일-산호반-이해나-6722250782.jpg)

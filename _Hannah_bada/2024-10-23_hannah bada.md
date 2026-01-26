@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "평소보다 일찍 등원해서 오전간식 먹고, 간호사 선생님이 방문하셔서 신체계측 및 건강사정 검사 했습니다."
+date: 2024-10-23
 ---
 
-# 2024-10-23 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -16,7 +19,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식도 잘 먹고 하원했습니다.
 
-## Attached Images
 ![2024년10년23일-산호반-이해나-6315231844.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년23일-산호반-이해나-6315231844.jpg)
 
 ![2024년10년23일-산호반-이해나-6315231845.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년23일-산호반-이해나-6315231845.jpg)

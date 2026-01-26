@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 죽 다 먹고, 오늘은 "가을나무 꾸미기"를 했습니다."
+date: 2024-10-31
 ---
 
-# 2024-10-31 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 오르프 보강수업이 있습니다.
 
-## Attached Images
 ![2024년10년31일-산호반-이해나-6359551737.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년31일-산호반-이해나-6359551737.jpg)
 
 ![2024년10년31일-산호반-이해나-6359551739.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년31일-산호반-이해나-6359551739.jpg)

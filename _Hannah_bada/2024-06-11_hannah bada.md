@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 오전간식 다 먹고, 더 달라고 해서 조금 더 먹었습니다."
+date: 2024-06-11
 ---
 
-# 2024-06-11 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나 맑은 콧물이 조금 나옵니다.
 
-## Attached Images
 ![2024년06년11일-산호반-이해나-5705082538.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082538.jpg)
 
 ![2024년06년11일-산호반-이해나-5705082540.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년11일-산호반-이해나-5705082540.jpg)

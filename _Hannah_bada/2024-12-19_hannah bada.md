@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 귤 다 먹고 블럭놀이하고 하루를  시작했습니다."
+date: 2024-12-19
 ---
 
-# 2024-12-19 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오늘 산타할아버한테 보라색 숟가락을 받고 싶다고 하네요~~^^요즘 보라색에 푹 빠졌습니다.
 
-## Attached Images
 ![2024년12년19일-산호반-이해나-6624717110.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년19일-산호반-이해나-6624717110.jpg)
 
 ![2024년12년19일-산호반-이해나-6624717112.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년19일-산호반-이해나-6624717112.jpg)

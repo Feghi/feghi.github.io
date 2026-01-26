@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "담임선생님의 연차휴가로 서울형 전임교사와 즐겁게 지냈습니다."
+date: 2024-08-30
 ---
 
-# 2024-08-30 - Hannah Bada
+
 
 **작성자:** 산호반 서울형전임교사 김연옥  
 

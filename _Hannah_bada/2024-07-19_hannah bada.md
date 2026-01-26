@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오랜만에 파란 하늘을 보며 기분 좋게 하루를 시작한것 같습니다."
+date: 2024-07-19
 ---
 
-# 2024-07-19 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나랑 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년07년19일-산호반-이해나-5900382435.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년19일-산호반-이해나-5900382435.jpg)
 
 ![2024년07년19일-산호반-이해나-5900382437.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년19일-산호반-이해나-5900382437.jpg)

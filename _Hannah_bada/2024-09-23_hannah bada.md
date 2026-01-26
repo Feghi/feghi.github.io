@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~  주말은 잘 보내셨나요? 지난주에 무더운 날씨는 사라지고, 아침, 저녁으로 쌀쌀한 가을 날씨가 시작되었습니다."
+date: 2024-09-23
 ---
 
-# 2024-09-23 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 부모교육 2장 보내드립니다.
 
-## Attached Images
 ![2024년09년23일-산호반-이해나-6171982536.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년23일-산호반-이해나-6171982536.jpg)
 
 ![2024년09년23일-산호반-이해나-6171982539.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년23일-산호반-이해나-6171982539.jpg)

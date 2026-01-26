@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 형님반 생일잔치 했습니다."
+date: 2024-11-06
 ---
 
-# 2024-11-06 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나 왼쪽발 엄지발톱이 살짝 갈아져서 잘라달라고 해서 잘라주었습니다.  하원 후 확인해 보시기 바랍니다.
 
-## Attached Images
 ![2024년11년06일-산호반-이해나-6393399111.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년06일-산호반-이해나-6393399111.jpg)
 
 ![2024년11년06일-산호반-이해나-6393399112.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년06일-산호반-이해나-6393399112.jpg)

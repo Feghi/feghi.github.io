@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 전부치기를 했습니다."
+date: 2025-01-22
 ---
 
-# 2025-01-22 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~ 해나 팬티  조금 젖어서 갈아입혔습니다. 여벌팬티 보내주세요^^
 
-## Attached Images
 ![2025년01년22일-산호반-이해나-6759212752.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년22일-산호반-이해나-6759212752.jpg)
 
 ![2025년01년22일-산호반-이해나-6759212753.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년22일-산호반-이해나-6759212753.jpg)

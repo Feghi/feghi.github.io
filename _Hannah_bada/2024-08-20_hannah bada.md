@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 신체계측도 하고, 캠핑용품으로 소꿉놀이도 했습니다."
+date: 2024-08-20
 ---
 
-# 2024-08-20 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나   키:91.9cm, 몸무게 13.1kg 입니다
 
-## Attached Images
 ![2024년08년20일-산호반-이해나-6010722799.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722799.jpg)
 
 ![2024년08년20일-산호반-이해나-6010722800.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년20일-산호반-이해나-6010722800.jpg)

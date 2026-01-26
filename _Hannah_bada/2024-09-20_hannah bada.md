@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "아침부터 비가 내리며 하루가 시작하네요~~^^"
+date: 2024-09-20
 ---
 
-# 2024-09-20 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년09년20일-산호반-이해나-6161748421.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년20일-산호반-이해나-6161748421.jpg)
 
 ![2024년09년20일-산호반-이해나-6161748425.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년20일-산호반-이해나-6161748425.jpg)

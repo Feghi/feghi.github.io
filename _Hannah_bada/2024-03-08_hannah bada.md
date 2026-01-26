@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~  해나가 벌써 일주일을 적응했네요^^  그래도 씩씩하게 적응해 줘서 너무 다행인 것 같아요^^"
+date: 2024-03-08
 ---
 
-# 2024-03-08 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 주간교육계획안 보내드립니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년03년08일-산호반-이해나-5292981951.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년08일-산호반-이해나-5292981951.jpg)
 
 ![2024년03년08일-산호반-이해나-5293111100.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년08일-산호반-이해나-5293111100.jpg)

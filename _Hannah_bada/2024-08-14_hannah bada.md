@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고,  "신나는 물놀이" 출발~~"
+date: 2024-08-14
 ---
 
-# 2024-08-14 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 아버님께서 금요일에 고모가 하원지도 하신다고 하셨습니다. 귀가 동의서 보내주세요^^
 
-## Attached Images
 ![2024년08년14일-산호반-이해나-5991136159.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년14일-산호반-이해나-5991136159.jpg)
 
 ![2024년08년14일-산호반-이해나-5991136160.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년14일-산호반-이해나-5991136160.jpg)

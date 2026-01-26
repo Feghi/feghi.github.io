@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "기분좋게 등원해서 오전간식 먹고 하루 시작했습니다."
+date: 2025-01-16
 ---
 
-# 2025-01-16 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -13,7 +16,6 @@ tags: [이해나, 어린이집, 알림장]
 
 점심시간에 김반찬은 안먹고, 국이랑 달걀말이하고 잘먹고 낮잠자고 일어나 오후간식도 잘 먹었습니다.
 
-## Attached Images
 ![2025년01년16일-산호반-이해나-6727335428.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년16일-산호반-이해나-6727335428.jpg)
 
 ![2025년01년16일-산호반-이해나-6727335429.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년16일-산호반-이해나-6727335429.jpg)

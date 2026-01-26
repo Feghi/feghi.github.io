@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~해나랑 어린이날은 잘 보내셨는지요? 비가 내려서 조금은 아쉬운 어린이날이었던것 같습니다."
+date: 2024-05-07
 ---
 
-# 2024-05-07 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 부모교육자료 보내드립니다. 한번 읽어보세요^^
 
-## Attached Images
 ![2024년05년07일-산호반-이해나-5548484118.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년07일-산호반-이해나-5548484118.jpg)
 
 ![2024년05년07일-산호반-이해나-5548484120.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년07일-산호반-이해나-5548484120.jpg)

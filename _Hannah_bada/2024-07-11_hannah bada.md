@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 잘 먹었습니다."
+date: 2024-07-11
 ---
 
-# 2024-07-11 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~ 오늘 신고 온 샌들을 신고 바깥놀이를 다녀왔더니, 해나 발 복사뼈 아래쪽이 빨개졌습니다. 샌들을 신을 때는 발목까지 올라오는 양말을 신으면 좋을 것 같습니다.
 
-## Attached Images
 ![2024년07년11일-산호반-이해나-5859993087.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년11일-산호반-이해나-5859993087.jpg)
 
 ![2024년07년11일-산호반-이해나-5859993089.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년11일-산호반-이해나-5859993089.jpg)

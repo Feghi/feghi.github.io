@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "이번주는 제가 늦은 출근이라  해나 등원을 못했는데, 그래도 잘 들어온다고 해서 기특한 것 같습니다."
+date: 2024-03-27
 ---
 
-# 2024-03-27 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 가정통신문 보내드립니다. 체크후 원으로 보내주시기 바랍니다.
 
-## Attached Images
 ![2024년03년27일-산호반-이해나-5370095362.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년27일-산호반-이해나-5370095362.jpg)
 
 ![2024년03년27일-산호반-이해나-5370095364.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년27일-산호반-이해나-5370095364.jpg)

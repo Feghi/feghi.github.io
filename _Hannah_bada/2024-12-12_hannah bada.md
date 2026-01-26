@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 어제 귤 오감놀이를 연계해서 귤 그림자료에 귤껍질 붙여보기도 하고."
+date: 2024-12-12
 ---
 
-# 2024-12-12 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 콧물은 많이 호전되는것 같습니다.
 
-## Attached Images
 ![2024년12년12일-산호반-이해나-6586893573.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년12일-산호반-이해나-6586893573.jpg)
 
 ![2024년12년12일-산호반-이해나-6586893577.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년12일-산호반-이해나-6586893577.jpg)

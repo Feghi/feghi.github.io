@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 종이에 끼적이기를 하고 물감을 칠해보는 비밀그림 그리기를 해보았습니다."
+date: 2024-05-17
 ---
 
-# 2024-05-17 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나랑 즐거운 주말보내세요^^
 
-## Attached Images
 ![2024년05년17일-산호반-이해나-5597031966.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년17일-산호반-이해나-5597031966.jpg)
 
 ![2024년05년17일-산호반-이해나-5597031967.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년17일-산호반-이해나-5597031967.jpg)

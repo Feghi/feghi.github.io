@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "해나 어제 하원 후에 약먹고 열은 더이상 안나요."
+date: 2024-06-13
 ---
 
-# 2024-06-13 - Hannah Bada
+
 
 **작성자:** 이해나 엄마 심보배  
 

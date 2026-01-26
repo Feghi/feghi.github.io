@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "해나랑 연휴는 잘 보내셨는지요?"
+date: 2024-05-16
 ---
 
-# 2024-05-16 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠 자고 일어나 오후간식도 잘 먹고 기분 좋게 하원했습니다.
 
-## Attached Images
 ![2024년05년16일-산호반-이해나-5590923125.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년16일-산호반-이해나-5590923125.jpg)
 
 ![2024년05년16일-산호반-이해나-5590923126.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년16일-산호반-이해나-5590923126.jpg)

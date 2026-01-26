@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 조금 먹고 오늘은 컵에 관심을 보여서 다양하게 쌓아보며 놀이했습니다."
+date: 2025-02-19
 ---
 
-# 2025-02-19 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -13,7 +16,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식 잘 먹고 하원했습니다
 
-## Attached Images
 ![2025년02년19일-산호반-이해나-6877083225.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년19일-산호반-이해나-6877083225.jpg)
 
 ![2025년02년19일-산호반-이해나-6877083226.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년19일-산호반-이해나-6877083226.jpg)

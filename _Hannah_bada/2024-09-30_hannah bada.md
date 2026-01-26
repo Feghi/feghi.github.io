@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 해나랑 주말은 잘 보내셨는지요?"
+date: 2024-09-30
 ---
 
-# 2024-09-30 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 국군의날 대체 공휴일 입니다.  해나랑 즐거운 시간 보내시고 수요일에 뵙겠습니다.
 
-## Attached Images
 ![2024년09년30일-산호반-이해나-6207797648.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년30일-산호반-이해나-6207797648.jpg)
 
 ![2024년09년30일-산호반-이해나-6207797649.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년30일-산호반-이해나-6207797649.jpg)

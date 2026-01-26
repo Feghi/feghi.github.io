@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 잘먹고,  오늘은 "밤, 감 줍기"를  했습니다."
+date: 2024-10-18
 ---
 
-# 2024-10-18 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 맑은 콧물이 나오는데  열이 나지 않고 컨디션도 좋았습니다.
 
-## Attached Images
 ![2024년10년18일-산호반-이해나-6292842367.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년18일-산호반-이해나-6292842367.jpg)
 
 ![2024년10년18일-산호반-이해나-6292842369.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년18일-산호반-이해나-6292842369.jpg)

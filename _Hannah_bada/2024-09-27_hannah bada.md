@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식  먹고, 오늘은 텃밭에 나가서 물화선지에 끼적이기를 했습니다."
+date: 2024-09-27
 ---
 
-# 2024-09-27 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -20,7 +23,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오늘 해나 변기에 다 성공했습니다. 주말동안 팬티 입히고 배변훈련 해주시면 될것 같습니다.
 
-## Attached Images
 ![2024년09년27일-산호반-이해나-6200441771.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년27일-산호반-이해나-6200441771.jpg)
 
 ![2024년09년27일-산호반-이해나-6200441772.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년27일-산호반-이해나-6200441772.jpg)

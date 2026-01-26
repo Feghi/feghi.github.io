@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 수박드럼을 만들어 두드리며 노래도 불러보고, 수박드럼에 스티커 붙이기도 해 보았습니다."
+date: 2024-06-28
 ---
 
-# 2024-06-28 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -27,7 +30,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나랑 즐거운 주말 보내시기 바랍니다.
 
-## Attached Images
 ![2024년06년28일-산호반-이해나-5795862343.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년28일-산호반-이해나-5795862343.jpg)
 
 ![2024년06년28일-산호반-이해나-5795862344.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년28일-산호반-이해나-5795862344.jpg)

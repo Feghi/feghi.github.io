@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오랫만에 등원했는데도 낯설어하지 않고, 신나게 들어와서 뛰어다니며, 하루를 시작했습니다."
+date: 2024-09-05
 ---
 
-# 2024-09-05 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 *다음주는 추석 행사합니다. 한복 보내주세요
 
-## Attached Images
 ![2024년09년05일-산호반-이해나-6098957997.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년05일-산호반-이해나-6098957997.jpg)
 
 ![2024년09년05일-산호반-이해나-6098957998.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년05일-산호반-이해나-6098957998.jpg)

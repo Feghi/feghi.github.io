@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 타요 버스 타고, 자동차 놀이를 했습니다."
+date: 2024-09-26
 ---
 
-# 2024-09-26 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오늘도 2시간으로 배변훈련 잘했습니다. 5시에 마지막 배변훈련 했습니다.
 
-## Attached Images
 ![2024년09년26일-산호반-이해나-6191447128.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년26일-산호반-이해나-6191447128.jpg)
 
 ![2024년09년26일-산호반-이해나-6191447129.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년26일-산호반-이해나-6191447129.jpg)

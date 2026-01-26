@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고,  신나는 키즈카페로 고고고~~"
+date: 2024-08-08
 ---
 
-# 2024-08-08 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 가정통신문 2부 나갑니다. 체크 후 원으로 보내주시기 바랍니다.
 
-## Attached Images
 ![2024년08년08일-산호반-이해나-5964354566.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년08일-산호반-이해나-5964354566.jpg)
 
 ![2024년08년08일-산호반-이해나-5964354567.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년08일-산호반-이해나-5964354567.jpg)

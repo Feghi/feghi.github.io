@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 주말은 잘 보내셨는지요?"
+date: 2024-12-30
 ---
 
-# 2024-12-30 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 독감이 유행이라고 합니다. 감기에 걸리지 않도록
 
-## Attached Images
 ![2024년12년30일-산호반-이해나-6664871977.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6664871977.jpg)
 
 ![2024년12년30일-산호반-이해나-6664871978.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년30일-산호반-이해나-6664871978.jpg)

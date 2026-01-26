@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 연두부 먹고, 더 달라고 해서 더 먹었습니다."
+date: 2024-08-09
 ---
 
-# 2024-08-09 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~  해나랑 아빠랑 재활용품으로 만들기 부탁드립니다.
 
-## Attached Images
 ![2024년08년09일-산호반-이해나-5969390234.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년09일-산호반-이해나-5969390234.jpg)
 
 ![2024년08년09일-산호반-이해나-5969390235.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년09일-산호반-이해나-5969390235.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 손은 아프다고 하지 않고 약발라 달라고도 안했습니다."
+date: 2024-03-14
 ---
 
-# 2024-03-14 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~ 해나 콧물이 어제보다  더  나옵니다.  하원시켜보시기 바랍니다.
 
-## Attached Images
 ![2024년03년14일-산호반-이해나-5314682846.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년14일-산호반-이해나-5314682846.jpg)
 
 ![2024년03년14일-산호반-이해나-5314682848.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년14일-산호반-이해나-5314682848.jpg)

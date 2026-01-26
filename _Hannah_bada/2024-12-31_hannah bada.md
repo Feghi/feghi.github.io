@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고,  오늘은 플레이콘을 이용해 이글루 꾸미기를 했습니다."
+date: 2024-12-31
 ---
 
-# 2024-12-31 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -16,7 +19,6 @@ tags: [이해나, 어린이집, 알림장]
 남은 24년도 마무리 잘하시고. 다가오는 25년도는 가정에 행복가득하길 빌겠습니다.
 새해복 많이 받으세요^^
 
-## Attached Images
 ![2024년12년31일-산호반-이해나-6666714711.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년31일-산호반-이해나-6666714711.jpg)
 
 ![2024년12년31일-산호반-이해나-6666714712.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년31일-산호반-이해나-6666714712.jpg)

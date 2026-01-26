@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고,  "지양산으로 감자 캐러 출발~~""
+date: 2024-06-19
 ---
 
-# 2024-06-19 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠 자고 일어나 오후간식 먹고, 하원했습니다.
 
-## Attached Images
 ![2024년06년19일-산호반-이해나-5748745677.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년19일-산호반-이해나-5748745677.jpg)
 
 ![2024년06년19일-산호반-이해나-5748745678.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년19일-산호반-이해나-5748745678.jpg)

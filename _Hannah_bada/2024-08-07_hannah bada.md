@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 드디어 "물놀이하는 날" 소나기가 갑자기 내려서 걱정했는데, 다행히 비가 그쳐서 수영복 입고 물놀이하러 출발~~"
+date: 2024-08-07
 ---
 
-# 2024-08-07 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -13,7 +16,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 키즈카페 갑니다. 9시30분까지 등원시켜 주시기 바랍니다.
 
-## Attached Images
 ![2024년08년07일-산호반-이해나-5957561822.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년07일-산호반-이해나-5957561822.jpg)
 
 ![2024년08년07일-산호반-이해나-5957561823.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년07일-산호반-이해나-5957561823.jpg)

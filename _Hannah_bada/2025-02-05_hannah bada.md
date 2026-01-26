@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고 오늘은 친구 "생일잔치" 했습니다."
+date: 2025-02-05
 ---
 
-# 2025-02-05 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -11,7 +14,6 @@ tags: [이해나, 어린이집, 알림장]
 
 점심밥  돈가스에 밥 잘 먹고, 낮잠시간에 안 졸린지 한참 동안 쫑알쫑알 이야기하다 잠들었습니다. 오후간식 잘 먹고 하원했습니다.
 
-## Attached Images
 ![2025년02년05일-산호반-이해나-6806403463.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년05일-산호반-이해나-6806403463.jpg)
 
 ![2025년02년05일-산호반-이해나-6806403465.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년05일-산호반-이해나-6806403465.jpg)

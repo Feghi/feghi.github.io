@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "좋아하는 오전간식 잘먹고,  오늘은 텃밭에 나가서 배추, 무, 쪽파를 심고 물도 주었습니다."
+date: 2024-09-25
 ---
 
-# 2024-09-25 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어린이집에서도 배변훈련은 시간 맞춰 잘 하고 있습니다.  가끔 하기 싫다고 할때가 있습니다.
 
-## Attached Images
 ![2024년09년25일-산호반-이해나-6186218847.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년25일-산호반-이해나-6186218847.jpg)
 
 ![2024년09년25일-산호반-이해나-6186218848.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년25일-산호반-이해나-6186218848.jpg)

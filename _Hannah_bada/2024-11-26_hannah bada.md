@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머님 덕분에 휴가 잘 다녀왔습니다.^^"
+date: 2024-11-26
 ---
 
-# 2024-11-26 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -24,7 +27,6 @@ tags: [이해나, 어린이집, 알림장]
 
 부모교육 자료 보내드립니다.
 
-## Attached Images
 ![2024년11년26일-산호반-이해나-6498827848.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827848.jpg)
 
 ![2024년11년26일-산호반-이해나-6498827851.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년26일-산호반-이해나-6498827851.jpg)

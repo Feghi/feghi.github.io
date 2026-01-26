@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "쌀쌀한 날씨로 하루를 시작했습니다."
+date: 2024-11-05
 ---
 
-# 2024-11-05 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠자고 일어나 오후간식 잘먹고 하원했습니다.
 
-## Attached Images
 ![2024년11년05일-산호반-이해나-6384094929.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년05일-산호반-이해나-6384094929.jpg)
 
 ![2024년11년05일-산호반-이해나-6384094933.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년05일-산호반-이해나-6384094933.jpg)

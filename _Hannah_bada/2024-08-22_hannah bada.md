@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고,  오늘은 수박 징검다리를 만들어 징검다리 건너보기도 하고,  산호반 친구들이 캠핑놀이를 좋아해서 캠핑놀이도 했습니다."
+date: 2024-08-22
 ---
 
-# 2024-08-22 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 17시  변기에 소변 성공
 19시 배변훈련 해주시면 됩니다.
 
-## Attached Images
 ![2024년08년22일-산호반-이해나-6027272916.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년22일-산호반-이해나-6027272916.jpg)
 
 ![2024년08년22일-산호반-이해나-6027272917.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년22일-산호반-이해나-6027272917.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 우유만 먹었습니다."
+date: 2024-09-10
 ---
 
-# 2024-09-10 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -23,7 +26,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오늘 기저귀에 쉬 한번도 안하고 변기에 다 성공했습니다. 5시30분 쉬 했습니다 2시간뒤 배변훈련  해주시기 바랍니다.
 
-## Attached Images
 ![2024년09년10일-산호반-이해나-6119900299.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900299.jpg)
 
 ![2024년09년10일-산호반-이해나-6119900301.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년10일-산호반-이해나-6119900301.jpg)

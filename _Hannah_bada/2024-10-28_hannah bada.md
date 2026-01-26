@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~  주말은 잘 보내셨는지요?"
+date: 2024-10-28
 ---
 
-# 2024-10-28 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 5시10분에 마지막 배변훈련했습니다.
 
-## Attached Images
 ![2024년10년28일-산호반-이해나-6337610665.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년28일-산호반-이해나-6337610665.jpg)
 
 ![2024년10년28일-산호반-이해나-6337610667.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년28일-산호반-이해나-6337610667.jpg)

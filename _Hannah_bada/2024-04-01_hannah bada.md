@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~  주말은 잘 보내셨는지요?"
+date: 2024-04-01
 ---
 
-# 2024-04-01 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -30,7 +33,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~해나 누런 콧물이 나옵니다.  지켜보시기 바랍니다.
 
-## Attached Images
 ![2024년04년01일-산호반-이해나-5392202172.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년01일-산호반-이해나-5392202172.jpg)
 
 ![2024년04년01일-산호반-이해나-5392202173.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년01일-산호반-이해나-5392202173.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~  해나랑 주말은 잘 보내셨는지요?"
+date: 2024-08-12
 ---
 
-# 2024-08-12 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식 고구마 잘먹었습니다.
 
-## Attached Images
 ![2024년08년12일-산호반-이해나-5979022534.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022534.jpg)
 
 ![2024년08년12일-산호반-이해나-5979022536.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년12일-산호반-이해나-5979022536.jpg)

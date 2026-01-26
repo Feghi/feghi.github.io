@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고  모래놀이 하러 출발~~"
+date: 2024-11-15
 ---
 
-# 2024-11-15 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 ♡공지사항에  서울시에서 '서울형 모아어린이집' 사업 효과 분석 및 개선방안을 도출하고자
 설문조사를 실시합니다. 설문조사에 참여부탁드립니다
 
-## Attached Images
 ![2024년11년15일-산호반-이해나-6444867320.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년15일-산호반-이해나-6444867320.jpg)
 
 ![2024년11년15일-산호반-이해나-6444867324.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년15일-산호반-이해나-6444867324.jpg)

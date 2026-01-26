@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "엄마라 헤어질 때 울지만 울음 끝이 길지는 않아서 좋아지는 것 같습니다."
+date: 2024-03-19
 ---
 
-# 2024-03-19 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~ 오늘 미술활동을 해서 옷에 물감이나 아이클레이가 뭍어 있을수 있습니다
 
-## Attached Images
 ![2024년03년19일-산호반-이해나-5333136738.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년19일-산호반-이해나-5333136738.jpg)
 
 ![2024년03년19일-산호반-이해나-5333136739.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년19일-산호반-이해나-5333136739.jpg)

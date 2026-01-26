@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고,  어제한 시장놀이 사진에 스티커로 꾸미기를 한 후 텃밭에 나가서 토마토."
+date: 2024-06-21
 ---
 
-# 2024-06-21 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나랑 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년06년21일-산호반-이해나-5761949837.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년21일-산호반-이해나-5761949837.jpg)
 
 ![2024년06년21일-산호반-이해나-5761949839.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년21일-산호반-이해나-5761949839.jpg)

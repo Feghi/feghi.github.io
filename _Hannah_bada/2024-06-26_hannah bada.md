@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "3일째 일찍 등원하는데 아주 씩씩하게 잘 노는  해나입니다."
+date: 2024-06-26
 ---
 
-# 2024-06-26 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -22,7 +25,6 @@ tags: [이해나, 어린이집, 알림장]
 
 여름 물놀이 통신문 나갑니다.  체크 후 원으로 보내주시기 바랍니다.
 
-## Attached Images
 ![2024년06년26일-산호반-이해나-5781889762.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년26일-산호반-이해나-5781889762.jpg)
 
 ![2024년06년26일-산호반-이해나-5781889763.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년26일-산호반-이해나-5781889763.jpg)

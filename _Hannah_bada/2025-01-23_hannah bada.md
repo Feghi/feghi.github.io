@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 치즈만 먹었습니다."
+date: 2025-01-23
 ---
 
-# 2025-01-23 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 가정통신문 1부 나갑니다.
 
-## Attached Images
 ![2025년01년23일-산호반-이해나-6764316670.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년23일-산호반-이해나-6764316670.jpg)
 
 ![2025년01년23일-산호반-이해나-6764316671.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년23일-산호반-이해나-6764316671.jpg)

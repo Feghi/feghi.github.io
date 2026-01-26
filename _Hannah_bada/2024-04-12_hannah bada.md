@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 잘 먹고, 공놀이한 후 바깥놀이 나갔습니다."
+date: 2024-04-12
 ---
 
-# 2024-04-12 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나랑 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년04년12일-산호반-이해나-5446249173.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년12일-산호반-이해나-5446249173.jpg)
 
 ![2024년04년12일-산호반-이해나-5446249174.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년12일-산호반-이해나-5446249174.jpg)

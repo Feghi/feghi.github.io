@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "이제는 너무 씩씩하게 등원하는 해나예요^^  오전간식은 조금 먹었습니다."
+date: 2024-04-04
 ---
 
-# 2024-04-04 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -20,7 +23,6 @@ tags: [이해나, 어린이집, 알림장]
 10시에 출발 예정이오니.
 10까지 원으로 오세요^^
 
-## Attached Images
 ![2024년04년04일-산호반-이해나-5410407254.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년04일-산호반-이해나-5410407254.jpg)
 
 ![2024년04년04일-산호반-이해나-5410407255.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년04일-산호반-이해나-5410407255.jpg)

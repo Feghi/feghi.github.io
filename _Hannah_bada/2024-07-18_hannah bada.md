@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "이번주는 장마 중이라 우리 아이들이 각종 감영병이 걸리지 않도록 주의하시기 바랍니다."
+date: 2024-07-18
 ---
 
-# 2024-07-18 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -20,7 +23,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식 잘 먹고 하원했습니다
 
-## Attached Images
 ![2024년07년18일-산호반-이해나-5896286509.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년18일-산호반-이해나-5896286509.jpg)
 
 ![2024년07년18일-산호반-이해나-5896286510.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년18일-산호반-이해나-5896286510.jpg)

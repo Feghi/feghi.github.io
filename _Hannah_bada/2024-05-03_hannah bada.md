@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 오늘은 구일공동체 푸른 숲 어린이집으로 출발~~^^"
+date: 2024-05-03
 ---
 
-# 2024-05-03 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 연휴 잘보내시고 화요일에 뵙겠습니다.^^
 
-## Attached Images
 ![2024년05년03일-산호반-이해나-5538189563.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년03일-산호반-이해나-5538189563.jpg)
 
 ![2024년05년03일-산호반-이해나-5538189565.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년03일-산호반-이해나-5538189565.jpg)

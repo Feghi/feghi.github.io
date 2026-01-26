@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 귤 오감놀이와 연계해서 귤을  이용해 계란판에 넣어보고, 귤로 고슴도치, 토끼, 탕후루도 만들며 놀았습니다."
+date: 2024-12-13
 ---
 
-# 2024-12-13 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 즐거운 주말 보내세요^^
 
-## Attached Images
 ![2024년12년13일-산호반-이해나-6598874578.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년13일-산호반-이해나-6598874578.jpg)
 
 ![2024년12년13일-산호반-이해나-6598874580.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년13일-산호반-이해나-6598874580.jpg)

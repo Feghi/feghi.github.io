@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 잘 먹고 오늘은 추석 맞이 "민속놀이" 했습니다."
+date: 2024-09-12
 ---
 
-# 2024-09-12 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 부모교육 2부 보내드립니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년09년12일-산호반-이해나-6135396349.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년12일-산호반-이해나-6135396349.jpg)
 
 ![2024년09년12일-산호반-이해나-6135396351.jpg](https://feghi.github.io/assets/img/bada_photo/2024년09년12일-산호반-이해나-6135396351.jpg)

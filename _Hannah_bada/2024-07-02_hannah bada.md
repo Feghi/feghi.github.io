@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "장마가  시작된것 같아요^^ 장마철 걸리기 쉬운 감염병에 주의하시기 바랍니다.^^"
+date: 2024-07-02
 ---
 
-# 2024-07-02 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~기저귀  보내주세요^^
 
-## Attached Images
 ![2024년07년02일-산호반-이해나-5808832823.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832823.jpg)
 
 ![2024년07년02일-산호반-이해나-5808832826.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년02일-산호반-이해나-5808832826.jpg)

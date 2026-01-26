@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "출근해서보니 해나 얼굴에 모기가 물려왔습니다."
+date: 2024-07-05
 ---
 
-# 2024-07-05 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~ 해나 칫솔 보내주세요^^
 
-## Attached Images
 ![2024년07년05일-산호반-이해나-5829467669.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년05일-산호반-이해나-5829467669.jpg)
 
 ![2024년07년05일-산호반-이해나-5829467674.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년05일-산호반-이해나-5829467674.jpg)

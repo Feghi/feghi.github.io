@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 간식시간에 돌아다니면서 먹으려고 해서, 책상에 앉아서 먹도록 이야기해 주고, 간식을 먹여 주었더니, 다 먹었습니다"
+date: 2024-04-25
 ---
 
-# 2024-04-25 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠자고 일어나 오후간식도 잘먹고 하원했습니다.
 
-## Attached Images
 ![2024년04년25일-산호반-이해나-5501826675.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년25일-산호반-이해나-5501826675.jpg)
 
 ![2024년04년25일-산호반-이해나-5501826677.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년25일-산호반-이해나-5501826677.jpg)

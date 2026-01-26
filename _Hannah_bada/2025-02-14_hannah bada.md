@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오랫만에 포근한 날씨로 하루를 시작했습니다."
+date: 2025-02-14
 ---
 
-# 2025-02-14 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -25,7 +28,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~ 늦어서 죄송합니다
 
-## Attached Images
 ![2025년02년14일-산호반-이해나-6856152575.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년14일-산호반-이해나-6856152575.jpg)
 
 ![2025년02년14일-산호반-이해나-6856152576.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년14일-산호반-이해나-6856152576.jpg)

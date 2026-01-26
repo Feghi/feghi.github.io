@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "엄마랑 현관에서 헤어지자 엄마를 찾았지만 교실에 들어와 선생님 품에 조금 안겨 있다가 기분이 좋아졌습니다."
+date: 2024-03-12
 ---
 
-# 2024-03-12 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오늘도 신나게 놀고 기분 좋게 하원했습니다.
 
-## Attached Images
 ![2024년03년12일-산호반-이해나-5303885973.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년12일-산호반-이해나-5303885973.jpg)
 
 ![2024년03년12일-산호반-이해나-5303885974.jpg](https://feghi.github.io/assets/img/bada_photo/2024년03년12일-산호반-이해나-5303885974.jpg)

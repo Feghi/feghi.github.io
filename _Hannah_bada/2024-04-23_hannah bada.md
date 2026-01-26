@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 교실로 들어와서 오전간식 조금 먹고, 놀고 싶은지 돌아다니며 먹었습니다."
+date: 2024-04-23
 ---
 
-# 2024-04-23 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~  내일 13시30분 상담있습니다.  참고하시기 바랍니다.
 
-## Attached Images
 ![2024년04년23일-산호반-이해나-5491675997.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년23일-산호반-이해나-5491675997.jpg)
 
 ![2024년04년23일-산호반-이해나-5491675998.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년23일-산호반-이해나-5491675998.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오랫만에 등원했는데도 환하게 웃으며 등원해주는 해나예요~~^^"
+date: 2024-05-31
 ---
 
-# 2024-05-31 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -30,7 +33,6 @@ tags: [이해나, 어린이집, 알림장]
 5. 6월 주간교육계획안 1장
  보내드립니다. 참고하시기 바랍니다
 
-## Attached Images
 ![2024년05년31일-산호반-이해나-5665049312.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년31일-산호반-이해나-5665049312.jpg)
 
 ![2024년05년31일-산호반-이해나-5665049313.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년31일-산호반-이해나-5665049313.jpg)

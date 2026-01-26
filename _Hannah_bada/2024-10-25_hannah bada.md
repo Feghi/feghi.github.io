@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 먹고, 푸른 숲어린이집으로 모래놀이 출발~~"
+date: 2024-10-25
 ---
 
-# 2024-10-25 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -22,7 +25,6 @@ tags: [이해나, 어린이집, 알림장]
 
 5시에 마지막 배변훈련했습니다.
 
-## Attached Images
 ![2024년10년25일-산호반-이해나-6330653914.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년25일-산호반-이해나-6330653914.jpg)
 
 ![2024년10년25일-산호반-이해나-6330653915.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년25일-산호반-이해나-6330653915.jpg)

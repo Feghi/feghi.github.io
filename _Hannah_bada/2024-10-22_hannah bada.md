@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "보슬보슬 가을비가 내리며 하루를 시작했습니다."
+date: 2024-10-22
 ---
 
-# 2024-10-22 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~해나 놀다가 쉬마렵다고 하더니,화장실 가다가 바지에 쉬해서 여벌바지로 갈아입었습니다.
 
-## Attached Images
 ![2024년10년22일-산호반-이해나-6307543572.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543572.jpg)
 
 ![2024년10년22일-산호반-이해나-6307543573.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년22일-산호반-이해나-6307543573.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "활짝 핀 벗꽃 보러 바다친구들과 엄마와 안양천으로 출발~~."
+date: 2024-04-05
 ---
 
-# 2024-04-05 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -21,7 +24,6 @@ tags: [이해나, 어린이집, 알림장]
 
 주간교육계획안 보내드립니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년04년05일-산호반-이해나-5416890686.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년05일-산호반-이해나-5416890686.jpg)
 
 ![2024년04년05일-산호반-이해나-5416890687.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년05일-산호반-이해나-5416890687.jpg)

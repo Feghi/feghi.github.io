@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "일찍 등원해서 씩씩하게 노는 해나입니다."
+date: 2024-07-10
 ---
 
-# 2024-07-10 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식 고구마 엄청 많이 먹고 하원했습니다.
 
-## Attached Images
 ![2024년07년10일-산호반-이해나-5853783980.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년10일-산호반-이해나-5853783980.jpg)
 
 ![2024년07년10일-산호반-이해나-5853783981.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년10일-산호반-이해나-5853783981.jpg)

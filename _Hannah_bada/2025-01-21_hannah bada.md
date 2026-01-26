@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원할 때 울고 등원해서 걱정하셨죠? 교실 들어오면 언제 그랬냐는 듯 기분 좋아진답니다."
+date: 2025-01-21
 ---
 
-# 2025-01-21 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 오후간식 잘먹었습니다.
 
-## Attached Images
 ![2025년01년21일-산호반-이해나-6749542047.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년21일-산호반-이해나-6749542047.jpg)
 
 ![2025년01년21일-산호반-이해나-6749542049.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년21일-산호반-이해나-6749542049.jpg)

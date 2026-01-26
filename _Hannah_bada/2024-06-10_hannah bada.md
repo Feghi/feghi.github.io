@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 해나랑 즐거운 여행을 다녀오셨는지요?"
+date: 2024-06-10
 ---
 
-# 2024-06-10 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -28,7 +31,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~ 해나 옷이 젖어서 여벌옷으로 갈아입혔습니다. 여벌옷이랑 수건  보내주세요.
 
-## Attached Images
 ![2024년06년10일-산호반-이해나-5698465229.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년10일-산호반-이해나-5698465229.jpg)
 
 ![2024년06년10일-산호반-이해나-5698465231.jpg](https://feghi.github.io/assets/img/bada_photo/2024년06년10일-산호반-이해나-5698465231.jpg)

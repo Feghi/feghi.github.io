@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘 일찍 등원했는데도, 기분 좋게 교실로 들어와 동화책을 들고 와 "둥글게 둥글게"를 부르며 놀았습니다."
+date: 2024-07-31
 ---
 
-# 2024-07-31 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 8월 식단표 1부, 음식기행 1부 보내드립니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년07년31일-산호반-이해나-5943186045.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년31일-산호반-이해나-5943186045.jpg)
 
 ![2024년07년31일-산호반-이해나-5943186046.jpg](https://feghi.github.io/assets/img/bada_photo/2024년07년31일-산호반-이해나-5943186046.jpg)

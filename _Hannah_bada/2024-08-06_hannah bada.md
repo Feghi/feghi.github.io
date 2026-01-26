@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 자두 다 먹고, 더 달라고 해서 더 먹었습니다."
+date: 2024-08-06
 ---
 
-# 2024-08-06 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 특별활동 월간계획안 2부 보내드립니다.
 
-## Attached Images
 ![2024년08년06일-산호반-이해나-5952358925.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년06일-산호반-이해나-5952358925.jpg)
 
 ![2024년08년06일-산호반-이해나-5952358926.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년06일-산호반-이해나-5952358926.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 들고 온 토끼인형은 사물함에 정리하고, 하루를 시작했습니다."
+date: 2024-04-19
 ---
 
-# 2024-04-19 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -29,7 +32,6 @@ tags: [이해나, 어린이집, 알림장]
 
 식목일에 심은 강낭콩 보내드립니다. 해나랑 키워보시기 바랍니다
 
-## Attached Images
 ![2024년04년19일-산호반-이해나-5476074951.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년19일-산호반-이해나-5476074951.jpg)
 
 ![2024년04년19일-산호반-이해나-5477445777.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년19일-산호반-이해나-5477445777.jpg)

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 오전간식 먹고,  좋아하는 블록 놀이하며 하루 시작했습니다."
+date: 2024-12-04
 ---
 
-# 2024-12-04 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~ 해나 맑은 콧물이 조금 나옵니다. 하원 후 지켜보시기 바랍니다.
 
-## Attached Images
 ![2024년12년04일-산호반-이해나-6545464765.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년04일-산호반-이해나-6545464765.jpg)
 
 ![2024년12년04일-산호반-이해나-6545464767.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년04일-산호반-이해나-6545464767.jpg)

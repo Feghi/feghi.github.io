@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "해나가 주말에 밖에서 놀다 넘어졌는데"
+date: 2024-04-29
 ---
 
-# 2024-04-29 - Hannah Bada
+
 
 **작성자:** 이해나 엄마 심보배  
 

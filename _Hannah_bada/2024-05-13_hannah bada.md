@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~  해나랑 주말은 잘 보내셨는지요?"
+date: 2024-05-13
 ---
 
-# 2024-05-13 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -22,7 +25,6 @@ tags: [이해나, 어린이집, 알림장]
 내일 오렌지탐색 있습니다. 앞치마 보내주세요^^
 부모교육자료 나갑니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년05년13일-산호반-이해나-5578491630.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년13일-산호반-이해나-5578491630.jpg)
 
 ![2024년05년13일-산호반-이해나-5578491631.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년13일-산호반-이해나-5578491631.jpg)

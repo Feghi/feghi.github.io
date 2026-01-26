@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 수박 수영장 동화책을 읽어보고, 블록놀이 했습니다."
+date: 2024-08-01
 ---
 
-# 2024-08-01 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,6 +20,5 @@ tags: [이해나, 어린이집, 알림장]
 
 해나랑 즐거운 시간 보내시고 월요일에 뵙겠습니다.
 
-## Attached Images
 ![2024년08년01일-산호반-이해나-5944446884.jpg](https://feghi.github.io/assets/img/bada_photo/2024년08년01일-산호반-이해나-5944446884.jpg)
 

@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 파프리카스틱 먹기 싫다고 해서 작게 잘라서 맛만보고, 우유는 잘 먹었습니다."
+date: 2024-10-29
 ---
 
-# 2024-10-29 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 가정통신문 보내드립니다.
 
-## Attached Images
 ![2024년10년29일-산호반-이해나-6345931710.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년29일-산호반-이해나-6345931710.jpg)
 
 ![2024년10년29일-산호반-이해나-6345931711.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년29일-산호반-이해나-6345931711.jpg)

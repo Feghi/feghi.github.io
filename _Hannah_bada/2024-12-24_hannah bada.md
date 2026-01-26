@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오늘은 "케이크 꾸미기" 했습니다."
+date: 2024-12-24
 ---
 
-# 2024-12-24 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 12월 9일에 못한 체육특별활동 보강수업은  12월 26일 목요일에 진행합니다.
 
-## Attached Images
 ![2024년12년24일-산호반-이해나-6653340566.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340566.jpg)
 
 ![2024년12년24일-산호반-이해나-6653340567.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년24일-산호반-이해나-6653340567.jpg)

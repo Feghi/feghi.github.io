@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "일찍 등원해서 친구랑 신나게  하루를 시작했습니다."
+date: 2024-10-08
 ---
 
-# 2024-10-08 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 어머니~~ 해나 지양산 참석하시는 거죠? 체크가 안 돼있어서요.  다시 여쭈어 봅니다.
 
-## Attached Images
 ![2024년10년08일-산호반-이해나-6239292066.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292066.jpg)
 
 ![2024년10년08일-산호반-이해나-6239292067.jpg](https://feghi.github.io/assets/img/bada_photo/2024년10년08일-산호반-이해나-6239292067.jpg)

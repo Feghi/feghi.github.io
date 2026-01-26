@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "안녕하세요."
+date: 2025-01-06
 ---
 
-# 2025-01-06 - Hannah Bada
+
 
 **작성자:** 이해나 아빠 심보배  
 

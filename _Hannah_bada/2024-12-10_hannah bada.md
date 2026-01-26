@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 스스로 귤껍질 벗겨서 잘 먹었습니다."
+date: 2024-12-10
 ---
 
-# 2024-12-10 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -17,7 +20,6 @@ tags: [이해나, 어린이집, 알림장]
 
 부모교육자료 보내드립니다.
 
-## Attached Images
 ![2024년12년10일-산호반-이해나-6573397682.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년10일-산호반-이해나-6573397682.jpg)
 
 ![2024년12년10일-산호반-이해나-6573397683.jpg](https://feghi.github.io/assets/img/bada_photo/2024년12년10일-산호반-이해나-6573397683.jpg)

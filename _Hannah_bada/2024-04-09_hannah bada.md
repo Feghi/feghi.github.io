@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 오전간식 다 먹고  신나게 하루를 시작했습니다."
+date: 2024-04-09
 ---
 
-# 2024-04-09 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 식단표에 가족액자 액자 만들기가 오늘로 되어있는데 다음주 화요일 입니다. 참고하시기 바랍니다.
 
-## Attached Images
 ![2024년04년09일-산호반-이해나-5431258744.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년09일-산호반-이해나-5431258744.jpg)
 
 ![2024년04년09일-산호반-이해나-5431258746.jpg](https://feghi.github.io/assets/img/bada_photo/2024년04년09일-산호반-이해나-5431258746.jpg)

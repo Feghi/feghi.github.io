@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 어제 연차는  잘 다녀왔습니다.^^"
+date: 2024-05-23
 ---
 
-# 2024-05-23 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -23,7 +26,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나 이름표는 가방에 보내드립니다. 확인해 보시기 바랍니다.
 
-## Attached Images
 ![2024년05년23일-산호반-이해나-5623071720.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년23일-산호반-이해나-5623071720.jpg)
 
 ![2024년05년23일-산호반-이해나-5623071725.jpg](https://feghi.github.io/assets/img/bada_photo/2024년05년23일-산호반-이해나-5623071725.jpg)

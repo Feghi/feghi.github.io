@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "친구들과 블록놀이하며 신나게 하루를 시작했습니다."
+date: 2024-11-07
 ---
 
-# 2024-11-07 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -15,7 +18,6 @@ tags: [이해나, 어린이집, 알림장]
 
 내일은 푸른숲 어린이집으로 모래놀이 갑니다.  편한신발 신고, 따뜻하게 옷입고. 9시30분까지 등원시켜 주시기 바랍니다.
 
-## Attached Images
 ![2024년11년07일-산호반-이해나-6400621852.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년07일-산호반-이해나-6400621852.jpg)
 
 ![2024년11년07일-산호반-이해나-6400621853.jpg](https://feghi.github.io/assets/img/bada_photo/2024년11년07일-산호반-이해나-6400621853.jpg)

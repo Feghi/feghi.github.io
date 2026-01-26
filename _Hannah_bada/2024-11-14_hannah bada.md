@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "어머니~~ 투약의뢰서 투약보내주세요"
+date: 2024-11-14
 ---
 
-# 2024-11-14 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 

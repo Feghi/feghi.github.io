@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "등원해서 분홍색 예쁜옷을 입었다고 자랑했습니다."
+date: 2025-01-03
 ---
 
-# 2025-01-03 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -19,7 +22,6 @@ tags: [이해나, 어린이집, 알림장]
 
 해나 수건 1개 남아 있습니다.
 
-## Attached Images
 ![2025년01년03일-산호반-이해나-6671421796.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년03일-산호반-이해나-6671421796.jpg)
 
 ![2025년01년03일-산호반-이해나-6671421797.jpg](https://feghi.github.io/assets/img/bada_photo/2025년01년03일-산호반-이해나-6671421797.jpg)

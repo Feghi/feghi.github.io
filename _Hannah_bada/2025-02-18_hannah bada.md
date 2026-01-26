@@ -1,9 +1,12 @@
 ---
+layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
+title: "오전간식 치즈만 먹고, 오늘은 신나는 "고구마 경단 만들기" 했습니다."
+date: 2025-02-18
 ---
 
-# 2025-02-18 - Hannah Bada
+
 
 **작성자:** 산호반 교사 임은자  
 
@@ -14,7 +17,6 @@ tags: [이해나, 어린이집, 알림장]
 
 낮잠자고 일어나 오후간식도 잘 먹고 하원했습니다.
 
-## Attached Images
 ![2025년02년18일-산호반-이해나-6870069858.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년18일-산호반-이해나-6870069858.jpg)
 
 ![2025년02년18일-산호반-이해나-6870069859.jpg](https://feghi.github.io/assets/img/bada_photo/2025년02년18일-산호반-이해나-6870069859.jpg)
