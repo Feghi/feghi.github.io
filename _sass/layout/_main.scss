@@ -244,6 +244,10 @@ ul.tags {
 
         &.current {
             background-color: #2d4a3e;
+
+            a, a:visited, a:hover {
+                color: white;
+            }
         }
 
         &:hover:not(.current) {
