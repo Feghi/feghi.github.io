@@ -4,7 +4,9 @@
  * ----------------------------------------------------------------------------------------
  */
 #l-header {
-    background-color: rgb(28, 51, 64);
+    background-image: url('../img/header-bg.jpg');
+    background-size: cover;
+    background-position: center 43%;
     color: white;
 
     h1 {

@@ -76,7 +76,7 @@
         }
 
         header {
-            background-color: #1C3340;
+            background-color: #2d4a3e;
             color: white;
             max-height: 18rem;
 
@@ -98,10 +98,10 @@
 
         section h2 {
             font-size: 4rem;
-            color: #1c3340;
+            color: #2d4a3e;
             margin: 0;
             margin-bottom: 1rem;
-            border-bottom: 3px solid #1C3340;
+            border-bottom: 3px solid #2d4a3e;
         }
 
         section#intro {
@@ -132,7 +132,7 @@
                 display: inline;
                 background-color: #000000;
                 color: white;
-                border: 1px solid #1C3340;
+                border: 1px solid #2d4a3e;
                 padding: 0.5rem;
                 border-radius: 4px;
                 margin: 0rem;
@@ -184,10 +184,10 @@
             min-width: 2rem;
             font-size: 2rem;
             border-radius: 2px;
-            border: 1px solid #337AB7;
+            border: 1px solid #2d4a3e;
             display: inline-block;
             padding: 2px 11px;
-            box-shadow: 0 0 2px #337AB7;
+            box-shadow: 0 0 2px #2d4a3e;
         }
 
         ul li {
@@ -196,7 +196,7 @@
         }
 
         ul li.active {
-            background: #8BB3C1;;
+            background: #d4a574;
         }
     }
 }
@@ -209,7 +209,7 @@ ul.tags {
     float: left;
     margin-left: 1rem;
     padding: 0rem 1rem;
-    background-color: #8BB3C1;
+    background-color: #d4a574;
     color: white;
     border-radius: 15px;
     list-style-type: none !important;
@@ -243,7 +243,7 @@ ul.tags {
         padding-left: 2rem;
 
         &.current {
-            background-color: #1C3340;
+            background-color: #2d4a3e;
         }
 
         &:hover:not(.current) {
@@ -254,7 +254,7 @@ ul.tags {
 
     a, a:visited, a:hover {
         text-decoration: none;
-        color: #337ab7;
+        color: #2d4a3e;
     }
 }
 
@@ -269,7 +269,7 @@ ul.tags {
     margin-top: 1.5rem;
     text-align: center;
     line-height: 2rem;
-    box-shadow: 0 0 3px #1C3340;
+    box-shadow: 0 0 3px #2d4a3e;
     border-radius: 50%;
 }
 
@@ -363,7 +363,7 @@ ul.tags {
                 h2 {
                     font-size: 4rem;
                     margin: 0;
-                    border-bottom: 3px solid #1C3340;
+                    border-bottom: 3px solid #2d4a3e;
                 }
             }
 
