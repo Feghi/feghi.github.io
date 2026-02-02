@@ -30,8 +30,13 @@ shout: # Required: **TWO** lines, will be displayed on page's header.
 description: Son of Sokcho # Required
 
 disqus:
-  comments: true # Global toggle on/off disqus comment
-  shortname: disqus # Required if you use disqus. Repalce with your disqus shortname here
+  comments: false # Disabled - using utterances instead
+  shortname: disqus
+
+utterances:
+  repo: feghi/feghi.github.io # Your GitHub repo for comments
+  issue_term: pathname # Issues mapped by pathname
+  theme: github-light # github-light, github-dark, preferred-color-scheme, etc.
 
 google_analytics:
   id: "UA-176070257-1" # Required if you use google analytics. Replace with your tracking id here
@@ -39,6 +44,14 @@ google_analytics:
 collections: # Define post series here
   Hannah_bada:
     output: true
+
+exclude:
+  - nul
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - run_jekyll.bat
+  - run_jekyll.ps1
 
 defaults:
   - scope:

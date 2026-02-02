@@ -63,3 +63,8 @@
 {% if page.layout == "post" %}
 <script src="{{ '/assets/js/post.js' | relative_url }}" defer></script>
 {% endif %}
+
+{% if page.layout == "grouped_post" %}
+<script src="{{ '/assets/js/simplePagination.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/list_pagi.js' | relative_url }}" defer></script>
+{% endif %}
