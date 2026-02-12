@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget install:*)",
+      "Bash(C:Ruby31-x64bingem.cmd install jekyll bundler)",
+      "Bash(cmd.exe /c \"C:\\\\Ruby31-x64\\\\bin\\\\gem.cmd install jekyll bundler\")",
+      "Bash(powershell.exe -Command \"& ''C:\\\\Ruby31-x64\\\\bin\\\\gem.cmd'' install jekyll bundler\")",
+      "Bash(powershell.exe -Command \"& ''C:\\\\Ruby31-x64\\\\bin\\\\bundle.cmd'' install\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem -Path ''C:\\\\'' -Directory -Filter ''Ruby*'' | Select-Object -ExpandProperty FullName\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Ruby31-x64\\\\bin\\\\'' -Filter ''bundle*''\")",
+      "Bash(powershell.exe -Command \"& ''C:\\\\Ruby31-x64\\\\bin\\\\bundle.bat'' install\")",
+      "Bash(cmd.exe /c \"C:\\\\Ruby31-x64\\\\bin\\\\bundle.bat exec jekyll serve --trace\")",
+      "Bash(powershell.exe -Command \"netstat -ano | Select-String '':4000''\")",
+      "Bash(cmd.exe /c:*)",
+      "Bash(powershell.exe -NoProfile -Command \"cd ''C:\\\\Users\\\\USER\\\\Project\\\\feghi.github.io''; $env:PATH = ''C:\\\\Ruby31-x64\\\\bin;'' + $env:PATH; C:\\\\Ruby31-x64\\\\bin\\\\ruby.exe C:\\\\Ruby31-x64\\\\bin\\\\bundle exec jekyll serve 2>&1\")",
+      "Bash(powershell.exe -NoProfile -Command '$env:PATH = \\\\\"\"C:\\\\Ruby31-x64\\\\bin;\\\\\"\" + $env:PATH; bundle exec jekyll serve 2>&1')",
+      "Bash(powershell.exe:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(gh api:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(bundle exec jekyll serve:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git push)",
+      "Bash(git pull:*)",
+      "Bash(git --version:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
