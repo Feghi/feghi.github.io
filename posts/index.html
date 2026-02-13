@@ -1,0 +1,14 @@
+---
+layout: default
+title: All Posts
+permalink: /posts/
+---
+
+<div class="posts-page-header">
+  <h1 class="posts-page-title">
+    <i class="fa fa-file-text"></i> All Posts
+  </h1>
+  <p class="posts-page-description">{{ site.posts | size }}개의 포스트가 있습니다</p>
+</div>
+
+{% include post_list.html %}

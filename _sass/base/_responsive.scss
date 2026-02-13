@@ -1,0 +1,312 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Mobile Responsive Improvements
+ * ----------------------------------------------------------------------------------------
+ */
+
+// Responsive breakpoints
+$breakpoint-xs: 480px;
+$breakpoint-sm: 768px;
+$breakpoint-md: 992px;
+$breakpoint-lg: 1200px;
+
+// Touch-friendly improvements
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+}
+
+a, button {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+// Improve text readability on mobile
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Mobile-first responsive styles
+@media (max-width: $breakpoint-sm) {
+  body {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  // Header improvements
+  #l-header {
+    padding: 15px 0;
+    
+    .logo {
+      h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      
+      p {
+        font-size: 14px;
+        line-height: 1.4;
+      }
+    }
+    
+    // Mobile navigation
+    .navbar {
+      nav {
+        width: 100%;
+        
+        ul {
+          flex-direction: column;
+          
+          li {
+            width: 100%;
+            margin-bottom: 10px;
+            text-align: center;
+            
+            a {
+              display: block;
+              padding: 12px 20px;
+              font-size: 16px;
+            }
+          }
+        }
+      }
+      
+      .search {
+        width: 100%;
+        margin-top: 15px;
+        
+        input {
+          width: 100%;
+          padding: 12px 15px;
+          font-size: 16px;
+        }
+      }
+    }
+  }
+  
+  // Main content
+  #l-main {
+    padding: 20px 0;
+    
+    .container {
+      padding: 0 15px;
+    }
+  }
+  
+  // Post layout
+  #post-title {
+    font-size: 28px;
+    line-height: 1.3;
+    margin-bottom: 15px;
+  }
+  
+  #post-meta {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  // Content typography
+  #markdown-container {
+    h1 { font-size: 28px; }
+    h2 { font-size: 24px; }
+    h3 { font-size: 20px; }
+    h4 { font-size: 18px; }
+    h5 { font-size: 16px; }
+    h6 { font-size: 14px; }
+    
+    p, li {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+    
+    // Images
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 20px auto;
+    }
+    
+    // Tables - horizontal scroll
+    table {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 20px 0;
+      
+      th, td {
+        padding: 8px 12px;
+        font-size: 14px;
+      }
+    }
+    
+    // Code blocks
+    pre {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 15px;
+      font-size: 14px;
+      
+      code {
+        font-size: 14px;
+      }
+    }
+    
+    // Blockquotes
+    blockquote {
+      margin: 20px 0;
+      padding: 15px 20px;
+      font-size: 15px;
+      border-left-width: 4px;
+    }
+  }
+  
+  // Tags
+  .tags {
+    li {
+      margin: 5px 5px 5px 0;
+      
+      a {
+        padding: 6px 12px;
+        font-size: 13px;
+      }
+    }
+  }
+  
+  // Footer
+  #l-footer {
+    padding: 20px 0;
+    font-size: 14px;
+    
+    .container {
+      padding: 0 15px;
+    }
+  }
+  
+  // Pagination
+  .pagination {
+    margin: 30px 0;
+    
+    a, span {
+      padding: 8px 12px;
+      font-size: 14px;
+      margin: 0 3px;
+    }
+  }
+  
+  // Post list
+  .post-list-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    
+    .post-title {
+      font-size: 20px;
+      line-height: 1.3;
+    }
+    
+    .post-excerpt {
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    
+    .post-meta {
+      font-size: 13px;
+    }
+  }
+  
+  // Outline sidebar - hide on mobile
+  #markdown-outline {
+    display: none;
+  }
+}
+
+// Tablet improvements
+@media (min-width: $breakpoint-sm) and (max-width: $breakpoint-md) {
+  #l-header {
+    .navbar {
+      nav {
+        ul {
+          li {
+            padding: 0 10px;
+            
+            a {
+              font-size: 15px;
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  #markdown-container {
+    h1 { font-size: 32px; }
+    h2 { font-size: 28px; }
+    h3 { font-size: 24px; }
+  }
+}
+
+// Small mobile devices
+@media (max-width: $breakpoint-xs) {
+  body {
+    font-size: 15px;
+  }
+  
+  #post-title {
+    font-size: 24px;
+  }
+  
+  #markdown-container {
+    h1 { font-size: 24px; }
+    h2 { font-size: 21px; }
+    h3 { font-size: 18px; }
+    
+    p, li {
+      font-size: 15px;
+    }
+  }
+  
+  .tags li a {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+}
+
+// Landscape orientation
+@media (max-width: $breakpoint-sm) and (orientation: landscape) {
+  #l-header {
+    .logo {
+      h1 {
+        font-size: 20px;
+      }
+      
+      p {
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+// Touch device improvements
+@media (hover: none) and (pointer: coarse) {
+  // Increase touch targets
+  a, button {
+    min-height: 44px;
+    min-width: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  // Remove hover effects on touch devices
+  a:hover, button:hover {
+    opacity: 0.8;
+  }
+}
+
+// High DPI displays
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  img {
+    image-rendering: -webkit-optimize-contrast;
+  }
+}

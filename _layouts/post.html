@@ -13,15 +13,21 @@ markdown: true
         {% endfor %}
       </ul>
       {% endif %}
-      <p id="post-meta">posted on <b>{{ page.date | date_to_string }}</b>
+      <p id="post-meta">
+        posted on <b>{{ page.date | date_to_string }}</b>
         {% if page.categories[0] %}
         under category <b><a href="{{ '/category/#' | relative_url }}{{ page.categories[0] }}">{{ page.categories |
             join: ", " }}</a></b>
         {% endif %}
+        &nbsp;•&nbsp;
+        {% include reading_time.html %}
       </p>
     </header>
 
     {{ content }}
+    
+    {% include social_share.html %}
+    {% include related_posts.html %}
   </div>
 
   <div id="markdown-outline" class="col-lg-3">

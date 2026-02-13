@@ -1,7 +1,7 @@
 source 'https://rubygems.org/'
 
-
-gem 'jekyll', '~> 3.9.0'
+# Jekyll 4.3.x - Latest stable version
+gem 'jekyll', '~> 4.3.3'
 gem 'ffi', '~> 1.16.3'
 gem 'kramdown-parser-gfm'
 gem 'webrick'

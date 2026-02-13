@@ -53,6 +53,11 @@ exclude:
   - run_jekyll.bat
   - run_jekyll.ps1
 
+# Include PWA files
+include:
+  - service-worker.js
+  - manifest.json
+
 defaults:
   - scope:
       path: ""

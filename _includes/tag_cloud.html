@@ -1,0 +1,134 @@
+<!-- Tag Cloud Visualization -->
+
+<div class="tag-cloud-container">
+  <h2 class="tag-cloud-title">
+    <i class="fa fa-tags"></i> 태그 클라우드
+  </h2>
+  <p class="tag-cloud-description">클릭하여 태그별 포스트를 확인하세요</p>
+  
+  <div class="tag-cloud">
+    {% assign sorted_tags = site.tags | sort %}
+    {% assign max_count = 0 %}
+    {% assign min_count = 999999 %}
+    
+    <!-- Find min and max post counts -->
+    {% for tag in sorted_tags %}
+      {% assign count = tag[1] | size %}
+      {% if count > max_count %}
+        {% assign max_count = count %}
+      {% endif %}
+      {% if count < min_count %}
+        {% assign min_count = count %}
+      {% endif %}
+    {% endfor %}
+    
+    <!-- Calculate the range for font size scaling -->
+    {% assign range = max_count | minus: min_count %}
+    {% if range == 0 %}
+      {% assign range = 1 %}
+    {% endif %}
+    
+    {% for tag in sorted_tags %}
+      {% assign tag_name = tag[0] %}
+      {% assign count = tag[1] | size %}
+      
+      <!-- Calculate font size (14px to 32px) -->
+      {% assign normalized = count | minus: min_count | times: 1.0 | divided_by: range %}
+      {% assign font_size = normalized | times: 18 | plus: 14 %}
+      
+      <!-- Calculate opacity (0.6 to 1.0) -->
+      {% assign opacity = normalized | times: 0.4 | plus: 0.6 %}
+      
+      <a href="#{{ tag_name }}" 
+         class="tag-cloud-item" 
+         data-tag="{{ tag_name }}"
+         data-count="{{ count }}"
+         style="font-size: {{ font_size }}px; opacity: {{ opacity }};"
+         title="{{ tag_name }} ({{ count }} 포스트)">
+        {{ tag_name }}
+        <span class="tag-count">{{ count }}</span>
+      </a>
+    {% endfor %}
+  </div>
+  
+  <!-- Tag Statistics -->
+  <div class="tag-stats">
+    <div class="tag-stat-item">
+      <i class="fa fa-tags"></i>
+      <strong>{{ site.tags | size }}</strong> 개의 태그
+    </div>
+    <div class="tag-stat-item">
+      <i class="fa fa-file-text"></i>
+      <strong>{{ site.posts | size }}</strong> 개의 포스트
+    </div>
+  </div>
+</div>
+
+<!-- Posts grouped by selected tag -->
+<div class="row tag-posts-container">
+  <ul class="col-lg-2" id="group-list">
+      {% assign idx = 0 %}
+      {% for group in include.groups %}
+          {% assign group_name = group | first %}
+          {% unless group_name == "collections" %}
+            <li {% if idx == 0 %} class="current" {% endif %} data-show="{{ group | first }}">
+              <a href="javascript:void(0)">
+              {{ group | first }}
+              <span class="cate-count">{{ group | last | size }}</span>
+              </a>
+            </li>
+          {% assign idx = idx | plus: 1 %}
+          {% endunless %}
+      {% endfor %}
+  </ul>
+
+  {% assign groupIdx = 0 %}
+  {% for group in include.groups %}
+    {% assign group_name = group | first %}
+    {% unless group_name == "collections" %}
+      <section class="showcase col-lg-9 col-lg-offset-1 {% if groupIdx > 0 %} hide {% else %} current {% endif %}" data-show="{{ group | first }}">
+        {% for posts in group %}
+            {% include post_list.html posts=posts groupIdx=groupIdx %}
+            {% assign groupIdx = groupIdx | plus: 1 %}
+        {% endfor %}
+      </section>
+    {% endunless %}
+  {% endfor %}
+</div>
+
+<script>
+// Smooth scroll to tag section when tag is clicked
+document.querySelectorAll('.tag-cloud-item').forEach(function(item) {
+  item.addEventListener('click', function(e) {
+    e.preventDefault();
+    var tag = this.dataset.tag;
+    var targetElement = document.querySelector('[data-show="' + tag + '"]');
+    
+    // Remove current class from all items
+    document.querySelectorAll('#group-list li').forEach(function(li) {
+      li.classList.remove('current');
+    });
+    document.querySelectorAll('.showcase').forEach(function(section) {
+      section.classList.add('hide');
+      section.classList.remove('current');
+    });
+    
+    // Add current class to selected items
+    var listItem = document.querySelector('#group-list li[data-show="' + tag + '"]');
+    if (listItem) {
+      listItem.classList.add('current');
+    }
+    
+    var showcase = document.querySelector('.showcase[data-show="' + tag + '"]');
+    if (showcase) {
+      showcase.classList.remove('hide');
+      showcase.classList.add('current');
+      
+      // Scroll to tag posts
+      setTimeout(function() {
+        showcase.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+    }
+  });
+});
+</script>
