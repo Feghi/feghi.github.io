@@ -1,0 +1,34 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Reading Time Styles
+ * ----------------------------------------------------------------------------------------
+ */
+
+.reading-time {
+  display: inline-block;
+  color: #666;
+  font-size: 14px;
+  font-weight: normal;
+  
+  i {
+    margin-right: 4px;
+    color: #999;
+  }
+}
+
+[data-theme="dark"] {
+  .reading-time {
+    color: #aaa;
+    
+    i {
+      color: #888;
+    }
+  }
+}
+
+// Mobile responsive
+@media (max-width: 768px) {
+  .reading-time {
+    font-size: 13px;
+  }
+}

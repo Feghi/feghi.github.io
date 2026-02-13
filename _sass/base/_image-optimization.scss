@@ -1,0 +1,130 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Image Optimization Styles
+ * ----------------------------------------------------------------------------------------
+ */
+
+// Image loading placeholder
+img[data-src] {
+  background: linear-gradient(
+    90deg,
+    var(--code-bg) 0%,
+    var(--border-color) 50%,
+    var(--code-bg) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  min-height: 200px;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+// Fade in animation for loaded images
+img {
+  &.loaded {
+    animation: fadeIn 0.3s ease-in;
+  }
+  
+  &.lazy-native {
+    opacity: 1;
+  }
+  
+  &.error {
+    position: relative;
+    
+    &::after {
+      content: '이미지를 불러올 수 없습니다';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: var(--code-bg);
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-size: 14px;
+      color: var(--text-color);
+      white-space: nowrap;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// Image container optimizations
+#markdown-container {
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px var(--shadow-color);
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 16px var(--shadow-color);
+    }
+  }
+  
+  // Image captions
+  img + em {
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    color: #888;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-style: italic;
+    
+    [data-theme="dark"] & {
+      color: #aaa;
+    }
+  }
+}
+
+// Responsive images
+@media (max-width: 768px) {
+  #markdown-container img {
+    margin: 15px auto;
+    border-radius: 6px;
+    
+    &:hover {
+      transform: none;
+    }
+  }
+  
+  img[data-src] {
+    min-height: 150px;
+  }
+}
+
+// High DPI display optimization
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  img {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+}
+
+// Print optimization
+@media print {
+  img {
+    page-break-inside: avoid;
+    max-width: 100% !important;
+  }
+}

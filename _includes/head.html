@@ -6,6 +6,15 @@
 
 {% feed_meta %}
 {% seo %}
+{% include seo.html %}
+
+<!-- PWA Meta Tags -->
+<meta name="theme-color" content="#0066cc">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="fe.flag">
+<link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/favicon.ico' | relative_url }}">
 
 <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/icon">
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/icon">
@@ -33,3 +42,6 @@
 
 <!-- javascripts -->
 <script src="{{ '/assets/js/jquery.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/lazy-loading.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/pwa.js' | relative_url }}" defer></script>

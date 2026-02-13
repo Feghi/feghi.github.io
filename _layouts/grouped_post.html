@@ -13,5 +13,10 @@ layout: default
     {% when 'tag' %}
      {% assign groups = site.tags %}
   {% endcase %}
-  {% include group_list.html groups=groups %}
+  
+  {% if group_name == 'tag' %}
+    {% include tag_cloud.html groups=groups %}
+  {% else %}
+    {% include group_list.html groups=groups %}
+  {% endif %}
 {% endif %}

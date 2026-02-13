@@ -1,0 +1,158 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Related Posts Styles
+ * ----------------------------------------------------------------------------------------
+ */
+
+.related-posts {
+  margin-top: 60px;
+  padding-top: 40px;
+  border-top: 2px solid var(--border-color);
+}
+
+.related-posts-title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: var(--text-color);
+  
+  i {
+    margin-right: 10px;
+    color: var(--link-color);
+  }
+}
+
+.related-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+  margin-bottom: 40px;
+}
+
+.related-post-item {
+  background-color: var(--header-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px var(--shadow-color);
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px var(--shadow-color);
+    border-color: var(--link-color);
+  }
+}
+
+.related-post-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.related-post-content {
+  padding: 20px;
+}
+
+.related-post-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  line-height: 1.4;
+  color: var(--text-color);
+  transition: color 0.3s ease;
+  
+  .related-post-link:hover & {
+    color: var(--link-color);
+  }
+}
+
+.related-post-excerpt {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #666;
+  margin-bottom: 12px;
+  
+  [data-theme="dark"] & {
+    color: #aaa;
+  }
+}
+
+.related-post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-size: 13px;
+  color: #888;
+  margin-bottom: 12px;
+  
+  i {
+    margin-right: 4px;
+  }
+}
+
+.related-post-date,
+.related-post-category {
+  display: inline-flex;
+  align-items: center;
+}
+
+.related-post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  font-size: 11px;
+  color: var(--text-color);
+  transition: all 0.2s ease;
+  
+  .related-post-link:hover & {
+    background-color: var(--link-color);
+    color: #fff;
+    border-color: var(--link-color);
+  }
+}
+
+// Mobile responsive
+@media (max-width: 768px) {
+  .related-posts {
+    margin-top: 40px;
+    padding-top: 30px;
+  }
+  
+  .related-posts-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .related-posts-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .related-post-content {
+    padding: 16px;
+  }
+  
+  .related-post-title {
+    font-size: 16px;
+  }
+  
+  .related-post-excerpt {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .related-post-meta {
+    flex-direction: column;
+    gap: 6px;
+  }
+}

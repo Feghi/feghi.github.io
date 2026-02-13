@@ -1,0 +1,199 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Dark Mode Styles
+ * ----------------------------------------------------------------------------------------
+ */
+
+// Dark mode color variables
+:root {
+  --bg-color: #f9f7f3;
+  --text-color: #333;
+  --header-bg: #fff;
+  --link-color: #0066cc;
+  --border-color: #e0e0e0;
+  --code-bg: #f5f5f5;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --header-bg: #2d2d2d;
+  --link-color: #66b3ff;
+  --border-color: #404040;
+  --code-bg: #2d2d2d;
+  --shadow-color: rgba(255, 255, 255, 0.1);
+}
+
+// Apply dark mode styles
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+[data-theme="dark"] {
+  #l-header {
+    background-color: var(--header-bg);
+    border-bottom: 1px solid var(--border-color);
+    
+    h1, p {
+      color: var(--text-color);
+    }
+    
+    a {
+      color: var(--text-color);
+      
+      &:hover {
+        color: var(--link-color);
+      }
+    }
+    
+    .search input {
+      background-color: var(--code-bg);
+      color: var(--text-color);
+      border-color: var(--border-color);
+      
+      &::placeholder {
+        color: #888;
+      }
+    }
+  }
+  
+  #l-main {
+    background-color: var(--bg-color);
+  }
+  
+  #l-footer {
+    background-color: var(--header-bg);
+    border-top: 1px solid var(--border-color);
+    color: var(--text-color);
+  }
+  
+  // Post content
+  #post-title {
+    color: var(--text-color);
+  }
+  
+  #post-meta {
+    color: #888;
+  }
+  
+  // Links
+  a {
+    color: var(--link-color);
+  }
+  
+  // Code blocks
+  pre, code {
+    background-color: var(--code-bg);
+    border-color: var(--border-color);
+  }
+  
+  // Tables
+  table {
+    border-color: var(--border-color);
+    
+    th, td {
+      border-color: var(--border-color);
+    }
+    
+    thead {
+      background-color: var(--code-bg);
+    }
+  }
+  
+  // Blockquotes
+  blockquote {
+    border-left-color: var(--border-color);
+    background-color: var(--code-bg);
+    color: var(--text-color);
+  }
+  
+  // Cards and containers
+  .post-list-item,
+  .card {
+    background-color: var(--header-bg);
+    border-color: var(--border-color);
+    box-shadow: 0 2px 4px var(--shadow-color);
+  }
+  
+  // Tags
+  .tags li a {
+    background-color: var(--code-bg);
+    color: var(--text-color);
+    border-color: var(--border-color);
+    
+    &:hover {
+      background-color: var(--link-color);
+      color: #fff;
+    }
+  }
+  
+  // Images - invert brightness slightly for better visibility
+  img {
+    opacity: 0.9;
+  }
+}
+
+// Dark mode toggle button
+.theme-toggle {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: var(--header-bg);
+  border: 2px solid var(--border-color);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  box-shadow: 0 4px 8px var(--shadow-color);
+  transition: all 0.3s ease;
+  z-index: 1000;
+  
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 12px var(--shadow-color);
+  }
+  
+  &:active {
+    transform: scale(0.95);
+  }
+  
+  .icon {
+    transition: opacity 0.3s ease;
+  }
+  
+  .sun-icon {
+    opacity: 0;
+  }
+  
+  .moon-icon {
+    opacity: 1;
+  }
+  
+  [data-theme="dark"] & {
+    .sun-icon {
+      opacity: 1;
+    }
+    
+    .moon-icon {
+      opacity: 0;
+    }
+  }
+}
+
+// Mobile responsive
+@media (max-width: 768px) {
+  .theme-toggle {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+  }
+}
