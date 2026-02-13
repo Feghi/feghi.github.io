@@ -1,0 +1,61 @@
+<!-- Latest Posts Section -->
+<section class="home-latest-posts">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">
+        <i class="fa fa-clock-o"></i> 최신 포스트
+      </h2>
+      <a href="{{ '/posts' | relative_url }}" class="section-link">
+        전체 보기 <i class="fa fa-arrow-right"></i>
+      </a>
+    </div>
+    
+    <div class="latest-posts-grid">
+      {% for post in site.posts limit: 6 %}
+      <article class="post-card">
+        <a href="{{ post.url | relative_url }}" class="post-card-link">
+          {% if post.image %}
+          <div class="post-card-image" style="background-image: url('{{ post.image }}');">
+            <div class="post-card-overlay"></div>
+          </div>
+          {% else %}
+          <div class="post-card-image post-card-image-placeholder">
+            <i class="fa fa-file-text-o"></i>
+          </div>
+          {% endif %}
+          
+          <div class="post-card-content">
+            {% if post.categories[0] %}
+            <span class="post-card-category">
+              <i class="fa fa-folder"></i> {{ post.categories[0] }}
+            </span>
+            {% endif %}
+            
+            <h3 class="post-card-title">
+              {{ post.title | replace: "_", " " | capitalize | truncate: 60 }}
+            </h3>
+            
+            <p class="post-card-excerpt">
+              {{ post.excerpt | strip_html | truncate: 100 }}
+            </p>
+            
+            <div class="post-card-meta">
+              <span class="post-card-date">
+                <i class="fa fa-calendar"></i> {{ post.date | date: "%Y-%m-%d" }}
+              </span>
+              
+              {% if post.tags %}
+              <div class="post-card-tags">
+                {% for tag in post.tags limit: 2 %}
+                <span class="post-card-tag">#{{ tag }}</span>
+                {% endfor %}
+              </div>
+              {% endif %}
+            </div>
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,54 @@
+<!-- Blog Statistics Section -->
+<section class="home-stats">
+  <div class="container">
+    <h2 class="section-title">
+      <i class="fa fa-bar-chart"></i> 블로그 통계
+    </h2>
+    
+    <div class="stats-grid">
+      <!-- Total Posts -->
+      <div class="stat-item">
+        <div class="stat-icon">
+          <i class="fa fa-file-text"></i>
+        </div>
+        <div class="stat-content">
+          <div class="stat-number">{{ site.posts | size }}</div>
+          <div class="stat-label">포스트</div>
+        </div>
+      </div>
+      
+      <!-- Total Categories -->
+      <div class="stat-item">
+        <div class="stat-icon">
+          <i class="fa fa-folder-open"></i>
+        </div>
+        <div class="stat-content">
+          <div class="stat-number">{{ site.categories | size }}</div>
+          <div class="stat-label">카테고리</div>
+        </div>
+      </div>
+      
+      <!-- Total Tags -->
+      <div class="stat-item">
+        <div class="stat-icon">
+          <i class="fa fa-tags"></i>
+        </div>
+        <div class="stat-content">
+          <div class="stat-number">{{ site.tags | size }}</div>
+          <div class="stat-label">태그</div>
+        </div>
+      </div>
+      
+      <!-- Latest Update -->
+      <div class="stat-item">
+        <div class="stat-icon">
+          <i class="fa fa-calendar-check-o"></i>
+        </div>
+        <div class="stat-content">
+          <div class="stat-number">{{ site.posts.first.date | date: "%m/%d" }}</div>
+          <div class="stat-label">최근 업데이트</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

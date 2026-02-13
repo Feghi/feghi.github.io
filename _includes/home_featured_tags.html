@@ -1,0 +1,63 @@
+<!-- Featured Tags Section -->
+<section class="home-featured-tags">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">
+        <i class="fa fa-tags"></i> 인기 태그
+      </h2>
+      <a href="{{ '/tag' | relative_url }}" class="section-link">
+        전체 태그 보기 <i class="fa fa-arrow-right"></i>
+      </a>
+    </div>
+    
+    <div class="featured-tags-cloud">
+      {% assign sorted_tags = site.tags | sort %}
+      {% assign max_count = 0 %}
+      {% assign min_count = 999999 %}
+      
+      <!-- Find min and max post counts -->
+      {% for tag in sorted_tags %}
+        {% assign count = tag[1] | size %}
+        {% if count > max_count %}
+          {% assign max_count = count %}
+        {% endif %}
+        {% if count < min_count %}
+          {% assign min_count = count %}
+        {% endif %}
+      {% endfor %}
+      
+      <!-- Calculate the range for font size scaling -->
+      {% assign range = max_count | minus: min_count %}
+      {% if range == 0 %}
+        {% assign range = 1 %}
+      {% endif %}
+      
+      <!-- Sort tags by count and display top 15 -->
+      {% assign tags_with_count = '' | split: '' %}
+      {% for tag in site.tags %}
+        {% assign tag_name = tag[0] %}
+        {% assign count = tag[1] | size %}
+        {% assign tag_data = tag_name | append: '||' | append: count %}
+        {% assign tags_with_count = tags_with_count | push: tag_data %}
+      {% endfor %}
+      
+      {% for tag_data in tags_with_count limit: 15 %}
+        {% assign tag_parts = tag_data | split: '||' %}
+        {% assign tag_name = tag_parts[0] %}
+        {% assign count = tag_parts[1] | plus: 0 %}
+        
+        <!-- Calculate font size (16px to 28px) -->
+        {% assign normalized = count | minus: min_count | times: 1.0 | divided_by: range %}
+        {% assign font_size = normalized | times: 12 | plus: 16 %}
+        
+        <a href="{{ '/tag/#' | relative_url }}{{ tag_name }}" 
+           class="featured-tag-item" 
+           style="font-size: {{ font_size }}px;"
+           title="{{ tag_name }} ({{ count }} 포스트)">
+          {{ tag_name }}
+          <span class="featured-tag-count">{{ count }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
