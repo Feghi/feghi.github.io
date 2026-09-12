@@ -105,3 +105,16 @@ table p{
     margin: 0;
 
 }
+
+// Keep the original desktop/print document, but fit small browser screens.
+@media screen and (max-width: 780px) {
+    #markdown-container {
+        box-sizing: border-box;
+        width: calc(100% - 24px);
+        margin: 12px auto 48px;
+        padding: 20px;
+        overflow-wrap: anywhere;
+    }
+    #markdown-container pre { overflow-x: auto; }
+    #markdown-container table { display: block; max-width: 100%; overflow-x: auto; }
+}

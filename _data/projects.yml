@@ -1,0 +1,9 @@
+# Only projects established by the repository/session are included.
+# Optional fields: year, status, technologies, github, demo, image, image_alt.
+- title: fe.flag
+  description: 연구, 코드, 책과 일상을 모으는 Jekyll 기반 개인 디지털 아카이브.
+  year: 2020
+  status: Active
+  technologies: [Jekyll, Markdown, Liquid, SCSS, JavaScript]
+  github: https://github.com/Feghi/feghi.github.io
+  demo: /

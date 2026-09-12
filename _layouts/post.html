@@ -19,7 +19,7 @@ markdown: true
             join: ", " }}</a></b>
         {% endif %}
       </p>
-    </header>
+    {% if page.type == 'book' and page.book %}{% include book-metadata.html book=page.book %}{% endif %}</header>
 
     {{ content }}
   </div>

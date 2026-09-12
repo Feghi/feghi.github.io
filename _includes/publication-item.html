@@ -1,0 +1,10 @@
+{% assign publication = include.publication %}
+{% capture publication_url %}{% include data-url.html url=publication.url %}{% endcapture %}
+<li class="publication-item">
+  <div class="publication-year">{{ publication.year | escape }}</div>
+  <div>
+    <h3>{% if publication_url != '' %}<a href="{{ publication_url | escape }}">{{ publication.title | escape }}</a>{% else %}{{ publication.title | escape }}{% endif %}</h3>
+    {% if publication.authors %}<p class="publication-authors">{{ publication.authors | join: ', ' | escape }}</p>{% endif %}
+    <p class="publication-venue">{{ publication.venue | escape }}{% if publication.kind %}<span> · {{ publication.kind | escape }}</span>{% endif %}{% if publication.category %}<span> · {{ publication.category | escape }}</span>{% endif %}</p>
+  </div>
+</li>

@@ -1,0 +1,14 @@
+---
+layout: default
+title: Projects
+description: 직접 만들고 다듬어 가는 소프트웨어와 작은 실험들.
+permalink: /projects/
+---
+<div class="portfolio-page">
+  {% include portfolio-intro.html eyebrow="Built, tested & still evolving" %}
+  <section class="portfolio-section" aria-labelledby="projects-title">
+    <div class="section-heading"><h2 id="projects-title">Selected projects</h2><span class="portfolio-count">{{ site.data.projects.size }}</span></div>
+    <div class="project-grid">{% for project in site.data.projects %}{% include project-card.html project=project %}{% else %}<p class="portfolio-empty">프로젝트 기록을 정리하고 있습니다.</p>{% endfor %}</div>
+  </section>
+  <div class="portfolio-next"><div><h2>Small tools, everyday questions.</h2><p>브라우저에서 사용할 작은 도구들도 준비하고 있습니다.</p></div><a class="text-link" href="{{ '/lab/' | relative_url }}">Visit the Lab ↗</a></div>
+</div>

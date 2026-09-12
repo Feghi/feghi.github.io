@@ -1,0 +1,69 @@
+.site-shell .portfolio-page { padding: 56px 0 24px; }
+.site-shell .portfolio-intro {
+  margin-bottom: 36px;
+  h1 { font-size: 48px; line-height: 1.2; letter-spacing: -2px; margin: 14px 0 18px; }
+  h1 span { color: var(--accent); font-weight: 300; }
+  > p:not(.eyebrow) { color: var(--muted); font-size: 14px; margin: 0; line-height: 1.9; max-width: 640px; }
+}
+.site-shell .portfolio-sections { display: flex; flex-wrap: wrap; gap: 12px 28px; padding: 0 0 20px; border-bottom: 1px solid var(--line); }
+.site-shell .portfolio-sections a { color: var(--muted); font-size: 12px; text-decoration: none; }
+.site-shell .portfolio-sections a:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 4px; }
+.site-shell .portfolio-section { margin: 40px 0 52px; scroll-margin-top: 24px; }
+.site-shell .portfolio-section > .section-heading { margin-bottom: 24px; }
+.site-shell .portfolio-count { font: 12px var(--font-mono); color: var(--muted); padding: 4px 8px; background: var(--surface-subtle); border-radius: 4px; }
+.site-shell .research-interests { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 32px; }
+.site-shell .research-interests li { display: flex; align-items: center; gap: 18px; padding: 17px 0; border-bottom: 1px solid var(--line); font-size: 16px; }
+.site-shell .research-interests span { font: 11px var(--font-mono); color: var(--accent); }
+.site-shell .publication-context { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 12px; }
+.site-shell .publication-context p { font-size: 12px; color: var(--muted); margin: 0; }
+.site-shell .publication-list { list-style: none; padding: 0; margin: 0; }
+.site-shell .publication-item { display: grid; grid-template-columns: 54px minmax(0, 1fr); gap: 20px; padding: 22px 0; border-bottom: 1px solid var(--line); }
+.site-shell .publication-year { color: var(--muted); font: 12px/1.8 var(--font-mono); padding-top: 3px; }
+.site-shell .publication-item h3 { font-size: 17px; font-weight: 600; line-height: 1.55; margin: 0 0 6px; overflow-wrap: anywhere; }
+.site-shell .publication-item p { font-size: 12px; color: var(--muted); line-height: 1.8; margin: 0; }
+.site-shell .more-publications summary { cursor: pointer; padding: 18px 0; font-size: 13px; color: var(--accent); }
+.site-shell .more-publications summary span { font: 11px var(--font-mono); margin-left: 10px; color: var(--muted); }
+.site-shell .more-publications summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.site-shell .portfolio-footnote { color: var(--muted); font-size: 12px; line-height: 1.9; margin: 18px 0; }
+.site-shell .project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+// Keep the legacy article styling out of portfolio cards.
+.site-shell #l-main .project-card { display: flex; flex-direction: column; margin: 0; padding: 0; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); box-shadow: none; overflow: hidden; }
+.site-shell .project-image { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-bottom: 1px solid var(--line); }
+.site-shell .project-card-body { display: flex; flex-direction: column; flex: 1; padding: 26px; }
+.site-shell .project-meta { display: flex; align-items: center; justify-content: space-between; gap: 12px; font: 11px var(--font-mono); color: var(--muted); margin-bottom: 18px; }
+.site-shell .project-status { padding: 5px 8px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); }
+.site-shell .project-card h3 { font-size: 21px; line-height: 1.45; letter-spacing: -.3px; margin: 0 0 12px; overflow-wrap: anywhere; }
+.site-shell .project-card p { font-size: 13px; line-height: 1.9; color: var(--muted); margin: 0 0 18px; }
+.site-shell .technology-list { display: flex; flex-wrap: wrap; gap: 7px; list-style: none; padding: 0; margin: 0 0 20px; }
+.site-shell .technology-list li { padding: 4px 8px; background: var(--surface-subtle); border: 1px solid var(--line); color: var(--muted); border-radius: 5px; font: 10px/1.6 var(--font-mono); }
+.site-shell .project-links { display: flex; flex-wrap: wrap; gap: 16px; border-top: 1px solid var(--line); padding-top: 18px; margin-top: auto; }
+.site-shell .project-links a { font-size: 12px; font-weight: 600; text-decoration: none; }
+.site-shell .project-links a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.site-shell .teaching-list { list-style: none; padding: 0; }
+.site-shell .teaching-list > li { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; padding: 24px 0; border-top: 1px solid var(--line); }
+.site-shell .teaching-period { font: 11px var(--font-mono); color: var(--muted); }
+.site-shell .teaching-list h3 { font-size: 18px; margin: 8px 0; }
+.site-shell .teaching-list p { font-size: 13px; color: var(--muted); margin: 0 0 12px; }
+.site-shell .portfolio-empty { padding: 24px; border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: 13px; }
+.site-shell .portfolio-next { display: flex; justify-content: space-between; align-items: center; gap: 24px; border-top: 1px solid var(--line); padding-top: 32px; }
+.site-shell .portfolio-next h2 { font-size: 20px; margin: 0 0 10px; }
+.site-shell .portfolio-next p { font-size: 13px; color: var(--muted); margin: 0; }
+.site-shell .lab-status { font-size: 11px; color: var(--muted); background: var(--surface-subtle); border: 1px solid var(--line); padding: 5px 10px; border-radius: 5px; }
+.site-shell .lab-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin: 24px 0 0; list-style: none; padding: 0; }
+.site-shell .lab-card { padding: 24px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--surface); }
+.site-shell .lab-card-meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; color: var(--muted); font: 10px var(--font-mono); margin-bottom: 30px; }
+.site-shell .lab-card h3 { font-size: 18px; line-height: 1.4; margin: 0 0 12px; }
+.site-shell .lab-card p { font-size: 13px; line-height: 1.8; color: var(--muted); margin: 0; }
+@media (max-width: 900px) { .site-shell .lab-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 760px) {
+  .site-shell .portfolio-page { padding-top: 32px; }
+  .site-shell .portfolio-intro h1 { font-size: 38px; }
+  .site-shell .research-interests, .site-shell .project-grid, .site-shell .teaching-list > li { grid-template-columns: 1fr; }
+  .site-shell .portfolio-section .section-heading { flex-wrap: wrap; }
+  .site-shell .portfolio-next { align-items: start; flex-direction: column; }
+}
+@media (max-width: 560px) {
+  .site-shell .lab-grid { grid-template-columns: 1fr; }
+  .site-shell .publication-item { grid-template-columns: 40px minmax(0, 1fr); gap: 12px; }
+  .site-shell .publication-context { flex-wrap: wrap; }
+}

@@ -1,0 +1,61 @@
+// Editorial presentation layer. Legacy article bodies and route logic stay intact.
+.site-shell {
+  .archive-shell, #l-main > .container, #l-footer > .container { max-width: 1400px; }
+  .wordmark { font: 600 22px var(--font-body); letter-spacing: -.8px; }
+  #l-main > .container:has(#markdown-container) { max-width: 1080px; }
+  .archive-intro h1, .portfolio-intro h1 { font-size: clamp(44px, 6vw, 80px); font-weight: 400; letter-spacing: -.055em; }
+  .archive-intro, .portfolio-intro { padding: 16px 0 28px; }
+  .archive-tabs { gap: 12px; }
+  .archive-tabs a { border-radius: 0; padding: 10px 0; margin-right: 20px; }
+  .archive-tabs a[aria-current] { background: transparent; border-color: transparent; box-shadow: 0 2px var(--ink); }
+  .archive-filters { border: 0; border-bottom: 1px solid var(--line); padding: 0 0 24px; border-radius: 0; background: transparent; }
+  .archive-filters input, .archive-filters select, .archive-filters button { border-radius: 3px; }
+  .archive-filters label { min-width: 0; }
+  .archive-filters input, .archive-filters select { box-sizing: border-box; max-width: 100%; }
+  .archive-header { background: var(--canvas); }
+  .theme-toggle { background: transparent; border-radius: 3px; }
+  .primary-nav a[aria-current] { box-shadow: none; text-decoration: underline; text-underline-offset: 6px; }
+  .dashboard-hero { display: grid; grid-template-columns: 1.2fr 1fr; gap: 8%; padding: 64px 0 80px; align-items: stretch; }
+  .hero-copy { padding: 24px 0; align-self: center; }
+  .dashboard-hero h1 { font-size: clamp(52px, 6.4vw, 92px); font-weight: 400; line-height: 1.03; letter-spacing: -.065em; margin: 36px 0; }
+  .dashboard-hero h1 span { color: var(--muted); font-weight: inherit; }
+  .hero-intro { font-size: 16px; line-height: 1.9; margin-bottom: 26px; }
+  .hero-index { background: var(--surface-subtle); padding: 30px; border-radius: var(--radius); }
+  .hero-index > .eyebrow { margin-bottom: 22px; }
+  .hero-index a { display: block; position: relative; padding: 20px 40px 22px 0; border-top: 1px solid var(--line); text-decoration: none; }
+  .hero-index small { display: block; font: 11px var(--font-mono); color: var(--muted); margin-bottom: 12px; }
+  .hero-index a > span { display: block; font-size: clamp(24px, 2.5vw, 36px); line-height: 1.12; letter-spacing: -1px; }
+  .hero-index b { position: absolute; right: 0; top: 48%; font-size: 24px; font-weight: 400; transition: transform .2s; }
+  .hero-index a:hover b { transform: translate(3px, -3px); }
+  .stats-grid { border: 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); border-radius: 0; background: transparent; margin-bottom: 64px; }
+  .stat-card { padding: 28px 24px; }
+  .stat-card dd { font: 400 52px/1.2 var(--font-body); letter-spacing: -3px; }
+  .section-heading h2 { font-size: 32px; font-weight: 400; letter-spacing: -1px; }
+  .recent-section { margin-top: 64px; }
+  .content-grid { gap: 32px; }
+  #l-main .content-card { border: 0; border-top: 1px solid var(--line); border-radius: 0; background: transparent; }
+  #l-main .content-card:hover { transform: none; }
+  #l-main .content-card > a { padding: 22px 0; }
+  #l-main .content-card .content-type { padding: 0; background: transparent; border-radius: 0; }
+  #l-main .content-card h3 { font-size: 24px; font-weight: 500; margin-top: 30px; }
+  #l-main .content-card .card-bottom { border-top: 0; }
+  #l-main .content-card .card-bottom > span { transition: transform .2s; }
+  #l-main .content-card:hover .card-bottom > span { transform: translate(3px, -3px); }
+  #l-footer { background: var(--canvas); margin-top: 96px; padding: 48px 0; }
+  .hero-copy { animation: editorial-in .55s ease both; }
+}
+@keyframes editorial-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+@media (max-width: 760px) {
+  .site-shell {
+    .dashboard-hero { grid-template-columns: 1fr; gap: 36px; padding: 32px 0 48px; }
+    .dashboard-hero h1 { font-size: clamp(50px, 11vw, 76px); letter-spacing: -.06em; }
+    .hero-copy { padding: 0; }
+    .hero-index { padding: 24px; }
+    .hero-index a > span { font-size: 28px; }
+    .hero-index a > span br { display: none; }
+    .stats-grid { margin-bottom: 40px; }
+    .stat-card { padding: 22px 16px; }
+    .section-heading h2 { font-size: 28px; }
+    .recent-section { margin-top: 40px; }
+  }
+}

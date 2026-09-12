@@ -1,0 +1,12 @@
+{% capture valid_rating %}{% include book-rating.html book=include.book %}{% endcapture %}
+{% assign valid_rating = valid_rating | strip %}
+{% capture metadata_rows %}
+  {% if include.book.title and include.book.title != '' %}<div><dt>Title</dt><dd>{{ include.book.title | escape }}</dd></div>{% endif %}
+  {% if include.book.author and include.book.author != '' %}<div><dt>Author</dt><dd>{{ include.book.author | escape }}</dd></div>{% endif %}
+  {% if valid_rating != '' %}<div><dt>Rating</dt><dd>{{ valid_rating }} / 5</dd></div>{% endif %}
+  {% if include.book.genre and include.book.genre != '' %}<div><dt>Genre</dt><dd>{{ include.book.genre | escape }}</dd></div>{% endif %}
+  {% if include.book.medium and include.book.medium != '' %}<div><dt>Medium</dt><dd>{{ include.book.medium | escape }}</dd></div>{% endif %}
+  {% if include.book.finished and include.book.finished != '' %}<div><dt>Finished</dt><dd>{{ include.book.finished | date: '%Y-%m-%d' | escape }}</dd></div>{% endif %}
+{% endcapture %}
+{% assign metadata_rows = metadata_rows | strip %}
+{% if metadata_rows != '' %}<dl class="book-metadata" aria-label="Book details">{{ metadata_rows }}</dl>{% endif %}

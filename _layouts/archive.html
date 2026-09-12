@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% include archive-items.html %}
+{% assign visible_items = '' | split: ',' %}
+{% for item in archive_items %}
+  {% capture item_type %}{% include content-type.html post=item %}{% endcapture %}
+  {% assign item_type = item_type | strip %}
+  {% if page.archive_type == nil or item_type == page.archive_type %}{% assign visible_items = visible_items | push: item %}{% endif %}
+{% endfor %}
+<div class="archive-page">
+  <header class="archive-intro">
+    <p class="eyebrow">The personal archive / {{ page.archive_type | default: 'all entries' }}</p>
+    <h1>{{ page.title | escape }}<span aria-hidden="true"> /</span></h1>
+    <p>{{ page.description | escape }}</p>
+  </header>
+  {% include archive-tabs.html %}
+  {% if page.archive_type == 'book' %}{% include book-stats.html books=visible_items %}{% endif %}
+  <section class="archive-browser" data-archive-browser aria-labelledby="entries-title">
+    <div class="section-heading"><h2 id="entries-title">{{ page.entries_title | default: 'All entries' }}</h2><p class="archive-note" data-result-count aria-live="polite">{{ visible_items.size }} entries</p></div>
+    <div class="archive-filters" data-filters hidden>
+      <label class="archive-query">Search entries<input type="search" data-archive-query placeholder="제목, 태그, 저자로 찾기…" autocomplete="off"></label>
+      <label>{% if page.archive_type == 'book' %}Reading year{% else %}Post year{% endif %}<select data-archive-year><option value="">All years</option></select></label>
+      {% unless page.archive_type %}<label>Content type<select data-archive-type><option value="">All types</option></select></label>{% endunless %}
+      <button type="button" data-clear-filters>Clear filters</button>
+    </div>
+    <div class="content-grid" data-archive-entries>
+      {% for item in visible_items %}
+        {% capture item_type %}{% include content-type.html post=item %}{% endcapture %}
+        {% assign item_type = item_type | strip %}
+        {% capture item_year %}{% if page.archive_type == 'book' %}{% include book-year.html post=item %}{% else %}{{ item.date | date: '%Y' }}{% endif %}{% endcapture %}
+        {% capture item_title %}{% include card-title.html post=item %}{% endcapture %}
+        <div class="archive-entry" data-entry data-type="{{ item_type | escape }}" data-year="{{ item_year | strip }}" data-search="{{ item_title | strip_html | escape }} {{ item.title | escape }} {{ item.tags | join: ' ' | escape }} {{ item.categories | join: ' ' | escape }} {{ item.book.author | escape }} {{ item.book.genre | escape }} {{ item.book.medium | escape }}">
+          {% include post-card.html post=item %}
+        </div>
+      {% endfor %}
+    </div>
+    {% if visible_items.size == 0 %}<div class="archive-empty"><h3>아직 기록이 없습니다.</h3><p>새로운 기록이 쌓이면 이곳에 표시됩니다.</p><a href="{{ '/archive/' | relative_url }}">전체 기록 보기 →</a></div>{% endif %}
+    <div class="archive-empty" data-no-results hidden><h3>일치하는 기록이 없습니다.</h3><p>검색어나 연도를 바꾸거나 Clear filters를 눌러보세요.</p></div>
+    <noscript><p class="archive-note">전체 목록입니다. 검색과 연도 필터는 JavaScript를 켜면 사용할 수 있습니다.</p></noscript>
+  </section>
+  <p class="archive-more">다른 방식으로 둘러보기 <a href="{{ '/category/' | relative_url }}">Categories ↗</a><a href="{{ '/tag/' | relative_url }}">Tags ↗</a><a href="{{ '/series/' | relative_url }}">Series ↗</a></p>
+</div>
+<script src="{{ '/assets/js/archive-browser.js' | relative_url }}" defer></script>

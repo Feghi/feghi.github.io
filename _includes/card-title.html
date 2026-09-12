@@ -1,0 +1,9 @@
+{%- assign display_title = include.post.title | replace: '_', ' ' -%}
+{%- if include.post.excerpt contains '<h1' -%}
+  {%- assign heading = include.post.excerpt | split: '<h1' | slice: 1 | first | split: '</h1>' | first -%}
+  {%- assign display_title = heading | split: '>' | shift | join: '>' | strip_html -%}
+{%- endif -%}
+{%- if include.post.book.title and include.post.book.title != '' -%}
+  {%- assign display_title = include.post.book.title -%}
+{%- endif -%}
+{{- display_title -}}

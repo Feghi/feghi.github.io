@@ -1,0 +1,15 @@
+<nav class="archive-tabs" aria-label="Archive collections">
+  <a href="{{ '/archive/' | relative_url }}" {% unless page.archive_type %}aria-current="page"{% endunless %}>All entries <span>{{ archive_items.size }}</span></a>
+  {% assign tab_types = 'book,recipe,mystery' | split: ',' %}
+  {% assign tab_labels = 'Books,Recipes,Mystery' | split: ',' %}
+  {% assign tab_paths = '/archive/books/,/archive/recipes/,/archive/mystery/' | split: ',' %}
+  {% for tab_type in tab_types %}
+    {% assign tab_count = 0 %}
+    {% for item in archive_items %}
+      {% capture item_type %}{% include content-type.html post=item %}{% endcapture %}
+      {% assign item_type = item_type | strip %}
+      {% if item_type == tab_type %}{% assign tab_count = tab_count | plus: 1 %}{% endif %}
+    {% endfor %}
+    <a href="{{ tab_paths[forloop.index0] | relative_url }}" {% if page.archive_type == tab_type %}aria-current="page"{% endif %}>{{ tab_labels[forloop.index0] }} <span>{{ tab_count }}</span></a>
+  {% endfor %}
+</nav>

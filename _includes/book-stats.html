@@ -1,0 +1,57 @@
+{% assign book_total = include.books.size %}
+{% assign book_years = '' | split: ',' %}
+{% assign book_ratings = '' | split: ',' %}
+{% assign rating_sum = 0.0 %}
+{% for item in include.books %}
+  {% capture book_year %}{% include book-year.html post=item %}{% endcapture %}
+  {% assign book_years = book_years | push: book_year %}
+  {% capture book_rating %}{% include book-rating.html book=item.book %}{% endcapture %}
+  {% assign book_rating = book_rating | strip %}
+  {% if book_rating != '' %}
+    {% assign book_ratings = book_ratings | push: book_rating %}
+    {% assign rating_sum = rating_sum | plus: book_rating %}
+  {% endif %}
+{% endfor %}
+{% assign rated_total = book_ratings.size %}
+{% assign unique_years = book_years | uniq | sort | reverse %}
+{% assign average = '—' %}
+{% if rated_total > 0 %}{% assign average = rating_sum | divided_by: rated_total | round: 2 %}{% endif %}
+<section class="book-statistics" aria-labelledby="reading-title">
+  <div class="section-heading"><h2 id="reading-title">Reading, over time</h2><span class="archive-note">All books · filters apply to entries below</span></div>
+  <dl class="stats-grid book-summary">
+    {% include stat-card.html label="Total books" count=book_total caption="Reviews in the archive" %}
+    {% include stat-card.html label="Average rating" count=average caption="Out of 5 · rated books only" %}
+    {% include stat-card.html label="Rated books" count=rated_total caption="With a recorded rating" %}
+    {% include stat-card.html label="Reading years" count=unique_years.size caption="Years represented" %}
+  </dl>
+  <div class="book-charts">
+    <div class="book-chart">
+      <h3>Books by year</h3>
+      <p class="archive-note">완독 연도 기준. 완독일이 없으면 글 작성 연도를 사용합니다.</p>
+      {% if book_total > 0 %}
+      <table class="chart-table"><caption class="sr-only">Number of books by year</caption>
+        <thead class="sr-only"><tr><th scope="col">Year</th><th scope="col">Share of books</th><th scope="col">Books</th></tr></thead>
+        <tbody>{% for year in unique_years %}
+          {% assign year_count = 0 %}
+          {% for book_year in book_years %}{% if book_year == year %}{% assign year_count = year_count | plus: 1 %}{% endif %}{% endfor %}
+          <tr data-book-year="{{ year }}"><th scope="row">{{ year }}</th><td><span class="chart-track" aria-hidden="true"><span style="width: {{ year_count | times: 100.0 | divided_by: book_total }}%"></span></span></td><td>{{ year_count }}</td></tr>
+        {% endfor %}</tbody>
+      </table>
+      {% else %}<p class="chart-empty">첫 독서 기록을 기다리고 있습니다.</p>{% endif %}
+    </div>
+    <div class="book-chart">
+      <h3>Rating distribution</h3>
+      <p class="archive-note">기록된 별점만 집계합니다. 소수점 별점은 구간별로 표시합니다.</p>
+      {% if rated_total > 0 %}
+      <table class="chart-table"><caption class="sr-only">Rating distribution, on a five-point scale</caption>
+        <thead class="sr-only"><tr><th scope="col">Rating range</th><th scope="col">Share of rated books</th><th scope="col">Books</th></tr></thead>
+        <tbody>{% for bucket in (0..5) %}
+          {% assign bucket_count = 0 %}
+          {% for book_rating in book_ratings %}{% assign rating_bucket = book_rating | plus: 0 | floor %}{% if rating_bucket == bucket %}{% assign bucket_count = bucket_count | plus: 1 %}{% endif %}{% endfor %}
+          <tr data-rating-bucket="{{ bucket }}"><th scope="row">{% if bucket == 5 %}5{% else %}{{ bucket }}–&lt;{{ bucket | plus: 1 }}{% endif %}</th><td><span class="chart-track" aria-hidden="true"><span style="width: {{ bucket_count | times: 100.0 | divided_by: rated_total }}%"></span></span></td><td>{{ bucket_count }}</td></tr>
+        {% endfor %}</tbody>
+      </table>
+      {% else %}<div class="chart-empty"><span aria-hidden="true">☆ ☆ ☆ ☆ ☆</span><p>아직 기록된 별점이 없습니다.</p><small>별점을 남기면 이곳에 독서 취향이 쌓입니다.</small></div>{% endif %}
+    </div>
+  </div>
+</section>

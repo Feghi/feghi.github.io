@@ -1,0 +1,13 @@
+---
+---
+// Loaded after the legacy styles; bare/resume layouts retain their own stylesheet.
+@import "base/tokens";
+@import "layout/archive-shell";
+@import "components/archive-cards";
+@import "components/activity";
+@import "pages/dashboard";
+@import "pages/legacy-theme";
+@import "pages/archive";
+@import "pages/portfolio";
+@import "pages/editorial";
+@import "pages/inner-pages";

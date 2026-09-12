@@ -1,0 +1,21 @@
+# Source: existing _data/me.yml and resume/index.md; original source files are unchanged.
+introduction: 통계학과 산업공학을 바탕으로 데이터와 네트워크를 연구합니다.
+scholar: https://scholar.google.com/citations?user=RPNKDrYAAAAJ&hl=ko
+interests:
+  - Graph Theory
+  - Data Mining
+  - Data-driven Decision Making
+  - Deep Learning
+projects:
+  - title: Equilibrium for Topic-aware Model and Network Weight Estimation Using Deep learning
+    description: 인하대학교 산업공학 박사학위 논문. 토픽 기반 모델과 네트워크 가중치 추정을 다룬 연구입니다.
+    year: 2020
+    status: Completed
+    source_url: http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=bab5b7793a6b31c3ffe0bdc3ef48d419
+    source_label: Thesis · RISS
+teaching:
+  - title: SW programming
+    institution: Inha University
+    period: 2020.03–2020.07
+    description: 대학원생 대상 R·Python 프로그래밍 강의.
+    topics: [R, Python]

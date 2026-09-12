@@ -1,0 +1,42 @@
+@mixin light-tokens {
+  color-scheme: light;
+  --canvas: #ffffff;
+  --surface: #ffffff;
+  --surface-subtle: #f3f3f1;
+  --ink: #171717;
+  --muted: #686866;
+  --line: #dededb;
+  --accent: #262626;
+  --accent-soft: #efefec;
+  --heat-0: #e9ede6;
+  --heat-1: #b6d8ad;
+  --heat-2: #7bb574;
+  --heat-3: #488647;
+  --heat-4: #28592f;
+}
+@mixin dark-tokens {
+  color-scheme: dark;
+  --canvas: #171717;
+  --surface: #1c1c1b;
+  --surface-subtle: #242423;
+  --ink: #f0f0ec;
+  --muted: #aeaeaa;
+  --line: #3a3a38;
+  --accent: #eeeeea;
+  --accent-soft: #30302d;
+  --heat-0: #2b352d;
+  --heat-1: #385d3d;
+  --heat-2: #4f8652;
+  --heat-3: #7bb574;
+  --heat-4: #b6d8ad;
+}
+:root {
+  @include light-tokens;
+  --font-body: "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  --font-mono: "Cascadia Code", Consolas, monospace;
+  --radius: 4px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { @include dark-tokens; }
+}
+:root[data-theme="dark"] { @include dark-tokens; }

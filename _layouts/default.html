@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
   {% include head.html %}
 </head>
@@ -11,15 +11,15 @@ layout: compress
   like resume
 -->
 {% unless layout.bare %}
-  <body>
+  <body class="site-shell{% if page.dashboard %} dashboard-page{% endif %}">
     {% include header.html %}
 
-    <section id="l-main">
+    <main id="l-main" tabindex="-1">
       <div class="container">
         {% include search_result.html %}
         {{ content }}
       </div>
-    </section>
+    </main>
 
     {% include footer.html %}
   </body>

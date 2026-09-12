@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description"
-  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ page.description | default: site.description | escape }}{% endif %}">
 
 {% feed_meta %}
 {% seo %}
@@ -14,6 +14,9 @@
   crossorigin>
 
 <!-- stylesheets -->
+{% unless layout.bare %}
+<script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+{% endunless %}
 <link rel="stylesheet" type="text/css" href="{{ '/assets/css/base.css' | relative_url }}">
 <link rel="stylesheet" type="text/css" href="{{ '/assets/css/simplePagination.css' | relative_url }}">
 
@@ -32,4 +35,7 @@
 
 
 <!-- javascripts -->
+{% unless layout.bare %}
+<link rel="stylesheet" href="{{ '/assets/css/archive.css' | relative_url }}">
+{% endunless %}
 <script src="{{ '/assets/js/jquery.js' | relative_url }}" defer></script>

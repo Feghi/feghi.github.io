@@ -1,0 +1,21 @@
+{% assign project = include.project %}
+{% capture project_image %}{% include data-url.html url=project.image %}{% endcapture %}
+{% capture project_github %}{% include data-url.html url=project.github %}{% endcapture %}
+{% capture project_demo %}{% include data-url.html url=project.demo %}{% endcapture %}
+{% capture project_source %}{% include data-url.html url=project.source_url %}{% endcapture %}
+<article class="project-card">
+  {% if project_image != '' %}<img class="project-image" src="{{ project_image | escape }}" alt="{{ project.image_alt | default: project.title | escape }}" loading="lazy" decoding="async">{% endif %}
+  <div class="project-card-body">
+    {% if project.year or project.status %}<div class="project-meta">{% if project.year %}<span>{{ project.year | escape }}</span>{% endif %}{% if project.status %}<span class="project-status">{{ project.status | escape }}</span>{% endif %}</div>{% endif %}
+    <h3>{{ project.title | escape }}</h3>
+    {% if project.description %}<p>{{ project.description | escape }}</p>{% endif %}
+    {% if project.technologies.size > 0 %}<ul class="technology-list" aria-label="Technologies">{% for technology in project.technologies %}<li>{{ technology | escape }}</li>{% endfor %}</ul>{% endif %}
+    {% if project_github != '' or project_demo != '' or project_source != '' %}
+      <div class="project-links">
+        {% if project_github != '' %}<a href="{{ project_github | escape }}" aria-label="{{ project.title | escape }} on GitHub">GitHub <span aria-hidden="true">↗</span></a>{% endif %}
+        {% if project_demo != '' %}<a href="{{ project_demo | escape }}" aria-label="Open {{ project.title | escape }} demo">View project <span aria-hidden="true">↗</span></a>{% endif %}
+        {% if project_source != '' %}<a href="{{ project_source | escape }}">{{ project.source_label | default: 'Read more' | escape }} <span aria-hidden="true">↗</span></a>{% endif %}
+      </div>
+    {% endif %}
+  </div>
+</article>

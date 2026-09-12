@@ -1,5 +1,44 @@
 ---
 layout: default
+dashboard: true
+title: fe.flag — Research · Code · Life
 ---
 
-{% include post_list.html %}
+<div class="dashboard">
+{% if paginator.page == 1 or paginator == nil %}
+  {% include hero.html %}
+  {% assign book_count = 0 %}{% assign recipe_count = 0 %}{% assign project_count = site.data.projects | size %}
+  {% comment %}Use the same public documents as the archive.{% endcomment %}
+  {% include archive-items.html %}
+    {% for item in archive_items %}
+      {% capture item_type %}{% include content-type.html post=item %}{% endcapture %}
+      {% assign item_type = item_type | strip %}
+      {% case item_type %}
+        {% when 'book' %}{% assign book_count = book_count | plus: 1 %}
+        {% when 'recipe' %}{% assign recipe_count = recipe_count | plus: 1 %}
+      {% endcase %}
+    {% endfor %}
+  <dl class="stats-grid" aria-label="Archive statistics">
+    {% include stat-card.html label="Books" count=book_count caption="Read & reflected" %}
+    {% include stat-card.html label="Projects" count=project_count caption="Made & explored" %}
+    {% include stat-card.html label="Recipes" count=recipe_count caption="Cooked & collected" %}
+    {% assign post_count = site.posts | size %}
+    {% include stat-card.html label="Posts" count=post_count caption="Notes along the way" %}
+  </dl>
+  {% include activity-graph.html %}
+{% endif %}
+  <section class="recent-section" aria-labelledby="recent-title">
+    <div class="section-heading"><div><p class="eyebrow">From the archive</p><h2 id="recent-title">{% if paginator.page > 1 %}Earlier entries{% else %}Recent activity{% endif %}</h2></div><a class="text-link" href="{{ '/archive/' | relative_url }}">Browse all <span aria-hidden="true">↗</span></a></div>
+    <div class="content-grid">
+      {% assign recent_posts = paginator.posts | default: site.posts %}
+      {% for post in recent_posts %}{% include post-card.html post=post %}{% else %}<p>No entries yet.</p>{% endfor %}
+    </div>
+    {% if paginator.total_pages > 1 %}
+    <nav class="dashboard-pagination" aria-label="Post pages">
+      {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">← Newer</a>{% endif %}
+      <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older entries →</a>{% endif %}
+    </nav>
+    {% endif %}
+  </section>
+</div>

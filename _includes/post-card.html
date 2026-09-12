@@ -1,0 +1,19 @@
+{% capture content_type %}{% include content-type.html post=include.post %}{% endcapture %}
+{% assign content_type = content_type | strip %}
+{% capture card_title %}{% include card-title.html post=include.post %}{% endcapture %}
+<article class="content-card">
+  <a href="{{ include.post.url | relative_url }}">
+    <div class="card-meta"><span class="content-type">{{ content_type | upcase | escape }}</span><time datetime="{{ include.post.date | date: '%Y-%m-%d' }}">{{ include.post.date | date: '%b %d, %Y' }}</time></div>
+    <h3>{{ card_title | escape }}</h3>
+    {% if content_type == 'book' and include.post.book %}
+      <div class="book-card-meta">
+        {% if include.post.book.author %}<span>{{ include.post.book.author | escape }}</span>{% endif %}
+        {% capture card_rating %}{% include book-rating.html book=include.post.book %}{% endcapture %}
+        {% assign card_rating = card_rating | strip %}
+        {% if card_rating != '' %}<span class="book-card-rating" aria-label="Rating {{ card_rating }} out of 5">★ {{ card_rating }} / 5</span>{% endif %}
+      </div>
+    {% endif %}
+    <p>{{ include.post.excerpt | strip_html | normalize_whitespace | truncate: 135 | escape }}</p>
+    <span class="card-bottom">{% if include.post.tags.first %}{{ include.post.tags.first | escape }}{% else %}Notes &amp; observations{% endif %}<span aria-hidden="true">↗</span></span>
+  </a>
+</article>

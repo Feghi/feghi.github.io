@@ -1,0 +1,55 @@
+.site-shell {
+  background: var(--canvas); color: var(--ink);
+  font: 15px/1.65 var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  [hidden] { display: none !important; }
+  a { color: var(--accent); }
+  a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible, [tabindex="0"]:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 4px;
+  }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; }
+  .skip-link { position: absolute; top: -100px; left: 16px; padding: 12px; background: var(--surface); z-index: 20; }
+  .skip-link:focus { top: 10px; }
+  .archive-shell, #l-main > .container, #l-footer > .container { width: calc(100% - 64px); max-width: 1080px; margin: 0 auto; padding: 0; }
+  .archive-header { border-bottom: 1px solid var(--line); background: var(--surface); }
+  .header-inner { display: flex; align-items: center; gap: 32px; min-height: 82px; }
+  .wordmark { color: var(--ink); font: 700 22px var(--font-mono); text-decoration: none; white-space: nowrap; }
+  .wordmark span { color: var(--accent); }
+  .primary-nav { display: flex; gap: 24px; align-items: center; margin-left: auto; font-size: 14px; }
+  .primary-nav a { color: var(--muted); text-decoration: none; padding: 8px 0; }
+  .primary-nav a:hover, .primary-nav a[aria-current] { color: var(--ink); }
+  .primary-nav a[aria-current] { box-shadow: 0 2px var(--accent); }
+  .nav-pending { color: var(--muted); cursor: default; border-bottom: 1px dotted var(--line); }
+  .theme-toggle { display: flex; align-items: center; gap: 8px; background: var(--surface-subtle); border: 1px solid var(--line); border-radius: 7px; padding: 8px 12px; color: var(--ink); font: 12px var(--font-body); cursor: pointer; transition: border-color .15s; }
+  .theme-toggle:hover { border-color: var(--accent); }
+  .utility-row { display: flex; align-items: center; justify-content: space-between; padding-bottom: 14px; gap: 20px; }
+  .utility-row nav { display: flex; gap: 20px; font-size: 12px; }
+  .utility-row a { color: var(--muted); text-decoration: none; }
+  .utility-row a:hover { color: var(--accent); }
+  .archive-search { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+  .archive-search input { width: 200px; border: 0; border-bottom: 1px solid var(--line); background: transparent; padding: 7px 0; font: 12px var(--font-body); color: var(--ink); border-radius: 0; }
+  .archive-search input::placeholder { color: var(--muted); }
+  #search-result-wrapper { margin: 24px 0; padding: 24px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+  #search-result-wrapper h2 { font-size: 20px; margin: 0 0 12px; }
+  #search-result { overflow-wrap: anywhere; }
+  #l-footer { margin-top: 64px; padding: 32px 0; background: var(--surface); border-top: 1px solid var(--line); color: var(--muted); }
+  #l-footer h3 { font: 11px var(--font-mono); letter-spacing: .08em; color: var(--muted); margin: 0 0 12px; }
+  #l-footer li, #l-footer a { font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+  #l-footer #legal { font: 11px/1.8 var(--font-body); color: var(--muted); margin-top: 24px; }
+  #l-footer .rss { font-size: 24px; color: var(--accent); }
+}
+@media (max-width: 760px) {
+  .site-shell {
+    .archive-shell, #l-main > .container, #l-footer > .container { width: calc(100% - 36px); }
+    .header-inner { flex-wrap: wrap; gap: 16px; padding: 20px 0 14px; }
+    .wordmark { flex: 1; }
+    .theme-toggle { order: 1; }
+    .primary-nav { order: 2; width: 100%; margin: 0; justify-content: space-between; gap: 10px; font-size: 12px; }
+    .utility-row { flex-wrap: wrap; gap: 12px; }
+    .archive-search, .archive-search input { width: 100%; }
+    #l-footer .row > div { margin-bottom: 20px; }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .site-shell *, .site-shell *::before, .site-shell *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

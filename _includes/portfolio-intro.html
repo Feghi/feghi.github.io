@@ -1,0 +1,5 @@
+<header class="portfolio-intro">
+  <p class="eyebrow">{{ include.eyebrow | escape }}</p>
+  <h1>{{ page.title | escape }}<span aria-hidden="true"> /</span></h1>
+  <p>{{ include.description | default: page.description | escape }}</p>
+</header>

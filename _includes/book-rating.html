@@ -1,0 +1,7 @@
+{%- comment -%}Accept canonical numbers from 0 to 5; missing/malformed ratings are not zero stars.{%- endcomment -%}
+{%- assign rating_text = include.book.rating | append: '' -%}
+{%- assign rating_number = include.book.rating | plus: 0 -%}
+{%- assign rating_canonical = rating_number | append: '' -%}
+{%- if rating_text == rating_canonical and rating_number >= 0 and rating_number <= 5 -%}
+  {{- rating_number -}}
+{%- endif -%}

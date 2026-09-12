@@ -1,0 +1,11 @@
+{%- comment -%}Only HTTP(S) or site-root-relative data links. Relative links respect baseurl.{%- endcomment -%}
+{%- assign data_url = include.url | default: '' | strip -%}
+{%- assign url_first = data_url | slice: 0, 1 -%}
+{%- assign url_second = data_url | slice: 1, 1 -%}
+{%- assign url_http = data_url | slice: 0, 7 | downcase -%}
+{%- assign url_https = data_url | slice: 0, 8 | downcase -%}
+{%- if url_http == 'http://' or url_https == 'https://' -%}
+  {{- data_url -}}
+{%- elsif url_first == '/' and url_second != '/' and url_second != '\' -%}
+  {{- data_url | relative_url -}}
+{%- endif -%}

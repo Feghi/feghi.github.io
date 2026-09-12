@@ -1,0 +1,15 @@
+{%- comment -%}
+  Shared archive source: posts plus explicitly typed documents in public collections.
+  Untyped series stay in /series/; do not turn the personal series into diary entries.
+{%- endcomment -%}
+{%- assign archive_items = site.posts | slice: 0, site.posts.size -%}
+{%- for collection in site.collections -%}
+  {%- if collection.label != 'posts' and collection.output -%}
+    {%- for document in collection.docs -%}
+      {%- if document.type and document.type != '' -%}
+        {%- assign archive_items = archive_items | push: document -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign archive_items = archive_items | sort: 'date' | reverse -%}

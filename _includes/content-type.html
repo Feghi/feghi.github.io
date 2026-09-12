@@ -1,0 +1,9 @@
+{%- comment -%}Explicit types win. Legacy tags affect presentation only, never URLs or source.{%- endcomment -%}
+{%- if include.post.type and include.post.type != '' -%}
+  {{- include.post.type | downcase -}}
+{%- elsif include.post.tags contains '독후감' -%}book
+{%- elsif include.post.tags contains '레시피' -%}recipe
+{%- elsif include.post.tags contains '머미' -%}mystery
+{%- elsif include.post.categories contains 'paper_review' -%}research
+{%- else -%}diary
+{%- endif -%}

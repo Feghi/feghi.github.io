@@ -3,7 +3,7 @@
 <div class="row">
     <ul class="col-lg-2" id="group-list">
         {% assign idx = 0 %}
-        {% for group in include.groups }} %}
+        {% for group in include.groups %}
           <!-- Jekyll have a built-in `posts` collection
             So here we need to filter it out -->
           {% unless group.label == "posts" %}
@@ -21,7 +21,7 @@
     {% assign groupIdx = 0 %}
     {% for group in include.groups %}
       {% unless group.label == "posts" %}
-        <section class="showcase col-lg-9 col-lg-offset-1 {% if groupIdx > 0 %} hide {% else %} current {% endif %}" data-show="{{ group | first }}">
+        <section class="showcase col-lg-9 col-lg-offset-1 {% if groupIdx > 0 %} hide {% else %} current {% endif %}" data-show="{{ group.label }}">
           {% include post_list.html posts=group.docs groupIdx=groupIdx %}
           {% assign groupIdx = groupIdx | plus: 1 %}
         </section>

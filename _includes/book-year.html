@@ -1,0 +1,8 @@
+{%- comment -%}Use the completion year when valid, otherwise the post year. Never invent completion dates.{%- endcomment -%}
+{%- assign completion_year = include.post.book.finished | date: '%Y' | append: '' -%}
+{%- assign numeric_year = completion_year | plus: 0 | append: '' -%}
+{%- if completion_year.size == 4 and completion_year == numeric_year -%}
+  {{- completion_year -}}
+{%- else -%}
+  {{- include.post.date | date: '%Y' -}}
+{%- endif -%}
