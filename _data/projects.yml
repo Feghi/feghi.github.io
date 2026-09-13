@@ -53,9 +53,11 @@
   source_url: /projects/regulation-versioning/
   source_label: Case study
 - title: 우표 홀로그램 스튜디오
-  description: 터치 드로잉을 우표 프레임과 홀로그램 연출로 완성해 QR로 전달하는 전시 체험 프로토타입.
+  description: 2026 대한민국 우표전시회 DDP 이간수문 전시장에 설치한 AI 홀로그램 우표 체험.
   updated: 2026-07-16
-  status: Prototype
+  status: Exhibited
   technologies: [JavaScript, ComfyUI, FLUX, BiRefNet]
+  image: /assets/images/projects/hologram-stamp-studio/installation-wide.jpg
+  image_alt: DDP 이간수문 전시장에 설치된 AI 홀로그램 우표 스튜디오
   source_url: /projects/hologram-stamp-studio/
   source_label: Case study

@@ -4,8 +4,8 @@ date: 2026-07-16 20:49:21 +0900
 type: project
 title: 우표 홀로그램 스튜디오
 description: 관람객이 그린 이미지를 우표 프레임과 홀로그램 연출로 완성하고 QR로 가져가는 전시 체험 프로토타입.
-kind: Exhibition prototype
-status: Prototype
+kind: Exhibition installation
+status: Exhibited
 modified: 2026-07-16 20:49:21 +0900
 role: 체험 설계 · 프런트엔드·생성 파이프라인 구현
 technologies: [JavaScript, HTML, CSS, Node.js, ComfyUI, FLUX, BiRefNet]
@@ -23,9 +23,15 @@ visual:
     - { label: QR 전달, value: 15, display: 6s }
 permalink: /projects/hologram-stamp-studio/
 ---
-## 전시장에서 끝까지 이어지는 60초
+## 전시장에서 끝까지 이어진 60초
 
-2026 대한민국 우표전시회를 염두에 둔 체험형 프로토타입이다. 관람객은 네 가지 테마 중 하나를 고르고 터치 화면에 그림을 그린다. 제한시간 안에 결과를 우표 프레임에 담고, 별도 세로 화면의 홀로그램 연출과 QR 다운로드까지 이어지도록 전체 동선을 설계했다.
+2026 대한민국 우표전시회 기간에 DDP 이간수문 전시장에 실제 설치·운영한 체험형 프로젝트다. 관람객은 네 가지 테마 중 하나를 고르고 터치 화면에 그림을 그린다. 제한시간 안에 결과를 우표 프레임에 담고, 별도 세로 화면의 홀로그램 연출과 QR 다운로드까지 이어지도록 전체 동선을 설계했다.
+
+<figure class="case-gallery" aria-label="AI 홀로그램 우표 스튜디오 현장 설치 사진">
+  <img src="{{ '/assets/images/projects/hologram-stamp-studio/installation-wide.jpg' | relative_url }}" alt="DDP 이간수문 전시장에 설치된 터치스크린과 세로형 홀로그램 우표 디스플레이" loading="lazy">
+  <img src="{{ '/assets/images/projects/hologram-stamp-studio/installation-close.jpg' | relative_url }}" alt="AI 홀로그램 우표 스튜디오 세로형 디스플레이의 현장 설치 모습" loading="lazy">
+  <figcaption>2026 대한민국 우표전시회, DDP 이간수문 전시장. 왼쪽 터치스크린에서 그림을 만들고 세로형 디스플레이에서 홀로그램 우표 결과를 감상하도록 구성했다.</figcaption>
+</figure>
 
 ## 가벼운 기본 실행, 교체 가능한 생성부
 
@@ -35,4 +41,4 @@ permalink: /projects/hologram-stamp-studio/
 
 ## 현장 운영 관점
 
-두 화면의 가로·세로 비율, 터치 입력, 입장·행동·포즈별 시간, 네트워크 장애를 하나의 사용자 여정으로 다룬 것이 핵심이다. 실제 관람객 이미지와 내부 NAS 주소, 관리자 인증정보는 공개하지 않는다.
+두 화면의 가로·세로 비율, 터치 입력, 입장·행동·포즈별 시간, 네트워크 장애를 하나의 사용자 여정으로 다룬 것이 핵심이다. DDP 현장에서는 터치 조작 화면과 세로형 결과 디스플레이를 나란히 배치해 입력과 감상의 역할을 분리했다. 실제 관람객 이미지와 내부 NAS 주소, 관리자 인증정보는 공개하지 않는다.
