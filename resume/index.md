@@ -109,9 +109,9 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 
 ## Experience
 ---------
-**Visiting Professor, Inha University.** (2023.09-present)
+**Visiting Professor, Inha University.** (2023.09-2025.08)
 
-- Graduate School of Engineering
+- Graduate School
 
 **Researcher, Korea Postal Service Agency.** (2020.07-present)
 
