@@ -28,8 +28,12 @@ permalink: /projects/hologram-stamp-studio/
 2026 대한민국 우표전시회 기간에 DDP 이간수문 전시장에 실제 설치·운영한 체험형 프로젝트다. 관람객은 네 가지 테마 중 하나를 고르고 터치 화면에 그림을 그린다. 제한시간 안에 결과를 우표 프레임에 담고, 별도 세로 화면의 홀로그램 연출과 QR 다운로드까지 이어지도록 전체 동선을 설계했다.
 
 <figure class="case-gallery" aria-label="AI 홀로그램 우표 스튜디오 현장 설치 사진">
-  <img src="{{ '/assets/images/projects/hologram-stamp-studio/installation-wide.jpg' | relative_url }}" alt="DDP 이간수문 전시장에 설치된 터치스크린과 세로형 홀로그램 우표 디스플레이" loading="lazy">
-  <img src="{{ '/assets/images/projects/hologram-stamp-studio/installation-close.jpg' | relative_url }}" alt="AI 홀로그램 우표 스튜디오 세로형 디스플레이의 현장 설치 모습" loading="lazy">
+  <a href="{{ '/assets/images/projects/hologram-stamp-studio/installation-wide.jpg' | relative_url }}" aria-label="전체 설치 사진을 원본 크기로 보기">
+    <img src="{{ '/assets/images/projects/hologram-stamp-studio/installation-wide.jpg' | relative_url }}" alt="DDP 이간수문 전시장에 설치된 터치스크린과 세로형 홀로그램 우표 디스플레이" loading="lazy">
+  </a>
+  <a href="{{ '/assets/images/projects/hologram-stamp-studio/installation-close.jpg' | relative_url }}" aria-label="근접 설치 사진을 원본 크기로 보기">
+    <img src="{{ '/assets/images/projects/hologram-stamp-studio/installation-close.jpg' | relative_url }}" alt="AI 홀로그램 우표 스튜디오 세로형 디스플레이의 현장 설치 모습" loading="lazy">
+  </a>
   <figcaption>2026 대한민국 우표전시회, DDP 이간수문 전시장. 왼쪽 터치스크린에서 그림을 만들고 세로형 디스플레이에서 홀로그램 우표 결과를 감상하도록 구성했다.</figcaption>
 </figure>
 
