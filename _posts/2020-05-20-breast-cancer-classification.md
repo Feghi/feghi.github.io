@@ -1,5 +1,7 @@
 ---
 layout: case-study
+date: 2020-05-20 21:17:54 +0900
+type: research
 title: 유방암 분류 모델 비교 실험
 description: 임상 지표 기반 로지스틱 회귀와 인공신경망 비교연구에서 신경망 모델을 구현하고 학습 과정을 검토한 실험.
 kind: Research code
@@ -27,4 +29,3 @@ Pandas로 데이터를 읽고 설명변수와 `Classification` 레이블을 분�
 초기 노트북은 평가 데이터에도 `fit_transform`을 적용하고 무작위 시드를 고정하지 않았으며, 최종 성능을 독립 평가셋보다 훈련셋 중심으로 출력한다. 현재 기준의 재현 실험이라면 학습셋에만 scaler를 적합하고 교차검증, 클래스별 precision·recall, ROC-AUC와 신뢰구간을 함께 보고해야 한다.
 
 <p class="case-note">이 코드는 학술 비교 실험이며 의료기기나 임상 진단 도구가 아니다. 저장소의 결과만으로 개인의 질환을 판단할 수 없다.</p>
-

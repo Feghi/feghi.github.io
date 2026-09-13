@@ -1,5 +1,7 @@
 ---
 layout: case-study
+date: 2020-05-25 23:21:13 +0900
+type: research
 title: 궤적 데이터 프라이버시 후속 실험
 description: 표 데이터의 Mondrian 분할에서 출발해, 벡터화된 이동 경로의 최소 위반 시퀀스를 추가·삭제하는 익명화 실험으로 확장한 연구 기록.
 kind: Research code
@@ -27,4 +29,3 @@ permalink: /research/trajectory-privacy-experiments/
 ## 한계와 재현성
 
 코드는 초기 연구 산출물이라 실행 환경과 입력 파일 규약에 대한 설명이 부족하고 일부 주석도 혼재한다. 공개용 기록에서는 알고리즘의 의도를 보존하되, 동일 결과를 보장하는 패키지 버전과 정량 평가표가 저장소에 완전하게 남아 있지는 않다는 점을 함께 밝힌다.
-

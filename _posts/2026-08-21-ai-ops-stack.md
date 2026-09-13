@@ -1,5 +1,7 @@
 ---
 layout: case-study
+date: 2026-08-21 13:31:48 +0900
+type: project
 title: AI Ops Stack
 description: 여러 코딩 에이전트와 개인 연구 도구가 같은 장기 기억을 공유하도록 구성한 로컬 우선 운영 스택.
 kind: Personal infrastructure
@@ -27,4 +29,3 @@ Mnemosyne가 SQLite 기반의 공유 기억을 관리하고, Codex와 Claude Cod
 ## 운영 원칙
 
 세션 기록은 임시 맥락, 공유 메모리는 여러 도구가 재사용하는 사실, 위키는 사람이 편집한 원칙과 결론으로 취급한다. 이 구분이 없으면 잘못된 추론이 장기 기억으로 굳을 수 있다. 따라서 자동 수집량보다 출처와 갱신 시점을 확인하고, 중요한 정보는 사람이 승격·정정할 수 있게 하는 데 초점을 뒀다.
-

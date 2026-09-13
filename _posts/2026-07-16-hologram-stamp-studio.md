@@ -1,5 +1,7 @@
 ---
 layout: case-study
+date: 2026-07-16 20:49:21 +0900
+type: project
 title: 우표 홀로그램 스튜디오
 description: 관람객이 그린 이미지를 우표 프레임과 홀로그램 연출로 완성하고 QR로 가져가는 전시 체험 프로토타입.
 kind: Exhibition prototype

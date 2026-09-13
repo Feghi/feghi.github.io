@@ -1,5 +1,7 @@
 ---
 layout: case-study
+date: 2026-02-26 00:02:57 +0900
+type: project
 title: Stamp Model Data Pipeline
 description: 우표 이미지의 권리·품질·중복을 확인하고 생성모델 학습용 데이터셋으로 내보내는 수집 파이프라인.
 kind: ML data pipeline
@@ -27,4 +29,3 @@ permalink: /projects/stamp-model-pipeline/
 ## 저작권과 재현성
 
 자동 권리 필터는 법률 판단을 대신하지 않는다. 원본 기관의 라이선스와 관할을 최종 확인하고, 모델 학습·배포 목적에 맞는 데이터만 사용해야 한다. 이 페이지의 도식도 실제 우표 이미지를 복제하지 않고 파이프라인 구조만 설명한다.
-
