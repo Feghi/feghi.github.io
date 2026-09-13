@@ -32,11 +32,16 @@ projects:
     year: 2020
     status: Completed
 teaching:
-  - title: Visiting Professor
-    institution: Inha University, Graduate School
+  - title: 인공지능과 데이터과학
+    institution: Inha University, Graduate School of Engineering
     period: 2023.09–2025.08
-    description: 대학원 과정 강의 및 연구 지도.
-    topics: []
+    description: 공학대학원 대학원생 대상 인공지능·데이터과학 강의.
+    topics: [Artificial Intelligence, Data Science]
+  - title: 데이터기반 의사결정론
+    institution: Inha University, Graduate School of Engineering
+    period: 2023.09–2025.08
+    description: 공학대학원 대학원생 대상 데이터 기반 의사결정 방법론 강의.
+    topics: [Data-driven Decision Making]
   - title: SW programming
     institution: Inha University
     period: 2020.03–2020.07
