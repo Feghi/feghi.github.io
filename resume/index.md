@@ -109,9 +109,10 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 
 ## Experience
 ---------
-**Visiting Professor, Inha University.** (2023.09-2025.08)
+**Visiting Professor, Inha University, Graduate School of Engineering.** (2023.09-2025.08)
 
-- Graduate School
+- Taught '데이터기반 의사결정론' (Data-driven Decision Making) (2023.09-2024.08)
+- Taught '인공지능과 데이터과학' (Artificial Intelligence and Data Science) (2024.09-2025.08)
 
 **Researcher, Korea Postal Service Agency.** (2020.07-present)
 
