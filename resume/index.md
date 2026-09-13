@@ -123,7 +123,7 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 - Designed and built **POSAI**, an on-premise RAG (Retrieval-Augmented Generation) knowledge search & QA chatbot (Ollama local LLM serving, LangChain, Chroma vector DB), from planning through implementation and operation, within an air-gapped network with no external cloud access.
 - Automated the previously manual bulk-collection workflow for postal shopping orders via an RPA program, replacing repetitive manual processing.
 - Modeled address-change (relocation) detection from parcel delivery history for an internal ML-based address management service; addressed severe label imbalance and ambiguity (non-relocation deliveries to a second residence, etc.) by first clustering households at the same address, then separately modeling intra-city vs. inter-city moves.
-- Participated as a researcher in national R&D demonstration projects: "Intelligent Integrated Logistics Platform Using 5G Edge Cloud" (2020-2021, KRW 2.24B, with ETRI and 4 other institutions) and "AI-based Micro Fulfillment for Urban Small Merchants" (2022-2024) — implemented delivery-route-based parcel unloading sequencing and a 3D parcel-loading optimization algorithm.
+- Participated as a researcher in national R&D demonstration projects, including "Intelligent Integrated Logistics Platform Using 5G Edge Cloud" (2020-2021, KRW 2.24B, with ETRI and 4 other institutions) and "AI-based Micro Fulfillment for Urban Small Merchants" (2022-2024). Implemented delivery-route-based parcel unloading sequencing and a 3D parcel-loading optimization algorithm for the latter.
 - Operated the postal logistics big data center and contributed to an AI training-data construction & release project, recognized with a **Ministry of Science and ICT Minister's Commendation** (2024).
 
 **Teaching professor, Inha University** (2020.03-2020.07)
@@ -138,7 +138,7 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 ------
 - **강화된 차량 번호판 자동탐지 시스템** (Enhanced Automatic License Plate Detection System), KR10-2412133 B1, filed 2020 / registered 2022.
 
-- **적대적 공격이 적용된 차량 번호판을 판별하기 위한 오인식 방지 장치 및 그 방법** (Anti-misrecognition device and method for identifying adversarially-attacked license plates), KR10-2395244 B1, filed 2020 / registered 2022. — Companion patent to the above; incorporates adversarial attacks (FGSM, C&W, PGD) into detector training to improve robustness, with a defense scheme that updates the dataset and retrains the model upon detecting live attacks.
+- **적대적 공격이 적용된 차량 번호판을 판별하기 위한 오인식 방지 장치 및 그 방법** (Anti-misrecognition device and method for identifying adversarially-attacked license plates), KR10-2395244 B1, filed 2020 / registered 2022. Companion patent to the above. Incorporates adversarial attacks (FGSM, C&W, PGD) into detector training to improve robustness, with a defense scheme that updates the dataset and retrains the model upon detecting live attacks.
 
 - **비재현율 기반의 특허 검색 엔진 평가 시스템 및 그 방법** (Patent search engine evaluation system and method based on non-recall rate), KR10-2008387, filed 2018 / registered 2019.
 
