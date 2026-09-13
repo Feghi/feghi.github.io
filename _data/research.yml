@@ -34,12 +34,12 @@ projects:
 teaching:
   - title: 인공지능과 데이터과학
     institution: Inha University, Graduate School of Engineering
-    period: 2023.09–2025.08
+    period: 2024.09–2025.08
     description: 공학대학원 대학원생 대상 인공지능·데이터과학 강의.
     topics: [Artificial Intelligence, Data Science]
   - title: 데이터기반 의사결정론
     institution: Inha University, Graduate School of Engineering
-    period: 2023.09–2025.08
+    period: 2023.09–2024.08
     description: 공학대학원 대학원생 대상 데이터 기반 의사결정 방법론 강의.
     topics: [Data-driven Decision Making]
   - title: SW programming
