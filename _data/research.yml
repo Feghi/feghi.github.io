@@ -1,19 +1,42 @@
 # Source: existing _data/me.yml and resume/index.md; original source files are unchanged.
-introduction: 통계학과 산업공학을 바탕으로 데이터와 네트워크를 연구합니다.
+introduction: 통계학과 산업공학을 바탕으로 데이터와 네트워크를 연구하고, 그 결과를 실제 서비스로 구현합니다.
 scholar: https://scholar.google.com/citations?user=RPNKDrYAAAAJ&hl=ko
 interests:
-  - Graph Theory
-  - Data Mining
-  - Data-driven Decision Making
+  - Graph Theory & Network Analysis
+  - Combinatorial Optimization
+  - Explainable AI (XAI)
+  - Privacy-preserving Data Publishing
   - Deep Learning
 projects:
   - title: Equilibrium for Topic-aware Model and Network Weight Estimation Using Deep learning
-    description: 인하대학교 산업공학 박사학위 논문. 토픽 기반 모델과 네트워크 가중치 추정을 다룬 연구입니다.
+    description: 인하대학교 산업공학 박사학위 논문. 그래프 클러스터링, 비트 연산 기반 영향력 확산, 토픽 기반 모델의 균형점 추정을 다룬 연구입니다.
     year: 2020
     status: Completed
     source_url: http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=bab5b7793a6b31c3ffe0bdc3ef48d419
     source_label: Thesis · RISS
+  - title: POSAI — On-premise RAG Knowledge Search
+    description: 외부 클라우드 연동이 불가능한 폐쇄망 환경에서, 내부 보고서와 문서를 검색·응답하는 RAG(Retrieval-Augmented Generation) 기반 사내 챗봇을 기획부터 구현, 운영까지 담당했습니다.
+    year: 2023
+    status: Operating
+    technologies: [RAG, LLM, On-premise]
+  - title: AI-based Micro Fulfillment for Urban Small Merchants
+    description: 국가 R&D 실증사업(한국우편사업진흥원 공동참여, IITP). 배송 차량의 소포 반출 순서를 정하는 라우팅 최적화와, 적재 공간을 최대로 활용하는 3D 소포 적재 알고리즘을 구현했습니다.
+    year: 2024
+    status: Completed
+  - title: Intelligent Integrated Logistics Platform Using 5G Edge Cloud
+    description: 국가 R&D 실증사업(한국우편사업진흥원 주관, ETRI 등 5개 기관 참여, 총사업비 22.4억원). 실시간 물류 관제 체계 구축에 참여연구자로 참여했습니다.
+    year: 2021
+    status: Completed
+  - title: Address-change Detection from Postal Delivery History
+    description: 사내 머신러닝 주소관리 서비스 프로젝트. 우편물 수취 이력으로 이사 여부를 탐지하는 모델링을 담당했으며, 레이블 불균형·경계 모호 문제를 가족 단위 그룹핑과 동일 시내·시 간 이동 구분 모델링으로 해결했습니다.
+    year: 2020
+    status: Completed
 teaching:
+  - title: Visiting Professor
+    institution: Inha University, Graduate School
+    period: 2023.09–2025.08
+    description: 대학원 과정 강의 및 연구 지도.
+    topics: []
   - title: SW programming
     institution: Inha University
     period: 2020.03–2020.07
