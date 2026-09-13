@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기]
+type: diary
+category: life
+permalink: /picture_diary/Blog-Start
+tags: [글쓰기, 블로그]
 ---
 
 # 블로그를 시작하면서

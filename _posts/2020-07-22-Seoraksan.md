@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [사진일기]
+type: diary
+category: life
+permalink: /picture_diary/Seoraksan
+tags: [여행, 등산, 설악산]
 ---
 
 # 설악산 트레킹

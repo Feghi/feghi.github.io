@@ -1,6 +1,8 @@
 ---
-category: paper_review
-tags: [논문리뷰, 우편]
+type: research
+category: research
+permalink: /paper_review/About-IoPT
+tags: [논문 리뷰, 우편, 사물인터넷]
 ---
 
 # The Internet of Postal Things

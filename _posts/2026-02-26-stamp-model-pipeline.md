@@ -2,6 +2,8 @@
 layout: case-study
 date: 2026-02-26 00:02:57 +0900
 type: project
+category: projects
+tags: [생성형 AI, 데이터 파이프라인, 컴퓨터 비전, 우표]
 title: Stamp Model Data Pipeline
 description: 우표 이미지의 권리·품질·중복을 확인하고 생성모델 학습용 데이터셋으로 내보내는 수집 파이프라인.
 kind: ML data pipeline

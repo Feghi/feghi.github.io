@@ -2,6 +2,8 @@
 layout: case-study
 date: 2022-12-07 16:47:27 +0900
 type: research
+category: research
+tags: [물류, 입지 선정, 배송망, 우편]
 title: 당일배송을 위한 풀필먼트 거점·배송망 사전연구
 description: 인천 지역 우체국 소포를 당일배송하기 위해 후보 창고의 위치와 배송 거리를 비교한 네트워크 설계 실험.
 kind: Research prototype

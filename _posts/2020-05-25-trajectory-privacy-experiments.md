@@ -2,6 +2,8 @@
 layout: case-study
 date: 2020-05-25 23:21:13 +0900
 type: research
+category: research
+tags: [데이터 프라이버시, 궤적 데이터, k-익명성, 알고리즘]
 title: 궤적 데이터 프라이버시 후속 실험
 description: 표 데이터의 Mondrian 분할에서 출발해, 벡터화된 이동 경로의 최소 위반 시퀀스를 추가·삭제하는 익명화 실험으로 확장한 연구 기록.
 kind: Research code

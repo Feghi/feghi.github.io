@@ -2,6 +2,8 @@
 layout: case-study
 date: 2021-03-24 17:44:20 +0900
 type: research
+category: research
+tags: [공간 분석, GIS, 이동성, 코로나19]
 title: 서울 코로나 이동 경로의 공간 분석
 description: 건물 폴리곤의 중심점과 공개 이동 경로 데이터를 연결해 감염 동선의 공간 표현을 탐색한 개인 실험.
 kind: Independent experiment

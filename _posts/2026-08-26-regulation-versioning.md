@@ -2,6 +2,8 @@
 layout: case-study
 date: 2026-08-26 16:32:11 +0900
 type: project
+category: projects
+tags: [문서 관리, 버전 관리, 온프레미스, 업무 시스템]
 title: 규정 개정 이력 관리 시스템
 description: HWP 규정을 구조화해 버전·시점별 조회, 변경 비교와 검토·승인 이력을 관리하는 온프레미스 시스템.
 kind: Internal platform

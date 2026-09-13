@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기, 독후감]
+type: book
+category: books
+permalink: /picture_diary/(Review)Greenhouse-at-the-end-of-the-earth
+tags: [독후감, 한국 소설, 과학 소설]
 ---
 
 

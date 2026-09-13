@@ -1,6 +1,8 @@
 ---
-category: paper_review
-tags: [논문리뷰, AI]
+type: research
+category: research
+permalink: /paper_review/Big-Transfer
+tags: [논문 리뷰, 컴퓨터 비전, 전이학습, 인공지능]
 ---
 
 # Big Transfer (BiT): General Visual Representation Learning

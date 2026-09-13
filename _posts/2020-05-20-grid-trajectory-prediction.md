@@ -2,6 +2,8 @@
 layout: case-study
 date: 2020-05-20 21:14:19 +0900
 type: research
+category: research
+tags: [궤적 데이터, 시계열 예측, LSTM, 이동성]
 title: LSTM 기반 이동 그리드 예측
 description: 기존 이동 경로를 격자 시퀀스로 바꾸고 다음 이동 방향·그리드를 예측하려 한 독립 후속 실험.
 kind: Independent experiment

@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기, 머미]
+type: mystery
+category: mystery
+permalink: /picture_diary/(Review)Han_Series_Muryong
+tags: [머더 미스터리, 역할극, 보드게임]
 ---
 
 

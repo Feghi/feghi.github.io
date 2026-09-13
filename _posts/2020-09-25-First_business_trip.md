@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기, 우편]
+type: diary
+category: life
+permalink: /picture_diary/First_business_trip
+tags: [직장, 출장, 우편]
 ---
 
 # The First Business trip

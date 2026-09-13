@@ -2,6 +2,8 @@
 layout: case-study
 date: 2026-03-03 13:30:34 +0900
 type: project
+category: projects
+tags: [RAG, 언어 모델, 온프레미스, 지식 검색]
 title: POSAI · 폐쇄망 RAG 지식검색
 description: 외부 클라우드를 사용할 수 없는 환경에서 내부 문서를 검색하고 근거와 함께 답하는 온프레미스 챗봇.
 kind: Internal AI service

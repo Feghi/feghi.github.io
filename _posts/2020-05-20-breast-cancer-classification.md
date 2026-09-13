@@ -2,6 +2,8 @@
 layout: case-study
 date: 2020-05-20 21:17:54 +0900
 type: research
+category: research
+tags: [머신러닝, 의료 데이터, 분류, 신경망]
 title: 유방암 분류 모델 비교 실험
 description: 임상 지표 기반 로지스틱 회귀와 인공신경망 비교연구에서 신경망 모델을 구현하고 학습 과정을 검토한 실험.
 kind: Research code

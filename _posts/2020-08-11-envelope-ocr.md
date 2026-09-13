@@ -2,6 +2,8 @@
 layout: case-study
 date: 2020-08-11 09:52:40 +0900
 type: project
+category: projects
+tags: [컴퓨터 비전, OCR, 우편, 프로토타입]
 title: 봉투 필기 영역 OCR 실험
 description: 스캔한 봉투에서 글자 영역을 찾고 OCR 결과와 신뢰도를 시각화한 초기 컴퓨터 비전 프로토타입.
 kind: Computer vision experiment

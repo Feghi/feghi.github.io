@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [사진일기]
+type: diary
+category: life
+permalink: /picture_diary/Honey-view
+tags: [일상, 사진, 풍경]
 ---
 
 # 바라보는 것들

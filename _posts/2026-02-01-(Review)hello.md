@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기, 독후감]
+type: book
+category: books
+permalink: /picture_diary/(Review)hello
+tags: [독후감, 한국 소설, 단편 소설]
 ---
 
 

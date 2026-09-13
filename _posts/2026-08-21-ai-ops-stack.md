@@ -2,6 +2,8 @@
 layout: case-study
 date: 2026-08-21 13:31:48 +0900
 type: project
+category: projects
+tags: [AI 에이전트, MCP, 로컬 우선, 지식 관리]
 title: AI Ops Stack
 description: 여러 코딩 에이전트와 개인 연구 도구가 같은 장기 기억을 공유하도록 구성한 로컬 우선 운영 스택.
 kind: Personal infrastructure

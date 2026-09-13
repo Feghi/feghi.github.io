@@ -1,6 +1,8 @@
 ---
-category: paper_review
-tags: [논문리뷰, 우편]
+type: research
+category: research
+permalink: /paper_review/Postal-Flow
+tags: [논문 리뷰, 우편, 물류, 빅데이터]
 ---
 
 # Information Related to Postal Flows and Big Data Analysis Potential, The Case of Spain

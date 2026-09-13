@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기, 독후감]
+type: book
+category: books
+permalink: /picture_diary/(Review)The_Disaster_Tourist
+tags: [독후감, 한국 소설, 기후 소설]
 ---
 
 

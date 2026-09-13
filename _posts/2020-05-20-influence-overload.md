@@ -2,6 +2,8 @@
 layout: case-study
 date: 2020-05-20 21:32:02 +0900
 type: research
+category: research
+tags: [네트워크 과학, 영향력 최대화, 알고리즘, 박사 연구]
 title: 영향력 확산과 정보 과부하
 description: 네트워크의 전파 범위를 키우면서 중복 정보 노출을 줄이기 위한 시드 선택 알고리즘의 연구·실험 기록.
 kind: Dissertation research

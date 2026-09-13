@@ -1,6 +1,8 @@
 ---
-category: Cook
-tags: [레시피]
+type: recipe
+category: recipes
+permalink: /cook/(recipe)Linguine-al-King-Crab
+tags: [파스타, 이탈리아 요리, 해산물]
 ---
 
 

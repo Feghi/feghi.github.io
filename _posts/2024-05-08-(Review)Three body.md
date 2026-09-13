@@ -1,6 +1,8 @@
 ---
-category: picture_diary
-tags: [그림일기, 독후감]
+type: book
+category: books
+permalink: /picture_diary/(Review)Three-body
+tags: [독후감, 과학 소설, 삼체]
 ---
 
 
