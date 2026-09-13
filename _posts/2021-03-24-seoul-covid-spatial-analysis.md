@@ -14,6 +14,15 @@ parent_label: Research
 source_url: https://github.com/Feghi/Polygon-Centroid
 source_label: Public geometry experiment
 flow: [이동·행정경계 데이터, 폴리곤 정비, 중심점·경로 변환, 지도 기반 패턴 탐색]
+visual:
+  title: 공간 표현 단위별 정보량 예시
+  unit: conceptual detail
+  caption: 실제 감염자 자료가 아닌 설명용 지수입니다. 점·경로·집계구·자치구로 갈수록 표현의 상세도와 노출 위험이 함께 달라짐을 나타냅니다.
+  items:
+    - { label: 개별 지점, value: 92, display: 높음 }
+    - { label: 이동 경로, value: 78, display: 높음 }
+    - { label: 격자 집계, value: 48, display: 중간 }
+    - { label: 자치구 집계, value: 24, display: 낮음 }
 permalink: /research/seoul-covid-spatial-analysis/
 ---
 ## 두 실험을 하나의 질문으로

@@ -14,6 +14,15 @@ parent_label: Projects
 source_url: https://github.com/Feghi/AI-ops-stack
 source_label: GitHub repository
 flow: [에이전트 작업·대화, 공용 기억 저장소, 검색·MCP 연결, 사람이 다듬는 지식 문서]
+visual:
+  title: 지식이 오래 남는 단계
+  unit: conceptual persistence
+  caption: 측정 결과가 아닌 구조 설명용 지수입니다. 세션 기록에서 공유 기억, 검토된 위키로 갈수록 보존성과 검토 수준이 높아지는 설계를 나타냅니다.
+  items:
+    - { label: 현재 대화, value: 24, display: session }
+    - { label: 작업 기록, value: 46, display: history }
+    - { label: 공유 기억, value: 72, display: memory }
+    - { label: 검토된 위키, value: 92, display: curated }
 permalink: /projects/ai-ops-stack/
 ---
 ## 세션이 끝나도 남는 기억

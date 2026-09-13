@@ -14,6 +14,15 @@ parent_label: Research
 source_url: https://github.com/Feghi/trajectory-prediction-using-lstm
 source_label: GitHub repository
 flow: [좌표를 격자로 변환, 경로를 시퀀스로 인코딩, LSTM으로 패턴 학습, 다음 8방향 분류]
+visual:
+  title: 다음 이동 방향의 확률 분포 예시
+  unit: synthetic probability index
+  caption: 실제 모델 출력이 아닌 가상 분포입니다. 한 경로에서 8방향 후보를 분류하는 문제 구성을 보여줍니다.
+  items:
+    - { label: 북동, value: 72, display: "0.72" }
+    - { label: 동, value: 48, display: "0.48" }
+    - { label: 남동, value: 31, display: "0.31" }
+    - { label: 북, value: 18, display: "0.18" }
 permalink: /research/grid-trajectory-prediction/
 ---
 ## 경로를 문장처럼 학습하기

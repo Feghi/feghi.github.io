@@ -14,6 +14,15 @@ parent_label: Research
 source_url: https://github.com/Feghi/cancer-prediction-using-deep-learning
 source_label: GitHub repository
 flow: [9개 설명변수 정리, 학습·평가 분할, 표준화·신경망 학습, 정확도·손실 추이 확인]
+visual:
+  title: 모델 평가 항목 예시
+  unit: checklist coverage
+  caption: 저장소의 성능 수치가 아닌 평가 설계 예시입니다. 현재 재현 실험에서 함께 확인해야 할 항목을 상대적으로 표현했습니다.
+  items:
+    - { label: 정확도, value: 82, display: accuracy }
+    - { label: 재현율, value: 70, display: recall }
+    - { label: ROC-AUC, value: 64, display: AUC }
+    - { label: 교차검증, value: 46, display: CV }
 permalink: /research/breast-cancer-classification/
 ---
 ## 연구 배경

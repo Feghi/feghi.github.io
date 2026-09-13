@@ -14,6 +14,15 @@ parent_label: Research
 source_url: https://github.com/Feghi/Incheon_UGP
 source_label: GitHub repository
 flow: [소포·후보지 좌표 정리, 후보 거점·권역 구성, 거리와 경로 계산, 대안별 배송망 비교]
+visual:
+  title: 후보 거점별 배송거리 비교 예시
+  unit: synthetic distance index
+  caption: 실제 우체국 위치나 실험 결과가 아닌, 입지 대안을 비교하는 방식을 보여주는 가상 거리 지수입니다. 짧을수록 유리합니다.
+  items:
+    - { label: 후보 A, value: 42, display: "42" }
+    - { label: 후보 B, value: 68, display: "68" }
+    - { label: 후보 C, value: 55, display: "55" }
+    - { label: 후보 D, value: 81, display: "81" }
 permalink: /research/fulfillment-network-design/
 ---
 ## 배경과 질문

@@ -12,6 +12,15 @@ technologies: [JavaScript, HTML, CSS, Node.js, ComfyUI, FLUX, BiRefNet]
 parent_url: /projects/
 parent_label: Projects
 flow: [터치 드로잉·테마 선택, 생성 어댑터, 우표 프레임·홀로그램 연출, 세로 화면·QR 결과 전달]
+visual:
+  title: 60초 체험의 시간 배분 예시
+  unit: illustrative seconds
+  caption: 실제 현장 측정이 아닌 가상 시간 배분입니다. 입장부터 그리기, 생성 연출, QR 전달까지 한 회차의 리듬을 보여줍니다.
+  items:
+    - { label: 입장·선택, value: 25, display: 10s }
+    - { label: 터치 드로잉, value: 70, display: 28s }
+    - { label: 생성·연출, value: 40, display: 16s }
+    - { label: QR 전달, value: 15, display: 6s }
 permalink: /projects/hologram-stamp-studio/
 ---
 ## 전시장에서 끝까지 이어지는 60초

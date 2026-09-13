@@ -14,6 +14,15 @@ parent_label: Projects
 source_url: https://github.com/Feghi/stemp_gen
 source_label: GitHub repository
 flow: [공개 아카이브 수집, 권리·품질 필터, 해시·OCR 메타데이터, LoRA 학습 형식 내보내기]
+visual:
+  title: 데이터 정제 퍼널 예시
+  unit: synthetic retained records
+  caption: 실제 수집량이 아닌 가상의 레코드 수입니다. 권리·품질·중복 검사를 거치며 학습 후보가 좁혀지는 구조를 보여줍니다.
+  items:
+    - { label: 수집 후보, value: 96, display: "1,000" }
+    - { label: 권리 확인, value: 76, display: "760" }
+    - { label: 품질·중복, value: 54, display: "540" }
+    - { label: 학습 내보내기, value: 42, display: "420" }
 permalink: /projects/stamp-model-pipeline/
 ---
 ## 생성모델보다 먼저 필요한 것

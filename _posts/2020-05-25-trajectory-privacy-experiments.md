@@ -14,6 +14,15 @@ parent_label: Research
 source_url: https://github.com/Feghi/k-anonymity_mondrian
 source_label: GitHub repository
 flow: [준식별자·경로 벡터, 분할·LFP-Tree 구성, 위반 시퀀스 탐색, 추가 또는 억제로 갱신]
+visual:
+  title: 익명화 단계별 위반 패턴 예시
+  unit: synthetic MVS index
+  caption: 실제 논문 결과가 아닌 가상 지수입니다. 위반 시퀀스를 찾고 추가·억제를 반복하는 실험 구조를 설명합니다.
+  items:
+    - { label: 원본 경로, value: 88, display: "88" }
+    - { label: MVS 탐색, value: 66, display: "66" }
+    - { label: 1차 갱신, value: 34, display: "34" }
+    - { label: 재검사, value: 14, display: "14" }
 permalink: /research/trajectory-privacy-experiments/
 ---
 ## 출발점: 다차원 k-익명성

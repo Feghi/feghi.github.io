@@ -12,6 +12,15 @@ technologies: [Python, Ollama, LangChain, Chroma, Chainlit, RAG]
 parent_url: /projects/
 parent_label: Projects
 flow: [PDF 문서 적재·분할, 임베딩·벡터 색인, 질의별 검색·생성, 출처 페이지와 답변 표시]
+visual:
+  title: 검색 후보의 관련도 예시
+  unit: synthetic relevance
+  caption: 내부 문서나 실제 검색 점수를 사용하지 않은 가상 값입니다. 상위 문서 조각을 골라 답변 문맥으로 전달하는 흐름을 보여줍니다.
+  items:
+    - { label: 문서 조각 A, value: 89, display: top 1 }
+    - { label: 문서 조각 B, value: 74, display: top 2 }
+    - { label: 문서 조각 C, value: 63, display: top 3 }
+    - { label: 검색 임계선, value: 45, display: threshold }
 permalink: /projects/on-premise-rag/
 ---
 ## 제약에서 시작한 설계

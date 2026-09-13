@@ -14,6 +14,15 @@ parent_label: Projects
 source_url: https://github.com/Feghi/OpenCV_for_envelope
 source_label: GitHub repository
 flow: [봉투 이미지 입력, 회색조·임시 이미지 변환, Tesseract OCR, 신뢰도 기반 영역 표시]
+visual:
+  title: OCR 후보 영역의 신뢰도 예시
+  unit: synthetic confidence
+  caption: 실제 봉투나 인식 결과를 사용하지 않은 가상 신뢰도입니다. 임계값을 기준으로 표시할 문자 영역을 고르는 과정을 설명합니다.
+  items:
+    - { label: 우편번호, value: 91, display: "0.91" }
+    - { label: 시·도, value: 78, display: "0.78" }
+    - { label: 도로명, value: 64, display: "0.64" }
+    - { label: 필기 메모, value: 37, display: "0.37" }
 permalink: /projects/envelope-ocr/
 ---
 ## 목적

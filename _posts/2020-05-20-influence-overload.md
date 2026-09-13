@@ -14,6 +14,15 @@ parent_label: Research
 source_url: https://github.com/Feghi/InfluencePropagation-and-InformationOverload
 source_label: GitHub repository
 flow: [그래프·시드 수 입력, 후보 알고리즘 실행, 전파·중복량 계산, 합성·실세계 그래프 비교]
+visual:
+  title: 시드 선택 전략의 비교 프레임
+  unit: illustrative objective index
+  caption: 논문의 정량 결과를 재현한 그래프가 아닌 설명용 가상 지수입니다. 전파 범위와 중복 노출을 함께 비교한다는 평가 관점을 보여줍니다.
+  items:
+    - { label: 무작위, value: 35, display: baseline }
+    - { label: 차수 기반, value: 58, display: degree }
+    - { label: 군집 기반, value: 72, display: cluster }
+    - { label: 비트 연산, value: 86, display: bitwise }
 permalink: /research/influence-overload/
 ---
 ## 많이 퍼지는 것이 언제나 좋은가

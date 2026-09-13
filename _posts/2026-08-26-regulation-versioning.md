@@ -12,6 +12,15 @@ technologies: [Java, Spring Boot, React, TypeScript, Python, PostgreSQL]
 parent_url: /projects/
 parent_label: Projects
 flow: [HWP 원문·텍스트 추출, 구조 후보와 해시 생성, 개정 전후 검토·승인, 시점별 열람·문서 출력]
+visual:
+  title: 규정 개정 상태의 진행 예시
+  unit: synthetic completion
+  caption: 실제 사내 규정 건수나 처리율이 아닌 상태 전이 설명용 지수입니다. 자동 추출 뒤 사람의 검토와 승인을 거치는 구조를 나타냅니다.
+  items:
+    - { label: 원문 등록, value: 96, display: source }
+    - { label: 구조 후보, value: 78, display: parsed }
+    - { label: 검토 완료, value: 56, display: reviewed }
+    - { label: 승인·공개, value: 38, display: approved }
 permalink: /projects/regulation-versioning/
 ---
 ## 문서를 파일이 아닌 이력으로 다루기

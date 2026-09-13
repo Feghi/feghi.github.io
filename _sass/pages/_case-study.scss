@@ -82,6 +82,24 @@
 .case-flow li strong { font-size: .93rem; font-weight: 550; line-height: 1.45; }
 .case-flow figcaption { margin-top: .9rem; color: var(--muted); font-size: .72rem; }
 
+.case-chart {
+  margin: 0 0 clamp(3.5rem, 8vw, 6rem);
+  padding: clamp(1.4rem, 4vw, 2.4rem);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.case-chart-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.4rem; }
+.case-chart-heading h2 { margin: 0; font-size: clamp(1.1rem, 2.4vw, 1.45rem); font-weight: 550; letter-spacing: -.025em; }
+.case-chart-heading span { color: var(--muted); font: .65rem var(--font-mono); text-transform: uppercase; }
+.case-chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.chart-axis { stroke: var(--line); stroke-width: 1; }
+.chart-track { fill: var(--surface-subtle); }
+.chart-bar { fill: var(--heat-3); }
+.chart-label,
+.chart-value { fill: var(--ink); font: 12px var(--font-body); }
+.chart-value { font: 10px var(--font-mono); }
+.case-chart figcaption { margin-top: .6rem; color: var(--muted); font-size: .72rem; line-height: 1.7; }
+
 .case-body { max-width: 720px; }
 .case-body h2 { margin: 4rem 0 1rem; font-size: clamp(1.55rem, 3vw, 2.15rem); letter-spacing: -.035em; }
 .case-body h3 { margin: 2.4rem 0 .8rem; font-size: 1.1rem; }
@@ -105,4 +123,6 @@
   .case-flow ol { grid-template-columns: 1fr; }
   .case-flow li { min-height: auto; }
   .case-flow li span { margin-bottom: .65rem; }
+  .case-chart { padding-inline: 0; }
+  .chart-label { font-size: 14px; }
 }

@@ -1,0 +1,23 @@
+{% assign chart = page.visual %}
+{% if chart.items.size > 0 %}
+<figure class="case-chart" aria-labelledby="case-chart-title case-chart-caption">
+  <div class="case-chart-heading">
+    <h2 id="case-chart-title">{{ chart.title | escape }}</h2>
+    <span>{{ chart.unit | default: 'illustrative index' | escape }}</span>
+  </div>
+  <svg viewBox="0 0 720 276" role="img" aria-label="{{ chart.title | escape }}">
+    <line class="chart-axis" x1="184" y1="16" x2="184" y2="250" />
+    {% for item in chart.items %}
+      {% assign row_y = forloop.index0 | times: 62 | plus: 30 %}
+      {% assign bar_y = row_y | minus: 14 %}
+      {% assign bar_width = item.value | times: 4.6 %}
+      {% assign value_x = bar_width | plus: 198 %}
+      <text class="chart-label" x="0" y="{{ row_y }}">{{ item.label | escape }}</text>
+      <rect class="chart-track" x="184" y="{{ bar_y }}" width="460" height="22" rx="3" />
+      <rect class="chart-bar" x="184" y="{{ bar_y }}" width="{{ bar_width }}" height="22" rx="3" />
+      <text class="chart-value" x="{{ value_x }}" y="{{ row_y }}">{{ item.display | default: item.value | escape }}</text>
+    {% endfor %}
+  </svg>
+  <figcaption id="case-chart-caption">{{ chart.caption | escape }}</figcaption>
+</figure>
+{% endif %}
