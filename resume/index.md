@@ -31,14 +31,17 @@ layout: post_bare
 
 **SCI** 
 
-- A bitwise approach on influence overload problem, Data & Knowledge Engineering(2024)
+- A bitwise approach on influence overload problem, Data & Knowledge Engineering(2024, 제1저자·교신저자)
 
 - Graph threshold algorithm, The Journal of Supercomputing(2021)
 
 - Effective privacy preserving data publishing by vectorization, Information Sciences(2020)
 
 **KCI** 
-- 소포 하차업무 지원을 위한 협동 로봇 적용 연구, 로봇학회논문지(2023)
+
+- 소포 하차업무 지원을 위한 협동 로봇 적용 연구, 로봇학회논문지(2023, 교신저자)
+
+- 로지스틱 회귀분석과 인공신경망을 이용한 유방암 분류 모델 비교연구, 데이타베이스연구(한국정보과학회)(2019)
 
 - 메타 경로를 이용한 지식 재산 데이터의 유사도 분석, 정보화연구(2018)
 
@@ -117,7 +120,7 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 **Researcher, Korea Postal Service Agency.** (2020.07-present)
 
 - Postal Innovation Research Team
-- Designed and built **POSAI**, an on-premise RAG (Retrieval-Augmented Generation) knowledge search & QA chatbot, from planning through implementation and operation, within an air-gapped network with no external cloud access.
+- Designed and built **POSAI**, an on-premise RAG (Retrieval-Augmented Generation) knowledge search & QA chatbot (Ollama local LLM serving, LangChain, Chroma vector DB), from planning through implementation and operation, within an air-gapped network with no external cloud access.
 - Automated the previously manual bulk-collection workflow for postal shopping orders via an RPA program, replacing repetitive manual processing.
 - Modeled address-change (relocation) detection from parcel delivery history for an internal ML-based address management service; addressed severe label imbalance and ambiguity (non-relocation deliveries to a second residence, etc.) by first clustering households at the same address, then separately modeling intra-city vs. inter-city moves.
 - Participated as a researcher in national R&D demonstration projects: "Intelligent Integrated Logistics Platform Using 5G Edge Cloud" (2020-2021, KRW 2.24B, with ETRI and 4 other institutions) and "AI-based Micro Fulfillment for Urban Small Merchants" (2022-2024) — implemented delivery-route-based parcel unloading sequencing and a 3D parcel-loading optimization algorithm.
@@ -144,6 +147,8 @@ https://www.coursera.org/account/accomplishments/certificate/5E5C4V3NNC4J) (Stan
 **Programming:** Python, R, SQL
 
 **Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Pytorch
+
+**RAG / LLM Stack:** Ollama (local LLM serving), LangChain, Chroma (vector DB)
 
 ## Awards
 ------

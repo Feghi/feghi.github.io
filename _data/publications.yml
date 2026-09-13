@@ -4,11 +4,13 @@
   year: 2024
   kind: Journal
   category: SCI
+  authors: [Charles Cheolgi Lee (1st & corresponding author), Jafar Afshar, Arousha Haghighian Roudsari, Woong-Kee Loh, Wookey Lee]
 - title: 소포 하차업무 지원을 위한 협동 로봇 적용 연구
   venue: 로봇학회논문지
   year: 2023
   kind: Journal
   category: KCI
+  authors: [김민혁, 유창욱, 이철기 (교신저자)]
 - title: Graph threshold algorithm
   venue: The Journal of Supercomputing
   year: 2021
@@ -19,6 +21,12 @@
   year: 2020
   kind: Journal
   category: SCI
+- title: 로지스틱 회귀분석과 인공신경망을 이용한 유방암 분류 모델 비교연구
+  venue: 데이타베이스연구(한국정보과학회)
+  year: 2019
+  kind: Journal
+  category: KCI
+  authors: [김낙일, 이철기, 이우기]
 - title: Adding Noise Trajectory for Providing Privacy in Data Publishing by Vectorization
   venue: Bigcomp
   year: 2020

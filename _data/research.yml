@@ -15,10 +15,10 @@ projects:
     source_url: http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=bab5b7793a6b31c3ffe0bdc3ef48d419
     source_label: Thesis · RISS
   - title: POSAI — On-premise RAG Knowledge Search
-    description: 외부 클라우드 연동이 불가능한 폐쇄망 환경에서, 내부 보고서와 문서를 검색·응답하는 RAG(Retrieval-Augmented Generation) 기반 사내 챗봇을 기획부터 구현, 운영까지 담당했습니다.
+    description: 외부 클라우드 연동이 불가능한 폐쇄망 환경에서, 내부 보고서와 문서를 검색·응답하는 RAG(Retrieval-Augmented Generation) 기반 사내 챗봇을 기획부터 구현, 운영까지 담당했습니다. Ollama로 로컬 LLM을 서빙하고, LangChain과 Chroma(벡터DB)로 검색·응답 파이프라인을 구성했습니다.
     year: 2023
     status: Operating
-    technologies: [RAG, LLM, On-premise]
+    technologies: [RAG, Ollama, LangChain, Chroma, LLM, On-premise]
   - title: AI-based Micro Fulfillment for Urban Small Merchants
     description: 국가 R&D 실증사업(한국우편사업진흥원 공동참여, IITP). 배송 차량의 소포 반출 순서를 정하는 라우팅 최적화와, 적재 공간을 최대로 활용하는 3D 소포 적재 알고리즘을 구현했습니다.
     year: 2024
