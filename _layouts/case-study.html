@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="case-study">
+  <header class="case-hero">
+    <a class="case-back" href="{{ page.parent_url | relative_url }}">← {{ page.parent_label }}</a>
+    <p class="eyebrow">{{ page.kind | escape }} · {{ page.status | escape }}</p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="case-deck">{{ page.description | escape }}</p>
+    <dl class="case-facts">
+      <div><dt>Last code update</dt><dd><time datetime="{{ page.modified }}">{{ page.modified | date: "%Y.%m.%d" }}</time></dd></div>
+      <div><dt>Role</dt><dd>{{ page.role | escape }}</dd></div>
+      <div><dt>Stack</dt><dd>{{ page.technologies | join: " · " | escape }}</dd></div>
+    </dl>
+    {% if page.source_url %}<a class="case-source" href="{{ page.source_url | escape }}">{{ page.source_label | default: 'Source repository' | escape }} ↗</a>{% endif %}
+  </header>
+
+  {% if page.flow.size > 0 %}
+    <figure class="case-flow" aria-labelledby="case-flow-caption">
+      <ol>{% for step in page.flow %}<li><span>0{{ forloop.index }}</span><strong>{{ step | escape }}</strong></li>{% endfor %}</ol>
+      <figcaption id="case-flow-caption">코드에서 확인한 핵심 처리 흐름을 재구성한 설명 도식입니다.</figcaption>
+    </figure>
+  {% endif %}
+
+  <div class="case-body prose">{{ content }}</div>
+</article>

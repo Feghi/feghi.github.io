@@ -7,3 +7,55 @@
   technologies: [Jekyll, Markdown, Liquid, SCSS, JavaScript]
   github: https://github.com/Feghi/feghi.github.io
   demo: /
+- title: AI Ops Stack
+  description: 여러 코딩 에이전트와 연구 도구가 로컬 장기 기억을 공유하도록 구성한 개인 AI 운영 스택.
+  updated: 2026-08-21
+  status: Active
+  technologies: [Python, MCP, SQLite, Markdown]
+  github: https://github.com/Feghi/AI-ops-stack
+  source_url: /projects/ai-ops-stack/
+  source_label: Case study
+- title: Stamp Model Data Pipeline
+  description: 공개 아카이브의 우표 이미지를 권리·품질·중복 기준으로 정제해 모델 학습 형식으로 내보내는 파이프라인.
+  updated: 2026-02-26
+  status: Scaffold
+  technologies: [Python, OCR, pHash, Diffusers]
+  github: https://github.com/Feghi/stemp_gen
+  source_url: /projects/stamp-model-pipeline/
+  source_label: Case study
+- title: 봉투 필기 영역 OCR
+  description: 봉투 이미지에서 글자 영역을 찾고 OCR 신뢰도를 시각화한 초기 컴퓨터 비전 실험.
+  updated: 2020-08-11
+  status: Prototype
+  technologies: [Python, OpenCV, Tesseract]
+  github: https://github.com/Feghi/OpenCV_for_envelope
+  source_url: /projects/envelope-ocr/
+  source_label: Case study
+- title: POSAI · 폐쇄망 RAG 지식검색
+  description: 내부 문서를 검색하고 출처와 함께 답하는 온프레미스 RAG 챗봇. 기획부터 구현·운영까지 담당했습니다.
+  updated: 2026-03-03
+  status: Operating
+  technologies: [Ollama, LangChain, Chroma, Chainlit]
+  source_url: /projects/on-premise-rag/
+  source_label: Case study
+- title: gogostar
+  description: 작은 독서모임의 책 선정, 일정, 질문과 공동 기록을 연결한 오프라인 우선 웹·안드로이드 앱.
+  updated: 2026-09-11
+  status: Active
+  technologies: [JavaScript, PHP, SQLite, Capacitor]
+  source_url: /projects/gogostar/
+  source_label: Case study
+- title: 규정 개정 이력 관리 시스템
+  description: HWP 규정을 구조화해 버전·시점별 조회, 변경 비교와 검토·승인을 관리하는 온프레미스 시스템.
+  updated: 2026-08-26
+  status: Private
+  technologies: [Spring Boot, React, Python, PostgreSQL]
+  source_url: /projects/regulation-versioning/
+  source_label: Case study
+- title: 우표 홀로그램 스튜디오
+  description: 터치 드로잉을 우표 프레임과 홀로그램 연출로 완성해 QR로 전달하는 전시 체험 프로토타입.
+  updated: 2026-07-16
+  status: Prototype
+  technologies: [JavaScript, ComfyUI, FLUX, BiRefNet]
+  source_url: /projects/hologram-stamp-studio/
+  source_label: Case study

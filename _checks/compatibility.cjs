@@ -1,10 +1,11 @@
-// Usage: node _checks/compatibility.cjs <baseline-output> [current-output]
+// Usage: node _checks/compatibility.cjs <baseline-output> [current-output] [allowed-content-change...]
 // Same content/config, except the old blank origin is now the production URL.
 const fs = require('node:fs');
 const path = require('node:path');
 const assert = require('node:assert/strict');
 const baseline = path.resolve(process.argv[2]);
 const current = path.resolve(process.argv[3] || '_site');
+const allowedContentChanges = new Set(process.argv.slice(4).map(file => path.normalize(file)));
 const origin = 'https://feghi.github.io';
 function files(root, dir = '') {
   return fs.readdirSync(path.join(root, dir), {withFileTypes: true}).flatMap(entry => {
@@ -22,7 +23,9 @@ for (const file of oldFiles.filter(file => file.endsWith('.html'))) {
   const after = read(current, file);
   const article = /<div id="markdown-container"[\s\S]*?(?=<div id="markdown-outline")/;
   if (article.test(before)) {
-    assert.equal(after.match(article)?.[0], before.match(article)[0], `Article changed: ${file}`);
+    if (!allowedContentChanges.has(file)) {
+      assert.equal(after.match(article)?.[0], before.match(article)[0], `Article changed: ${file}`);
+    }
     articles++;
   }
   const comment = /<script src="https:\/\/utteranc.es\/client.js"[\s\S]*?<\/script>/;

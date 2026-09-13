@@ -1,0 +1,32 @@
+---
+layout: case-study
+title: gogostar
+description: 열 명 이하의 작은 독서모임을 위해 책 선정부터 토론 기록과 공동 아카이브까지 연결한 웹·안드로이드 앱.
+kind: Personal software
+status: Active
+modified: 2026-09-11 11:15:47 +0900
+role: 제품 설계 · 풀스택 구현 · 운영
+technologies: [JavaScript, PHP, SQLite, Capacitor, PWA]
+parent_url: /projects/
+parent_label: Projects
+flow: [개인 서재·후보 등록, 구성원 승인, 독서 일정·알림, 질문·평점·모임 기록]
+permalink: /projects/gogostar/
+---
+## 작은 모임에 맞춘 제품
+
+gogostar는 열 명 이하 독서모임의 반복되는 일을 한 흐름으로 묶는다. 읽고 싶은 책을 제안하고 구성원이 승인하면 각자의 서재에 읽는 중으로 추가된다. 모임 전에는 마감 알림과 개인별 질문을 준비하고, 다음 날에는 평점·인상 깊은 문장·좋은 질문·공동 결론을 아카이브한다.
+
+<figure class="case-shot">
+  <img src="{{ '/assets/images/projects/gogostar/today.png' | relative_url }}" alt="가상 독서모임 데이터로 구성한 gogostar 오늘 화면" loading="lazy">
+  <figcaption>가상 구성원과 테스트 데이터로 만든 ‘오늘’ 화면. 토론할 책과 질문, 지난 모임 기록을 한 흐름에 배치했다.</figcaption>
+</figure>
+
+## 오프라인 우선 구조
+
+브라우저의 localStorage를 우선 사용해 네트워크가 불안정해도 기록을 이어가고, 연결이 돌아오면 같은 계정의 NAS 기반 PHP·SQLite 서버와 동기화한다. 삭제 취소, JSON 백업·복원, 충돌과 중복 처리, 계정 격리 같은 작은 모임 운영의 실제 예외를 테스트 대상으로 삼았다. Android 앱은 Capacitor로 패키징하고 로컬 알림을 지원한다.
+
+책 검색과 표지 보정, 상태·연도·저자 필터, 독서량과 장르 통계도 포함한다. 추천은 세 권의 서로 다른 장르를 제안하고 취향·수상·토론 적합성 같은 신호를 설명하지만, 검증된 지능형 추천 모델로 과장하지 않는다. MBTI에서 영감을 받은 독서 성향 설명 역시 심리검사가 아니라 대화를 돕는 가벼운 장치다.
+
+## 공개 범위
+
+앱 화면과 테스트 데이터는 가상 구성원을 사용한다. 실제 모임원의 계정, NAS 주소와 인증정보, 개인 독서 기록은 공개하지 않는다. 이 페이지는 작은 공동체에 필요한 제품 판단과 동기화 구조를 중심으로 정리한다.

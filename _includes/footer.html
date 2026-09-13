@@ -2,7 +2,7 @@
 <footer id="l-footer">
   <div class="container">
     <div class="row">
-      <div id="social" class="col-lg-5 col-md-5 col-sm-12">
+      <div id="social" class="col-lg-6 col-md-6 col-sm-12">
         <h3>SOCIAL</h3>
         <ul>
           {% for social in my.social %}
@@ -18,7 +18,7 @@
         </ul>
       </div>
 
-      <div id="contact" class="col-lg-4 col-md-4 col-sm-12">
+      <div id="contact" class="col-lg-6 col-md-6 col-sm-12">
         <h3>CONTACT</h3>
         <ul>
           {% for contact in my.contact %}
@@ -34,12 +34,6 @@
         </ul>
       </div>
 
-      <div id="rss" class="col-lg-3 col-md-3 col-sm-12">
-        <h3>SUBSCRIBE</h3>
-        <a href="{{ '/feed.xml' | relative_url }}">
-          <i class="rss fa fa-rss-square"></i>
-        </a>
-      </div>
     </div>
 
     <p id="legal">
