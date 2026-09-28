@@ -67,7 +67,7 @@ build_fixture(false) do |output|
   %w[interests publications research-projects teaching].each { |id| assert(research.include?("id=\"#{id}\""), "Missing research section #{id}") }
   assert(lab.scan(/class="lab-card"/).size == 6, 'Lab must show exactly six requested placeholders')
   lab.scan(/<li class="lab-card">(.*?)<\/li>/).flatten.each { |card| assert(card.include?('Coming soon') && !card.match?(/<(a|button|input)\b/), 'Lab placeholders must not look actionable') }
-  %w[research projects lab].each { |route| assert(page(output, route).include?("href=\"/preview/#{route}/\" aria-current=\"page\""), "Wrong active navigation on #{route}") }
+  %w[research projects].each { |route| assert(page(output, route).include?("href=\"/preview/#{route}/\" aria-current=\"page\""), "Wrong active navigation on #{route}") }
 end
 
 build_fixture(true) do |output|

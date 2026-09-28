@@ -1,0 +1,31 @@
+.site-shell {
+  .home-monthly { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 48px; padding: 32px 0; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--line); }
+  .monthly-date time { display: block; margin: 12px 0 18px; font: 400 42px/1.1 var(--font-body); letter-spacing: -.05em; }
+  .monthly-copy { align-self: center; }
+  .monthly-copy h2 { margin: 0 0 14px; font-size: clamp(23px, 2.6vw, 34px); font-weight: 500; line-height: 1.5; letter-spacing: -.04em; }
+  .monthly-copy h2 a { text-decoration: none; }
+  .monthly-copy h2 a:hover { text-decoration: underline; text-underline-offset: 5px; }
+  .monthly-copy p { max-width: 680px; margin: 0; color: var(--muted); font-size: 14px; line-height: 1.9; }
+  .home-shelves { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 40px; margin: 64px 0 32px; }
+  .home-shelf { display: flex; flex-direction: column; min-width: 0; }
+  .home-shelf h2 { margin: 0 0 12px; font-size: 30px; font-weight: 400; letter-spacing: -.04em; }
+  .shelf-description { min-height: 48px; margin: 0 0 20px; color: var(--muted); font-size: 13px; line-height: 1.8; }
+  .shelf-entries { flex: 1; margin: 0 0 22px; padding: 0; list-style: none; }
+  .shelf-entries li { border-top: 1px solid var(--line); }
+  .shelf-entries a { display: block; padding: 18px 0; text-decoration: none; }
+  .shelf-entries time { color: var(--muted); font: 10px var(--font-mono); }
+  .shelf-entries h3 { margin: 8px 0 0; font-size: 18px; font-weight: 500; line-height: 1.65; overflow-wrap: anywhere; }
+  .shelf-entries a:hover h3 { text-decoration: underline; text-underline-offset: 4px; }
+  .shelf-entries p { margin: 6px 0 0; color: var(--muted); font-size: 12px; }
+  .shelf-empty { padding: 22px 0; color: var(--muted); font-size: 13px; }
+  .home-other-records { display: flex; flex-wrap: wrap; gap: 20px; padding: 0 0 32px; margin: 0; color: var(--muted); font-size: 12px; }
+  .home-other-records a { color: var(--ink); }
+}
+@media (max-width: 760px) {
+  .site-shell {
+    .home-monthly { grid-template-columns: 1fr; gap: 24px; padding: 28px 0; }
+    .monthly-date time { font-size: 36px; margin: 8px 0 14px; }
+    .home-shelves { grid-template-columns: 1fr; gap: 44px; margin-top: 40px; }
+    .shelf-description { min-height: 0; }
+  }
+}

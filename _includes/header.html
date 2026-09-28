@@ -4,10 +4,9 @@
     <a class="wordmark" href="{{ '/' | relative_url }}">fe.flag<span aria-hidden="true"> /</span></a>
     <nav class="primary-nav" aria-label="Main navigation">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
-      <a href="{{ '/archive/' | relative_url }}" {% if page.url contains '/archive' or page.url contains '/category' or page.url contains '/tag' or page.url contains '/page' %}aria-current="page"{% endif %}>Archive</a>
-      <a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research/' %}aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/archive/' | relative_url }}" {% if page.url contains '/archive' or page.url contains '/category' or page.url contains '/tag' or page.url contains '/page' or page.url contains '/monthly/' %}aria-current="page"{% endif %}>Archive</a>
+      <a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research/' and page.archive_type != 'research' %}aria-current="page"{% endif %}>Research</a>
       <a href="{{ '/projects/' | relative_url }}" {% if page.url contains '/projects/' %}aria-current="page"{% endif %}>Projects</a>
-      <a href="{{ '/lab/' | relative_url }}" {% if page.url contains '/lab/' %}aria-current="page"{% endif %}>Lab</a>
       <a href="{{ '/about/' | relative_url }}" {% if page.url contains '/about' %}aria-current="page"{% endif %}>About</a>
     </nav>
     {% include theme-toggle.html %}

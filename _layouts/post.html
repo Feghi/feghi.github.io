@@ -9,13 +9,13 @@ markdown: true
       {% if page.tags %}
       <ul class="tags clearfix">
         {% for tag in page.tags %}
-        <li><a href="{{ '/tag/#' | relative_url }}{{ tag }}"><i class="fa fa-tag"></i> {{ tag }}</a></li>
+        <li><a href="{{ '/tag/' | relative_url }}#{{ tag | uri_escape }}"><i class="fa fa-tag"></i> {{ tag }}</a></li>
         {% endfor %}
       </ul>
       {% endif %}
       <p id="post-meta">posted on <b>{{ page.date | date_to_string }}</b>
         {% if page.categories[0] %}
-        under category <b><a href="{{ '/category/#' | relative_url }}{{ page.categories[0] }}">{{ page.categories |
+        under category <b><a href="{{ '/category/' | relative_url }}#{{ page.categories[0] | uri_escape }}">{{ page.categories |
             join: ", " }}</a></b>
         {% endif %}
       </p>

@@ -1,0 +1,19 @@
+<figure class="trajectory-explainer" aria-labelledby="trajectory-title trajectory-caption">
+  <header><p class="eyebrow">A closer look / k = 2</p><h3 id="trajectory-title">드문 경로를 어떻게 바꿀까?</h3><p>세 경로 중 B를 지나는 경로는 하나뿐이다.</p></header>
+  <svg viewBox="0 0 600 240" role="img" aria-labelledby="trajectory-svg-title trajectory-svg-desc">
+    <title id="trajectory-svg-title">B가 한 번만 나타나는 세 개의 가상 이동 경로</title>
+    <desc id="trajectory-svg-desc">경로 1은 A, B, C를 차례로 지난다. 경로 2와 경로 3은 A에서 C로 간다. B는 점선 원으로 표시되어 있으며 경로 하나에만 등장한다.</desc>
+    <g class="trajectory-lines"><path d="M170 48 H490 M170 120 H490 M170 192 H490"/></g>
+    <g class="trajectory-nodes"><circle cx="170" cy="48" r="23"/><circle cx="490" cy="48" r="23"/><circle cx="170" cy="120" r="23"/><circle cx="490" cy="120" r="23"/><circle cx="170" cy="192" r="23"/><circle cx="490" cy="192" r="23"/></g>
+    <circle class="trajectory-rare" cx="330" cy="48" r="26"/>
+    <g class="trajectory-labels"><text x="22" y="54">경로 1</text><text x="22" y="126">경로 2</text><text x="22" y="198">경로 3</text></g>
+    <g class="trajectory-letters"><text x="170" y="54">A</text><text x="330" y="54">B</text><text x="490" y="54">C</text><text x="170" y="126">A</text><text x="490" y="126">C</text><text x="170" y="198">A</text><text x="490" y="198">C</text></g>
+    <g class="trajectory-arrows"><path d="m270 43 7 5-7 5 m150-10 7 5-7 5 M323 115 l7 5-7 5 M323 187 l7 5-7 5"/></g>
+  </svg>
+  <div class="trajectory-options">
+    <section><span class="eyebrow">01 / Expansion</span><h4>다른 경로에 추가</h4><p class="trajectory-sequence">A → <ins>B</ins> → C</p><p>경로 2에도 B를 넣으면<br>B를 포함한 경로는 <strong>2개</strong>.</p></section>
+    <section><span class="eyebrow">02 / Suppression</span><h4>기존 경로에서 억제</h4><p class="trajectory-sequence">A → <del>B</del> → C</p><p>경로 1에서 B를 빼면<br>B를 포함한 경로는 <strong>0개</strong>.</p></section>
+  </div>
+  <p class="trajectory-recheck"><span aria-hidden="true">↓</span> 어느 쪽이든 변경한 경로에서 위반 시퀀스를 다시 검사한다.</p>
+  <figcaption id="trajectory-caption">추가와 억제를 비교하는 설명용 도식. 두 선택지는 각각 원본에 적용하며, 실제 이동·측정 데이터가 아닙니다.</figcaption>
+</figure>

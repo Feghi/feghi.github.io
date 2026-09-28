@@ -85,6 +85,12 @@ fixture_site(true) do |output|
   %w[Title Author Rating Genre Medium Finished].each { |field| assert(post.include?("<dt>#{field}</dt>"), "Missing metadata field #{field}") }
   assert(post.include?('4.5 / 5') && post.include?('2024-02-29'), 'Post metadata values must render')
   assert(stat_values(html(output, ''))['Books'] == '7', 'Homepage and Books must count the same public items')
+  home = html(output, '')
+  shelf = home[/<section class="home-shelf" aria-labelledby="shelf-book">(.*?)<\/section>/m, 1]
+  assert(shelf.scan(/<li><a /).size == 3, 'Homepage must limit each content shelf to three entries')
+  assert(!shelf.include?('/private_notes/') && !shelf.include?('/notes/untyped'), 'Homepage must respect collection visibility')
+  assert(shelf.include?('href="/preview/'), 'Homepage shelf links must respect baseurl')
+  assert(!home.include?('class="home-monthly"'), 'Do not render a monthly feature without a published monthly post')
 end
 
 fixture_site(false) do |output|
@@ -92,5 +98,6 @@ fixture_site(false) do |output|
   stats = stat_values(books)
   assert(stats['Total books'] == '0' && stats['Average rating'] == '—', 'Empty stats must avoid division by zero')
   assert(books.include?('아직 기록이 없습니다.') && books.include?('아직 기록된 별점이 없습니다.'), 'Empty archive and rating states must render')
+  assert(html(output, '').scan('아직 공개된 기록이 없습니다.').size == 3, 'Empty home shelves must explain their state')
 end
 puts 'PASS: classification, collections, missing/zero/decimal/invalid ratings, year fallback, metadata escaping, baseurl, counts and empty states.'

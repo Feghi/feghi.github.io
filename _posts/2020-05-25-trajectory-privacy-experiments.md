@@ -16,15 +16,6 @@ parent_label: Research
 source_url: https://github.com/Feghi/k-anonymity_mondrian
 source_label: GitHub repository
 flow: [준식별자·경로 벡터, 분할·LFP-Tree 구성, 위반 시퀀스 탐색, 추가 또는 억제로 갱신]
-visual:
-  title: 익명화 단계별 위반 패턴 예시
-  unit: synthetic MVS index
-  caption: 실제 논문 결과가 아닌 가상 지수입니다. 위반 시퀀스를 찾고 추가·억제를 반복하는 실험 구조를 설명합니다.
-  items:
-    - { label: 원본 경로, value: 88, display: "88" }
-    - { label: MVS 탐색, value: 66, display: "66" }
-    - { label: 1차 갱신, value: 34, display: "34" }
-    - { label: 재검사, value: 14, display: "14" }
 permalink: /research/trajectory-privacy-experiments/
 ---
 ## 출발점: 다차원 k-익명성
@@ -34,6 +25,10 @@ permalink: /research/trajectory-privacy-experiments/
 ## 후속 실험: 경로에 무엇을 더하고 뺄 것인가
 
 후속 코드는 표의 한 행이 아니라 순서가 있는 이동 경로를 다룬다. 벡터화된 궤적에서 빈도가 임계값보다 낮아 익명성을 깨뜨리는 최소 위반 시퀀스(MVS)를 찾기 위해 LFP-Tree를 구성한다. `Expansion.py`는 위반 패턴을 완화하도록 경로 항목을 추가하고, `Suppression.py`는 문제 항목을 억제한다. 갱신 전후 트리의 크기와 수행시간, 지역·전역 변경량을 보고서로 남기도록 구현돼 있다.
+
+{% include trajectory-explainer.html %}
+
+이 그림에서는 `k=2`로 놓고, B가 들어 있는 경로가 하나뿐인 상황을 생각한다. 다른 경로에 B를 추가하거나 기존 경로에서 B를 억제하면 이 드문 항목의 등장 횟수를 바꿀 수 있다. 실제 연구에서는 한 항목뿐 아니라 순서가 있는 부분 시퀀스를 살피므로, 한 번 수정한 뒤에도 위반 패턴이 남아 있는지 다시 검사해야 한다. 그림은 두 연산의 차이를 설명하는 가상 예시이며 실제 코드의 실행 결과나 익명성 보장에 대한 증명은 아니다.
 
 이 저장소는 2020년 Information Sciences 논문 「Effective privacy preserving data publishing by vectorization」의 그대로인 구현이 아니라, 해당 연구 이후 진행한 후속 실험이다. 관련 결과는 컨퍼런스에서 발표했으며, 경로 벡터에 노이즈를 더해 프라이버시와 활용 가능성의 균형을 탐색하는 연구 계보에 속한다.
 

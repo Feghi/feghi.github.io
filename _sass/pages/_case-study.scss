@@ -116,6 +116,29 @@
 .case-gallery img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: .7rem; }
 .case-gallery figcaption { grid-column: 1 / -1; color: var(--muted); font-size: .74rem; line-height: 1.7; }
 
+.case-study:has(.trajectory-explainer) .case-body > p { font-size: 16px; }
+.case-study:has(.trajectory-explainer) .case-body > h2 { font-size: 26px; }
+.trajectory-explainer { margin: 32px 0; padding: 24px; border: 1px solid var(--line); background: var(--surface-subtle); }
+.case-body .trajectory-explainer h3 { margin: 8px 0; font-size: 22px; }
+.case-body .trajectory-explainer p { margin: 8px 0; font-size: 14px; }
+.case-body .trajectory-explainer .eyebrow { font-size: 10px; }
+.trajectory-explainer svg { display: block; width: 100%; height: auto; margin: 16px 0; }
+.trajectory-lines { fill: none; stroke: var(--muted); stroke-width: 2; }
+.trajectory-nodes { fill: var(--canvas); stroke: var(--line); stroke-width: 2; }
+.trajectory-rare { fill: var(--canvas); stroke: var(--ink); stroke-width: 2; stroke-dasharray: 5 4; }
+.trajectory-labels { fill: var(--muted); font: 17px var(--font-body); }
+.trajectory-letters { fill: var(--ink); text-anchor: middle; font: 18px var(--font-mono); }
+.trajectory-arrows { fill: none; stroke: var(--muted); stroke-width: 2; }
+.trajectory-options { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.trajectory-options section { padding-top: 20px; border-top: 1px solid var(--line); }
+.trajectory-options h4 { font-size: 16px; margin: 10px 0; }
+.case-body .trajectory-explainer .trajectory-sequence { font: 20px/1.8 var(--font-mono); }
+.trajectory-sequence ins { color: var(--ink); text-decoration-style: double; text-underline-offset: 4px; }
+.trajectory-sequence del { color: var(--muted); }
+.trajectory-recheck { border-top: 1px solid var(--line); padding-top: 18px; }
+.trajectory-recheck span { display: block; font-size: 24px; }
+.trajectory-explainer figcaption { margin-top: 16px; font-size: 12px; color: var(--muted); line-height: 1.8; }
+
 @media (max-width: 720px) {
   .case-facts { grid-template-columns: 1fr; }
   .case-facts div + div { border-top: 1px solid var(--case-line); }
@@ -127,6 +150,10 @@
 }
 
 @media (max-width: 430px) {
+  .trajectory-explainer { padding: 16px; }
+  .trajectory-options { grid-template-columns: 1fr; gap: 16px; }
+  .trajectory-labels { font-size: 24px; }
+  .trajectory-letters { font-size: 26px; }
   .case-flow ol { grid-template-columns: 1fr; }
   .case-flow li { min-height: auto; }
   .case-flow li span { margin-bottom: .65rem; }

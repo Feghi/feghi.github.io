@@ -2,17 +2,17 @@ $('document').ready(function () {
     generatePagi();
 
     $('#group-list li').click(function (e) {
-        var show = $(this).data('show');
+        var show = $(this).attr('data-show');
 
         $('.showcase:visible')
             .removeClass('current')
             .addClass('hide');
-        $('.showcase').filter('[data-show=' + show + ']')
+        $('.showcase').filter(function () { return $(this).attr('data-show') === show; })
             .removeClass('hide')
             .addClass('current');
 
         $('#group-list li.current').removeClass('current');
-        $('#group-list li[data-show=' + show + ']').addClass('current');
+        $('#group-list li').filter(function () { return $(this).attr('data-show') === show; }).addClass('current');
 
         generatePagi();
 
@@ -40,7 +40,7 @@ $('document').ready(function () {
     if (hash) {
         var cleanHash = hash.substring(1);
         // Find the tab with this data-show attribute
-        var $targetTab = $('#group-list li[data-show="' + cleanHash + '"]');
+        var $targetTab = $('#group-list li').filter(function () { return $(this).attr('data-show') === cleanHash; });
         if ($targetTab.length > 0) {
             $targetTab.click();
         }
