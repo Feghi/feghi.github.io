@@ -2,7 +2,7 @@
 layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
-title: "오전간식  먹고,  오늘은  "귤" 오감놀이 해보았습니다."
+title: '오전간식  먹고,  오늘은  "귤" 오감놀이 해보았습니다.'
 date: 2024-12-11
 ---
 

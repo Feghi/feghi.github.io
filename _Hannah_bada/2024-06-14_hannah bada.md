@@ -2,7 +2,7 @@
 layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
-title: "등원해서 오선간식 잘먹고, 오늘은 "결혼식 놀이" 했습니다."
+title: '등원해서 오선간식 잘먹고, 오늘은 "결혼식 놀이" 했습니다.'
 date: 2024-06-14
 ---
 

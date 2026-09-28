@@ -2,7 +2,7 @@
 layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
-title: "오전간식 잘 먹고 오늘은 추석 맞이 "민속놀이" 했습니다."
+title: '오전간식 잘 먹고 오늘은 추석 맞이 "민속놀이" 했습니다.'
 date: 2024-09-12
 ---
 

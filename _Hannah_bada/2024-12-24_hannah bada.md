@@ -2,7 +2,7 @@
 layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
-title: "오늘은 "케이크 꾸미기" 했습니다."
+title: '오늘은 "케이크 꾸미기" 했습니다.'
 date: 2024-12-24
 ---
 

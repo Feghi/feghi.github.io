@@ -2,7 +2,7 @@
 layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
-title: "해나랑 "즐거운 크리스마스"를 보내셨는지요?"
+title: '해나랑 "즐거운 크리스마스"를 보내셨는지요?'
 date: 2024-12-26
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 category: hannah_bada
 tags: [이해나, 어린이집, 알림장]
-title: "오전간식 죽 다 먹고, 오늘은 "가을나무 꾸미기"를 했습니다."
+title: '오전간식 죽 다 먹고, 오늘은 "가을나무 꾸미기"를 했습니다.'
 date: 2024-10-31
 ---
 
